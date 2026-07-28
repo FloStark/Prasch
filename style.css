@@ -991,6 +991,7 @@ nav {
 }
 
 .contact-label {
+    display: block;
     font-size: 0.78rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
@@ -1228,6 +1229,7 @@ nav {
 }
 
 .contact-value {
+    display: block;
     font-size: 1.1rem;
     color: var(--black);
     font-weight: 500;
@@ -1770,6 +1772,12 @@ footer::before {
 
     .dropdown-toggle {
         justify-content: space-between;
+        text-align: center;
+    }
+
+    .nav-links.open .dropdown-toggle {
+        justify-content: center;
+        gap: 0.45rem;
     }
 
     .dropdown-menu {
@@ -1832,6 +1840,12 @@ footer::before {
     .dropdown-toggle {
         width: 100%;
         justify-content: space-between;
+        text-align: center;
+    }
+
+    .nav-links.open .dropdown-toggle {
+        justify-content: center;
+        gap: 0.45rem;
     }
 
     .dropdown-menu {

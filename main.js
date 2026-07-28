@@ -61,7 +61,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const navLinksArr = document.getElementById('navLinks');
     if (toggle && navLinksArr) {
         toggle.addEventListener('click', () => {
-            navLinksArr.classList.toggle('open');
+            const isOpen = navLinksArr.classList.toggle('open');
+            toggle.setAttribute('aria-expanded', String(isOpen));
+            toggle.setAttribute('aria-label', isOpen ? 'Menü schließen' : 'Menü öffnen');
         });
     }
 

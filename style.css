@@ -287,7 +287,7 @@ nav {
 
 .dropdown-menu {
     position: absolute;
-    top: calc(100% + 0.75rem);
+    top: 100%;
     left: 50%;
     min-width: 250px;
     padding: 0.65rem;
@@ -549,38 +549,6 @@ nav {
     gap: 1rem;
     flex-wrap: wrap;
     margin-bottom: 3rem;
-}
-
-.hero-trust {
-    display: flex;
-    gap: 2.5rem;
-    padding: 1.5rem 2rem;
-    border-top: none;
-    background: var(--glass-bg);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
-    box-shadow: var(--shadow-sm);
-}
-
-.trust-item {
-    text-align: left;
-}
-
-.trust-number {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: var(--black);
-    display: block;
-}
-
-.trust-label {
-    font-size: 0.82rem;
-    color: var(--warm-gray);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
 }
 
 .hero-visual {
@@ -1887,7 +1855,6 @@ footer::before {
     }
 
     .hero { padding-top: 100px; min-height: auto; padding-bottom: 4rem; }
-    .hero-trust { flex-wrap: wrap; gap: 1.5rem; }
     .services-grid { grid-template-columns: 1fr; }
     .colors-grid { grid-template-columns: 1fr 1fr; }
     .cross-sell-highlight { min-width: unset; }
@@ -2363,13 +2330,6 @@ header.visible .container {
     color: #4f4f4f;
 }
 
-.hero-trust {
-    max-width: 620px;
-    justify-content: space-between;
-    border-color: rgba(255,255,255,0.8);
-    box-shadow: 0 18px 50px rgba(26,26,26,0.08);
-}
-
 .hero-photo-card {
     isolation: isolate;
     transform: rotate(1.5deg);
@@ -2627,12 +2587,6 @@ header.visible .container {
 
     .hero h1 {
         font-size: clamp(3.25rem, 16vw, 5rem);
-    }
-
-    .hero-trust {
-        display: grid;
-        grid-template-columns: 1fr;
-        padding: 1.2rem;
     }
 
     .hero-photo-card {

@@ -67,6 +67,31 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // ===== Dropdown Navigation =====
+    document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
+        const button = dropdown.querySelector('.dropdown-toggle');
+        const menuLinks = dropdown.querySelectorAll('.dropdown-menu a');
+
+        if (!button) return;
+
+        button.addEventListener('click', () => {
+            const isOpen = dropdown.classList.toggle('open');
+            button.setAttribute('aria-expanded', String(isOpen));
+        });
+
+        menuLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                dropdown.classList.remove('open');
+                button.setAttribute('aria-expanded', 'false');
+                if (navLinksArr) navLinksArr.classList.remove('open');
+                if (toggle) {
+                    toggle.setAttribute('aria-expanded', 'false');
+                    toggle.setAttribute('aria-label', 'Menü öffnen');
+                }
+            });
+        });
+    });
+
     // ===== Sticky CTA Visibility =====
     const stickyCta = document.querySelector('.sticky-cta');
     if (stickyCta) {

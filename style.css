@@ -1168,6 +1168,13 @@ nav {
     transition: clip-path 0.6s ease, width 0.6s ease; /* Specific transitions */
     cursor: pointer;
     overflow: hidden;
+    color: var(--white);
+    text-decoration: none;
+}
+
+.split:focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: -8px;
 }
 
 .split.left {

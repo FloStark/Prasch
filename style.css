@@ -2919,6 +2919,21 @@ header.visible .container {
     .reference-card {
         min-height: 320px;
     }
+
+    .references-section.reveal,
+    .references-section .reveal-stagger > *,
+    .references-section .references-grid > * {
+        opacity: 1 !important;
+        transform: none !important;
+        transition: none !important;
+    }
+
+    .references-section .reference-card img,
+    .references-section .reference-card video {
+        opacity: 1;
+        visibility: visible;
+    }
+
     .split-content {
         padding: 1.4rem;
         max-width: min(88vw, 420px);

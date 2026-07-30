@@ -1,5 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+    // ===== Dynamic Current Year =====
+    document.querySelectorAll('[data-current-year]').forEach(el => {
+        el.textContent = new Date().getFullYear();
+    });
+
     // ===== Scroll Reveal (IntersectionObserver) =====
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {

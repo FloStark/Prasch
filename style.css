@@ -1543,6 +1543,25 @@ footer::before {
 
 .footer-bottom a:hover { color: var(--white); }
 
+.footer-credit {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.footer-credit a {
+    color: rgba(255,255,255,0.32);
+    text-decoration: none;
+    transition: var(--transition-fast);
+}
+
+.footer-credit a:hover,
+.footer-credit a:focus-visible {
+    color: rgba(255,255,255,0.62);
+}
+
 /* ========================================
    ANIMATIONS
    ======================================== */

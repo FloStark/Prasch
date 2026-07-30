@@ -889,9 +889,17 @@ nav {
     aspect-ratio: 4 / 3;
 }
 
-.reference-feature-image img,
+.reference-feature-image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+
 .reference-card img,
 .reference-card video {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     display: block;

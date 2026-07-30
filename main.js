@@ -67,6 +67,40 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // ===== About Image Slideshow =====
+    const aboutSlider = document.querySelector('[data-about-slider]');
+    if (aboutSlider) {
+        const slides = Array.from(aboutSlider.querySelectorAll('.about-slide'));
+        const nextButton = aboutSlider.querySelector('.about-slider-next');
+        const progressBar = aboutSlider.querySelector('.about-slider-progress span');
+        const slideDelay = 5500;
+        let activeSlide = 0;
+        let slideTimer;
+
+        function restartAboutProgress() {
+            if (!progressBar) return;
+            progressBar.style.animation = 'none';
+            void progressBar.offsetWidth;
+            progressBar.style.animation = `aboutSlideProgress ${slideDelay}ms linear forwards`;
+        }
+
+        function showAboutSlide(index) {
+            if (!slides.length) return;
+            slides[activeSlide].classList.remove('active');
+            activeSlide = (index + slides.length) % slides.length;
+            slides[activeSlide].classList.add('active');
+            clearTimeout(slideTimer);
+            restartAboutProgress();
+            slideTimer = setTimeout(() => showAboutSlide(activeSlide + 1), slideDelay);
+        }
+
+        if (slides.length > 1) {
+            nextButton?.addEventListener('click', () => showAboutSlide(activeSlide + 1));
+            restartAboutProgress();
+            slideTimer = setTimeout(() => showAboutSlide(activeSlide + 1), slideDelay);
+        }
+    }
+
     // ===== Dropdown Navigation =====
     document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
         const button = dropdown.querySelector('.dropdown-toggle');
@@ -75,6 +109,13 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!button) return;
 
         button.addEventListener('click', () => {
+            document.querySelectorAll('.nav-dropdown.open').forEach(openDropdown => {
+                if (openDropdown === dropdown) return;
+                openDropdown.classList.remove('open');
+                const openButton = openDropdown.querySelector('.dropdown-toggle');
+                if (openButton) openButton.setAttribute('aria-expanded', 'false');
+            });
+
             const isOpen = dropdown.classList.toggle('open');
             button.setAttribute('aria-expanded', String(isOpen));
         });

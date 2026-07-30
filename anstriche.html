@@ -21,13 +21,13 @@
     <meta property="og:url" content="https://malerbetrieb-prasch.at/anstriche.html">
     <meta property="og:title" content="Lackierarbeiten & Anstriche Graz | Malerbetrieb Prasch">
     <meta property="og:description" content="Professionelle Lackierarbeiten und Anstriche in Graz. Fenster, Türen und Holzelemente.">
-    <meta property="og:image" content="https://malerbetrieb-prasch.at/Assets/image/Logo.jpg">
+    <meta property="og:image" content="https://malerbetrieb-prasch.at/images/Fenster_Restaurierung_Nachher.jpg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Lackierarbeiten & Anstriche Graz | Malerbetrieb Prasch">
     <meta name="twitter:description" content="Professionelle Lackierarbeiten und Anstriche in Graz. Fenster, Türen und Holzelemente.">
-    <meta name="twitter:image" content="https://malerbetrieb-prasch.at/Assets/image/Logo.jpg">
+    <meta name="twitter:image" content="https://malerbetrieb-prasch.at/images/Fenster_Restaurierung_Nachher.jpg">
 
-    <link rel="icon" type="image/jpeg" href="Assets/image/Logo.jpg">
+    <link rel="icon" type="image/png" href="Assets/image/logo.png">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
@@ -74,19 +74,26 @@
         <div class="container">
             <nav>
                 <a href="/" aria-label="Startseite">
-                    <img src="Assets/image/Logo.jpg" alt="Malerbetrieb Prasch Logo" class="logo-img" width="140" height="46">
+                    <img src="Assets/image/logo.png" alt="Malerbetrieb Prasch Logo" class="logo-img" width="140" height="46">
                 </a>
 
                 <ul class="nav-links" id="navLinks">
                     <li><a href="/">Home</a></li>
-                    <li><a href="fassadengestaltung.html">Fassaden</a></li>
-                    <li><a href="innenmalerei.html">Innenmalerei</a></li>
-                    <li><a href="anstriche.html" aria-current="page">Anstriche</a></li>
+                    <li class="nav-dropdown">
+                        <button type="button" class="dropdown-toggle current" aria-expanded="false">Leistungen <i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+                        <ul class="dropdown-menu">
+                            <li><a href="fassadengestaltung.html">Fassaden <small>Fassadensanierung & Gestaltung</small></a></li>
+                            <li><a href="innenmalerei.html">Innenmalerei <small>Wandgestaltung & Räume</small></a></li>
+                            <li><a href="anstriche.html" aria-current="page">Anstriche <small>Holz, Metall, Türen & Fenster</small></a></li>
+                        </ul>
+                    </li>
+                    <li><a href="referenzen.html">Referenzen</a></li>
+                    <li><a href="nachhaltigkeit.html">Nachhaltigkeit</a></li>
                     <li class="nav-dropdown">
                         <button type="button" class="dropdown-toggle" aria-expanded="false">Standorte <i class="fas fa-chevron-down" aria-hidden="true"></i></button>
                         <ul class="dropdown-menu">
                             <li><a href="standort-graz.html">Standort Graz <small>Schörgelgasse 7, 8010 Graz</small></a></li>
-                            <li><a href="standort-straden.html">Standort Straden <small>Malerarbeiten in der Südoststeiermark</small></a></li>
+                            <li><a href="standort-studenzen.html">Standort Studenzen <small>Malerarbeiten in der Südoststeiermark</small></a></li>
                         </ul>
                     </li>
                     <li><a href="farben-kaufen.html">Farben-Shop</a></li>
@@ -127,11 +134,7 @@
             <div class="about-grid">
                 <div class="hero-visual reveal">
                     <div class="hero-image-placeholder">
-                        <div class="paint-strokes"></div>
-                        <div class="placeholder-text">
-                            <i class="fas fa-door-open" aria-hidden="true"></i>
-                            <span>Sanierung: Türen & Fenster</span>
-                        </div>
+                        <img src="images/Fenster_Restaurierung_Nachher.jpg" alt="Restauriertes Fenster nach professionellem Anstrich" width="1200" height="1600" loading="lazy">
                     </div>
                 </div>
                 <div class="about-content reveal">
@@ -150,6 +153,79 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <section class="container reveal">
+            <div class="section-header" style="text-align: left; margin-bottom: 2rem;">
+                <span class="section-label">Vorher & Nachher</span>
+                <h2>Fensterrestaurierung mit langlebigem Schutz</h2>
+                <p>Alte Fenster müssen nicht sofort ersetzt werden. Mit sorgfältigem Schleifen, Grundieren und Lackieren erhalten Holzfenster wieder Schutz, Glanz und eine saubere Oberfläche.</p>
+            </div>
+
+            <div class="references-grid reveal-stagger">
+                <article class="reference-card">
+                    <img src="images/Fenster_Restaurierung_Vorher.jpg" alt="Fenster vor der Restaurierung und Lackierung" width="1200" height="1600" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Vorher</span>
+                        <h3>Abgenutztes Holzfenster vor der Sanierung</h3>
+                    </div>
+                </article>
+                <article class="reference-card">
+                    <img src="images/Fenster_Restaurierung_Nachher.jpg" alt="Fenster nach der Restaurierung und Lackierung" width="1200" height="1600" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Nachher</span>
+                        <h3>Restauriertes Fenster mit frischem Lack</h3>
+                    </div>
+                </article>
+                <article class="reference-card">
+                    <img src="images/Fenster2.jpg" alt="Fensteranstrich und Restaurierung Detailansicht" width="1536" height="2048" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Fenster</span>
+                        <h3>Detailarbeit an Holzfenstern</h3>
+                    </div>
+                </article>
+                <article class="reference-card">
+                    <img src="images/Fenster3.jpg" alt="Restauriertes Fenster mit sauberer Lackierung" width="1536" height="2048" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Lackierung</span>
+                        <h3>Saubere Oberfläche und neuer Schutz</h3>
+                    </div>
+                </article>
+                <article class="reference-card">
+                    <img src="images/TuerenAnstrich.jpg" alt="Tür nach professionellem Anstrich" width="1600" height="1200" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Türen</span>
+                        <h3>Sauberer Anstrich für Türen</h3>
+                    </div>
+                </article>
+                <article class="reference-card">
+                    <img src="images/Metallanstrich.jpg" alt="Metalloberfläche mit frischem Schutzanstrich" width="720" height="960" loading="lazy">
+                    <div class="reference-card-content">
+                        <span>Metall</span>
+                        <h3>Schutzanstrich für Metalloberflächen</h3>
+                    </div>
+                </article>
+                <article class="reference-card reference-card-wide">
+                    <video autoplay loop muted playsinline preload="auto" aria-label="Türanstrich in der Ausführung">
+                        <source src="images/TuerenAnstrich1.mp4" type="video/mp4">
+                        Ihr Browser unterstützt dieses Video nicht.
+                    </video>
+                    <div class="reference-card-content">
+                        <span>Video</span>
+                        <h3>Türanstrich in der Ausführung</h3>
+                    </div>
+                </article>
+                <article class="reference-card reference-card-wide">
+                    <video autoplay loop muted playsinline preload="auto" aria-label="Spritzlackierung bei Anstricharbeiten">
+                        <source src="images/AnstrichSpritz.mp4" type="video/mp4">
+                        Ihr Browser unterstützt dieses Video nicht.
+                    </video>
+                    <div class="reference-card-content">
+                        <span>Video</span>
+                        <h3>Spritzlackierung für gleichmäßige Oberflächen</h3>
+                    </div>
+                </article>
             </div>
         </section>
 
@@ -204,7 +280,7 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-brand">
-                    <img src="Assets/image/Logo.jpg" alt="Malerbetrieb Prasch" class="footer-logo" width="140" height="46">
+                    <img src="Assets/image/logo.png" alt="Malerbetrieb Prasch" class="footer-logo" width="140" height="46">
                     <p>Ihr Malerbetrieb in Graz – für Fassaden, Innenräume und alles, was Farbe braucht. Persönlich, zuverlässig und mit Liebe zum Detail.</p>
                 </div>
 
@@ -214,9 +290,11 @@
                         <li><a href="fassadengestaltung.html">Fassadengestaltung</a></li>
                         <li><a href="innenmalerei.html">Innenmalerei</a></li>
                         <li><a href="anstriche.html">Anstriche & Lacke</a></li>
+                        <li><a href="referenzen.html">Referenzen</a></li>
+                        <li><a href="nachhaltigkeit.html">Nachhaltigkeit</a></li>
                         <li><a href="farben-kaufen.html">Farben-Shop</a></li>
                         <li><a href="standort-graz.html">Standort Graz</a></li>
-                        <li><a href="standort-straden.html">Standort Straden</a></li>
+                        <li><a href="standort-studenzen.html">Standort Studenzen</a></li>
                     </ul>
                 </div>
 
@@ -224,7 +302,7 @@
                     <h4 id="footer-contact-title">Kontakt</h4>
                     <ul aria-labelledby="footer-contact-title">
                         <li><a href="tel:06641186505">0664 1186505</a></li>
-                        <li><a href="mailto:malerbetrieb.prasch@gmail.com">E-Mail schreiben</a></li>
+                        <li><a href="mailto:office@farben-prasch.at">E-Mail schreiben</a></li>
                         <li><a href="https://www.google.com/maps/search/?api=1&query=Schörgelgasse+7+8010+Graz" target="_blank" rel="noopener" aria-label="Wegbeschreibung auf Google Maps aufrufen">Schörgelgasse 7, Graz</a></li>
                     </ul>
                 </div>

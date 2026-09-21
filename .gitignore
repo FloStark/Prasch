@@ -27,3 +27,6 @@ __pycache__/
 # Build/Dist (if applicable)
 dist/
 build/
+.next/
+public/admin/
+tina/__generated__/

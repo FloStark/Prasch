@@ -1,0 +1,219 @@
+{
+  "slug": "fassadengestaltung",
+  "title": "Fassadensanierung & Gestaltung Graz | Malerbetrieb Prasch",
+  "description": "Professionelle Fassadensanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung und werten es optisch auf. Jetzt meisterhaftes Angebot einholen!",
+  "keywords": "Fassaden Graz, Fassadensanierung Graz, Putzarbeiten Graz, Außenanstrich Graz, Maler Graz, Gebäudeerneuerung Graz",
+  "robots": "index, follow",
+  "canonical": "https://malerbetrieb-prasch.at/fassadengestaltung.html",
+  "ogTitle": "Fassadengestaltung & Sanierung Graz | Malerbetrieb Prasch",
+  "ogDescription": "Professionelle Fassaden Sanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung.",
+  "ogImage": "https://malerbetrieb-prasch.at/images/Fassade.jpg",
+  "bodyHtml": "<a href=\"#main-content\" class=\"skip-link\">Zum Inhalt springen</a>\n\n    <!-- ===== HEADER ===== -->\n    <header id=\"header\">\n        <div class=\"container\">\n            <nav>\n                <a href=\"/\" aria-label=\"Startseite\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch Logo\" class=\"logo-img\" width=\"140\" height=\"46\">\n                </a>\n\n                <ul class=\"nav-links\" id=\"navLinks\">\n                    <li><a href=\"/\">Home</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle current\" aria-expanded=\"false\">Leistungen <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"fassadengestaltung.html\" aria-current=\"page\">Fassaden <small>Fassadensanierung & Gestaltung</small></a></li>\n                            <li><a href=\"innenmalerei.html\">Innenmalerei <small>Wandgestaltung & Räume</small></a></li>\n                            <li><a href=\"anstriche.html\">Anstriche <small>Holz, Metall, Türen & Fenster</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"referenzen.html\">Referenzen</a></li>\n                    <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle\" aria-expanded=\"false\">Standorte <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"standort-graz.html\">Standort Graz <small>Schörgelgasse 7, 8010 Graz</small></a></li>\n                            <li><a href=\"standort-studenzen.html\">Standort Studenzen <small>Malerarbeiten in der Südoststeiermark</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                    <li><a href=\"/#contact\">Kontakt</a></li>\n                </ul>\n\n                <a href=\"tel:06641186505\" class=\"btn btn-primary nav-cta\">\n                    <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Jetzt anrufen\n                </a>\n\n                <button class=\"mobile-toggle\" id=\"mobileToggle\" aria-label=\"Menü öffnen\" aria-expanded=\"false\">\n                    <span></span><span></span><span></span>\n                </button>\n            </nav>\n        </div>\n    </header>\n\n    <main id=\"main-content\">\n        <!-- Breadcrumbs -->\n        <nav class=\"breadcrumb-nav container\" aria-label=\"Breadcrumb\">\n            <ol>\n                <li><a href=\"/\">Home</a></li>\n                <li aria-current=\"page\">Fassadengestaltung</li>\n            </ol>\n        </nav>\n        <div class=\"page-hero\">\n            <div class=\"container\">\n                <div class=\"section-header reveal\">\n                    <span class=\"section-label\">Gebäudeschutz & Ästhetik</span>\n                    <h1>Fassadengestaltung in Graz</h1>\n                    <p class=\"section-desc\">Eine Fassade ist mehr als nur die Visitenkarte Ihres Hauses. Sie ist die schützende Hülle, die Wind und Wetter standhalten muss. Als erfahrener Malermeisterbetrieb in Graz sorgen wir für langlebige und ästhetische Lösungen.</p>\n                </div>\n            </div>\n        </div>\n\n        <section class=\"container\">\n            <div class=\"about-grid\">\n                <div class=\"hero-visual reveal\">\n                    <div class=\"hero-image-placeholder\">\n                        <img src=\"/images/Fassade.jpg\" alt=\"Fassadengestaltung vom Malerbetrieb Prasch\" width=\"1600\" height=\"1200\" loading=\"lazy\">\n                    </div>\n                </div>\n                <div class=\"about-content reveal\">\n                    <h2>Warum eine professionelle Sanierung wichtig ist</h2>\n                    <p class=\"about-text\">Kleine Risse im Putz oder abblätternde Farbe sind oft Vorboten größerer Schäden. Feuchtigkeit kann in die Bausubstanz eindringen und die Dämmwirkung beeinträchtigen oder gar Schimmel verursachen.</p>\n                    <p class=\"about-text\">Wir analysieren den Untergrund genau und wählen das passende System – von der klassischen Kalkfarbe bis hin zu modernen, selbstreinigenden Silikonharzfarben (Lotus-Effekt).</p>\n                    \n                    <div class=\"about-values\">\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-shield-halved\" aria-hidden=\"true\"></i>\n                            <div><strong>Witterungsschutz</strong><span>Langfristiger Schutz gegen Regen und UV-Strahlung</span></div>\n                        </div>\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-leaf\" aria-hidden=\"true\"></i>\n                            <div><strong>Ökologische Farben</strong><span>Wir setzen auf nachhaltige, atmungsaktive Materialien</span></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal references-section\">\n            <div class=\"section-header\" style=\"text-align: left; margin-bottom: 2rem;\">\n                <span class=\"section-label\">Fassaden-Referenzen</span>\n                <h2>Ausgeführte Fassadenarbeiten</h2>\n                <p>Einblicke in Sanierung, Außenanstrich und Holzfassaden. Jede Fassade wird passend zum Untergrund, zur Witterung und zum gewünschten Erscheinungsbild behandelt.</p>\n            </div>\n\n            <div class=\"references-grid reveal-stagger\">\n                <article class=\"reference-card reference-card-wide\">\n                    <img src=\"/images/EFH_Vorher.jpg\" alt=\"Einfamilienhaus vor der Fassadensanierung\" width=\"1170\" height=\"619\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Vorher</span>\n                        <h3>Fassade vor der Sanierung</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/EFH_Nachher.jpg\" alt=\"Einfamilienhaus nach der Fassadensanierung\" width=\"1448\" height=\"1086\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Nachher</span>\n                        <h3>Frische Fassade mit sauberem Finish</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/Fassade2.jpg\" alt=\"Fassadenarbeit mit Gerüst und Außenanstrich\" width=\"1200\" height=\"1600\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Außenanstrich</span>\n                        <h3>Schutz gegen Witterung und UV-Strahlung</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/Fassade3.jpg\" alt=\"Fassadenarbeit an einem Gebäude\" width=\"1200\" height=\"1600\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Fassade</span>\n                        <h3>Saubere Ausführung bis ins Detail</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/Fassade4.jpg\" alt=\"Fassadenbeschichtung mit Gerüst\" width=\"1200\" height=\"1600\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Beschichtung</span>\n                        <h3>Langlebiger Schutz für Außenflächen</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/Fassade5.jpg\" alt=\"Fassadensanierung und Außenanstrich\" width=\"1200\" height=\"1600\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Sanierung</span>\n                        <h3>Frischer Anstrich für die Gebäudehülle</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/EFH_Holzfassade_Sanierung.jpg\" alt=\"Holzfassade während der Sanierung\" width=\"1600\" height=\"1200\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Holzfassade</span>\n                        <h3>Sanierung mit passender Schutzbeschichtung</h3>\n                    </div>\n                </article>\n                <article class=\"reference-card\">\n                    <img src=\"/images/EFH_Holzfassade_Sanierung_2.jpg\" alt=\"Sanierte Holzfassade an einem Einfamilienhaus\" width=\"1600\" height=\"1200\" loading=\"lazy\">\n                    <div class=\"reference-card-content\">\n                        <span>Holzschutz</span>\n                        <h3>Langlebiger Anstrich für Holzbauteile</h3>\n                    </div>\n                </article>\n            </div>\n        </section>\n\n        <!-- Testimonials -->\n        <section id=\"testimonials\" class=\"container reveal\">\n            <span class=\"section-label\">Was Kunden sagen</span>\n            <h2>Echte Erfahrungen</h2>\n            <div class=\"testimonials-grid reveal-stagger\">\n                <div class=\"testimonial-card\">\n                    <div class=\"testimonial-stars\">\n                        <i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i>\n                    </div>\n                    <p class=\"testimonial-text\">\"Herr Prasch und seine Mitarbeiter sind sehr freundlich und sehr kompetent! Alle Arbeiten wurden sauber und zu meiner höchsten Zufriedenheit durchgeführt! Dieser Malerbetrieb ist zu 100% weiter zu empfehlen!\"</p>\n                    <div class=\"testimonial-author\">\n                        <strong>Beate</strong>\n                        <span>Google Rezension</span>\n                    </div>\n                </div>\n                <div class=\"testimonial-card\">\n                    <div class=\"testimonial-stars\">\n                        <i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i>\n                    </div>\n                    <p class=\"testimonial-text\">\"Preis-Leistung stimmt, Arbeit wunderschön (Zusammenspiel Glaser-Tischler-Maler), gute Koordination und Terminverlässlichkeit, sehr freundliche und engagierte Mitarbeiter, sauberes Arbeiten; danke!\"</p>\n                    <div class=\"testimonial-author\">\n                        <strong>Astrid</strong>\n                        <span>Google Rezension</span>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <!-- Weitere Leistungen Cross-Links -->\n        <section class=\"container reveal\">\n            <span class=\"section-label\">Was wir noch bieten</span>\n            <h2>Weitere Leistungen</h2>\n            <div class=\"services-grid\">\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-palette\" aria-hidden=\"true\"></i></div>\n                    <h3>Kreative Innenmalerei</h3>\n                    <p>Exklusive Wandgestaltung und moderne Akzente für Ihre Wohnräume.</p>\n                    <a href=\"innenmalerei.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr erfahren →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-paint-roller\" aria-hidden=\"true\"></i></div>\n                    <h3>Anstriche & Lacke</h3>\n                    <p>Schutz und neuer Glanz für Fenster, Türen und Metalloberflächen.</p>\n                    <a href=\"anstriche.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr erfahren →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-shop\" aria-hidden=\"true\"></i></div>\n                    <h3>Farben-Shop</h3>\n                    <p>Profimaterialien und Farbmischservice direkt in Graz kaufen.</p>\n                    <a href=\"farben-kaufen.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Zum Shop →</a>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <!-- ===== FOOTER ===== -->\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-grid\">\n                <div class=\"footer-brand\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch\" class=\"footer-logo\" width=\"140\" height=\"46\">\n                    <p>Ihr Malerbetrieb in Graz – für Fassaden, Innenräume und alles, was Farbe braucht. Persönlich, zuverlässig und mit Liebe zum Detail.</p>\n                </div>\n\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-leistungs-title\">Leistung & Qualität</h4>\n                    <ul aria-labelledby=\"footer-leistungs-title\">\n                        <li><a href=\"fassadengestaltung.html\">Fassadengestaltung</a></li>\n                        <li><a href=\"innenmalerei.html\">Innenmalerei</a></li>\n                        <li><a href=\"anstriche.html\">Anstriche & Lacke</a></li>\n                        <li><a href=\"referenzen.html\">Referenzen</a></li>\n                        <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                        <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                        <li><a href=\"standort-graz.html\">Standort Graz</a></li>\n                        <li><a href=\"standort-studenzen.html\">Standort Studenzen</a></li>\n                    </ul>\n                </div>\n\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-contact-title\">Kontakt</h4>\n                    <ul aria-labelledby=\"footer-contact-title\">\n                        <li><a href=\"tel:06641186505\">0664 1186505</a></li>\n                        <li><a href=\"mailto:office@farben-prasch.at\">E-Mail schreiben</a></li>\n                        <li><a href=\"https://www.google.com/maps/search/?api=1&query=Schörgelgasse+7+8010+Graz\" target=\"_blank\" rel=\"noopener\" aria-label=\"Wegbeschreibung auf Google Maps aufrufen\">Schörgelgasse 7, Graz</a></li>\n                    </ul>\n                </div>\n            </div>\n\n            <div class=\"footer-bottom\">\n                <p>&copy; <span data-current-year>2026</span> Malerbetrieb Prasch. Alle Rechte vorbehalten.</p>\n                <nav aria-label=\"Rechtliches\">\n                    <p><a href=\"impressum.html\">Impressum</a> · <a href=\"datenschutz.html\">Datenschutz</a></p>\n                </nav>\n            </div>\n            <p class=\"footer-credit\"><a href=\"https://murix.at\" target=\"_blank\" rel=\"noopener\">Made by Murix.at</a></p>\n        </div>\n    </footer>\n\n    <div class=\"sticky-cta\">\n        <a href=\"tel:06641186505\" class=\"btn btn-primary\" aria-label=\"Jetzt anrufen\">\n            <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Anrufen\n        </a>\n    </div>\n\n    <!-- Cookie Banner -->\n    <div class=\"cookie-banner\" role=\"dialog\" aria-labelledby=\"cookie-title\" aria-describedby=\"cookie-desc\">\n        <div class=\"cookie-content\">\n            <h4 id=\"cookie-title\">Datenschutzeinstellungen</h4>\n            <p id=\"cookie-desc\">Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten. Durch Klicken auf \"Akzeptieren\" stimmen Sie der Verwendung von Cookies zu.</p>\n            <div class=\"cookie-actions\">\n                <button id=\"acceptCookies\" class=\"btn btn-primary\">Akzeptieren</button>\n                <a href=\"datenschutz.html\" class=\"btn btn-outline\" aria-label=\"Datenschutzerklärung ansehen\">Mehr erfahren</a>\n            </div>\n        </div>\n    </div>",
+  "schemaJson": [
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Fassadensanierung & Gestaltung\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://malerbetrieb-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Professionelle Fassadensanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung und werten es optisch auf.\"\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Fassadengestaltung\",\n        \"item\": \"https://malerbetrieb-prasch.at/fassadengestaltung.html\"\n      }]\n    }"
+  ],
+  "media": [
+    {
+      "originalSrc": "/Assets/image/logo.png",
+      "src": "/Assets/image/logo.png",
+      "alt": "Malerbetrieb Prasch Logo"
+    },
+    {
+      "originalSrc": "/images/Fassade.jpg",
+      "src": "/images/Fassade.jpg",
+      "alt": "Fassadengestaltung vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/EFH_Vorher.jpg",
+      "src": "/images/EFH_Vorher.jpg",
+      "alt": "Einfamilienhaus vor der Fassadensanierung"
+    },
+    {
+      "originalSrc": "/images/EFH_Nachher.jpg",
+      "src": "/images/EFH_Nachher.jpg",
+      "alt": "Einfamilienhaus nach der Fassadensanierung"
+    },
+    {
+      "originalSrc": "/images/Fassade2.jpg",
+      "src": "/images/Fassade2.jpg",
+      "alt": "Fassadenarbeit mit Gerüst und Außenanstrich"
+    },
+    {
+      "originalSrc": "/images/Fassade3.jpg",
+      "src": "/images/Fassade3.jpg",
+      "alt": "Fassadenarbeit an einem Gebäude"
+    },
+    {
+      "originalSrc": "/images/Fassade4.jpg",
+      "src": "/images/Fassade4.jpg",
+      "alt": "Fassadenbeschichtung mit Gerüst"
+    },
+    {
+      "originalSrc": "/images/Fassade5.jpg",
+      "src": "/images/Fassade5.jpg",
+      "alt": "Fassadensanierung und Außenanstrich"
+    },
+    {
+      "originalSrc": "/images/EFH_Holzfassade_Sanierung.jpg",
+      "src": "/images/EFH_Holzfassade_Sanierung.jpg",
+      "alt": "Holzfassade während der Sanierung"
+    },
+    {
+      "originalSrc": "/images/EFH_Holzfassade_Sanierung_2.jpg",
+      "src": "/images/EFH_Holzfassade_Sanierung_2.jpg",
+      "alt": "Sanierte Holzfassade an einem Einfamilienhaus"
+    }
+  ],
+  "sections": [
+    {
+      "_template": "pageHero",
+      "label": "Gebäudeschutz & Ästhetik",
+      "title": "Fassadengestaltung in Graz",
+      "description": "Eine Fassade ist mehr als nur die Visitenkarte Ihres Hauses. Sie ist die schützende Hülle, die Wind und Wetter standhalten muss. Als erfahrener Malermeisterbetrieb in Graz sorgen wir für langlebige und ästhetische Lösungen."
+    },
+    {
+      "_template": "feature",
+      "title": "Warum eine professionelle Sanierung wichtig ist",
+      "image": "/images/Fassade.jpg",
+      "imageAlt": "Fassadengestaltung vom Malerbetrieb Prasch",
+      "texts": [
+        {
+          "text": "Kleine Risse im Putz oder abblätternde Farbe sind oft Vorboten größerer Schäden. Feuchtigkeit kann in die Bausubstanz eindringen und die Dämmwirkung beeinträchtigen oder gar Schimmel verursachen."
+        },
+        {
+          "text": "Wir analysieren den Untergrund genau und wählen das passende System – von der klassischen Kalkfarbe bis hin zu modernen, selbstreinigenden Silikonharzfarben."
+        }
+      ],
+      "values": [
+        {
+          "icon": "fas fa-shield-halved",
+          "title": "Witterungsschutz",
+          "text": "Langfristiger Schutz gegen Regen und UV-Strahlung"
+        },
+        {
+          "icon": "fas fa-leaf",
+          "title": "Ökologische Farben",
+          "text": "Wir setzen auf nachhaltige, atmungsaktive Materialien"
+        }
+      ]
+    },
+    {
+      "_template": "gallery",
+      "label": "Fassaden-Referenzen",
+      "title": "Ausgeführte Fassadenarbeiten",
+      "description": "Einblicke in Sanierung, Außenanstrich und Holzfassaden. Jede Fassade wird passend zum Untergrund, zur Witterung und zum gewünschten Erscheinungsbild behandelt.",
+      "items": [
+        {
+          "src": "/images/EFH_Vorher.jpg",
+          "alt": "Einfamilienhaus vor der Fassadensanierung",
+          "tag": "Vorher",
+          "title": "Fassade vor der Sanierung",
+          "wide": true,
+          "video": false
+        },
+        {
+          "src": "/images/EFH_Nachher.jpg",
+          "alt": "Einfamilienhaus nach der Fassadensanierung",
+          "tag": "Nachher",
+          "title": "Frische Fassade mit sauberem Finish",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/Fassade2.jpg",
+          "alt": "Fassadenarbeit mit Gerüst und Außenanstrich",
+          "tag": "Außenanstrich",
+          "title": "Schutz gegen Witterung und UV-Strahlung",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/Fassade3.jpg",
+          "alt": "Fassadenarbeit an einem Gebäude",
+          "tag": "Fassade",
+          "title": "Saubere Ausführung bis ins Detail",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/Fassade4.jpg",
+          "alt": "Fassadenbeschichtung mit Gerüst",
+          "tag": "Beschichtung",
+          "title": "Langlebiger Schutz für Außenflächen",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/Fassade5.jpg",
+          "alt": "Fassadensanierung und Außenanstrich",
+          "tag": "Sanierung",
+          "title": "Frischer Anstrich für die Gebäudehülle",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/EFH_Holzfassade_Sanierung.jpg",
+          "alt": "Holzfassade während der Sanierung",
+          "tag": "Holzfassade",
+          "title": "Sanierung mit passender Schutzbeschichtung",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/EFH_Holzfassade_Sanierung_2.jpg",
+          "alt": "Sanierte Holzfassade an einem Einfamilienhaus",
+          "tag": "Holzschutz",
+          "title": "Langlebiger Anstrich für Holzbauteile",
+          "wide": false,
+          "video": false
+        }
+      ]
+    },
+    {
+      "_template": "testimonials",
+      "label": "Was Kunden sagen",
+      "title": "Echte Erfahrungen",
+      "items": [
+        {
+          "text": "Herr Prasch und seine Mitarbeiter sind sehr freundlich und sehr kompetent! Alle Arbeiten wurden sauber und zu meiner höchsten Zufriedenheit durchgeführt! Dieser Malerbetrieb ist zu 100% weiter zu empfehlen!",
+          "author": "Beate",
+          "source": "Google Rezension"
+        },
+        {
+          "text": "Preis-Leistung stimmt, Arbeit wunderschön (Zusammenspiel Glaser-Tischler-Maler), gute Koordination und Terminverlässlichkeit, sehr freundliche und engagierte Mitarbeiter, sauberes Arbeiten; danke!",
+          "author": "Astrid",
+          "source": "Google Rezension"
+        }
+      ]
+    },
+    {
+      "_template": "cardGrid",
+      "label": "Was wir noch bieten",
+      "title": "Weitere Leistungen",
+      "cards": [
+        {
+          "icon": "fas fa-palette",
+          "title": "Kreative Spachteltechnik",
+          "text": "Exklusive Wandgestaltung für Graz: Beton-Optik, Rost-Design oder edle Glättetechniken.",
+          "linkText": "Zu den Techniken",
+          "linkUrl": "/innenmalerei"
+        },
+        {
+          "icon": "fas fa-paint-roller",
+          "title": "Anstriche & Lacke",
+          "text": "Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
+          "linkText": "Mehr erfahren",
+          "linkUrl": "/anstriche"
+        },
+        {
+          "icon": "fas fa-shop",
+          "title": "Farben-Shop",
+          "text": "Profi-Farben, Lacke und Farbmischservice direkt in der Schörgelgasse 7 in Graz.",
+          "linkText": "Zum Sortiment",
+          "linkUrl": "/farben-kaufen"
+        }
+      ]
+    }
+  ]
+}

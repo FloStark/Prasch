@@ -1,0 +1,107 @@
+{
+  "slug": "nachhaltigkeit",
+  "title": "Nachhaltigkeit | Farbentsorgung & ökologische Farben | Malerbetrieb Prasch",
+  "description": "Nachhaltigkeit beim Malerbetrieb Prasch: verantwortungsvolle Farbentsorgung, saubere Arbeitsweise und ökologische Farben von KEIM für gesunde, langlebige Oberflächen.",
+  "keywords": "Nachhaltiger Maler Graz, Farbentsorgung Graz, ökologische Farben, KEIM Farben Graz, Malerbetrieb Prasch Nachhaltigkeit",
+  "robots": "index, follow",
+  "canonical": "https://malerbetrieb-prasch.at/nachhaltigkeit.html",
+  "ogTitle": "Nachhaltigkeit | Malerbetrieb Prasch",
+  "ogDescription": "Verantwortungsvolle Farbentsorgung und ökologische Farben von KEIM für langlebige, wohngesunde Oberflächen.",
+  "ogImage": "https://malerbetrieb-prasch.at/images/Farbentsorgung.jpg",
+  "bodyHtml": "<a href=\"#main-content\" class=\"skip-link\">Zum Inhalt springen</a>\n\n    <header id=\"header\">\n        <div class=\"container\">\n            <nav>\n                <a href=\"/\" aria-label=\"Startseite\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch Logo\" class=\"logo-img\" width=\"140\" height=\"46\">\n                </a>\n\n                <ul class=\"nav-links\" id=\"navLinks\">\n                    <li><a href=\"/\">Home</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle\" aria-expanded=\"false\">Leistungen <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"fassadengestaltung.html\">Fassaden <small>Fassadensanierung & Gestaltung</small></a></li>\n                            <li><a href=\"innenmalerei.html\">Innenmalerei <small>Wandgestaltung & Räume</small></a></li>\n                            <li><a href=\"anstriche.html\">Anstriche <small>Holz, Metall, Türen & Fenster</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"referenzen.html\">Referenzen</a></li>\n                    <li><a href=\"nachhaltigkeit.html\" aria-current=\"page\">Nachhaltigkeit</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle\" aria-expanded=\"false\">Standorte <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"standort-graz.html\">Standort Graz <small>Schörgelgasse 7, 8010 Graz</small></a></li>\n                            <li><a href=\"standort-studenzen.html\">Standort Studenzen <small>Malerarbeiten in der Südoststeiermark</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                    <li><a href=\"/#contact\">Kontakt</a></li>\n                </ul>\n\n                <a href=\"tel:06641186505\" class=\"btn btn-primary nav-cta\">\n                    <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Jetzt anrufen\n                </a>\n\n                <button class=\"mobile-toggle\" id=\"mobileToggle\" aria-label=\"Menü öffnen\" aria-expanded=\"false\">\n                    <span></span><span></span><span></span>\n                </button>\n            </nav>\n        </div>\n    </header>\n\n    <main id=\"main-content\">\n        <nav class=\"breadcrumb-nav container\" aria-label=\"Breadcrumb\">\n            <ol>\n                <li><a href=\"/\">Home</a></li>\n                <li aria-current=\"page\">Nachhaltigkeit</li>\n            </ol>\n        </nav>\n\n        <div class=\"page-hero sustainability-hero\">\n            <div class=\"container\">\n                <div class=\"sustainability-hero-grid reveal\">\n                    <div class=\"section-header\">\n                        <span class=\"section-label\">Verantwortung im Handwerk</span>\n                        <h1>Nachhaltigkeit beim Malerbetrieb Prasch</h1>\n                        <p class=\"section-desc\">Nachhaltiges Arbeiten bedeutet für uns: Materialien bewusst auswählen, sauber verarbeiten, Reste fachgerecht entsorgen und langlebige Beschichtungssysteme einsetzen.</p>\n                    </div>\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch Logo\" class=\"hero-logo sustainability-hero-logo\" width=\"360\" height=\"118\">\n                </div>\n            </div>\n        </div>\n\n        <section class=\"container reveal\">\n            <div class=\"about-grid\">\n                <div class=\"hero-visual\">\n                    <div class=\"hero-image-placeholder\">\n                        <img src=\"/images/Farbentsorgung.jpg\" alt=\"Verantwortungsvolle Farbentsorgung beim Malerbetrieb Prasch\" width=\"1200\" height=\"1600\" loading=\"lazy\">\n                    </div>\n                </div>\n                <div class=\"about-content\">\n                    <span class=\"section-label\">Verantwortungsvolle Entsorgung</span>\n                    <h2>Farbreste gehören nicht in den Hausmüll</h2>\n                    <p class=\"about-text\">Bei Malerarbeiten fallen Gebinde, Restmengen und Arbeitsmaterialien an. Wir achten darauf, diese Stoffe sauber zu trennen und fachgerecht zu entsorgen, damit Umwelt und Grundwasser geschützt bleiben.</p>\n                    <p class=\"about-text\">Auch bei bei uns gekauften Farben unterstützen wir Sie nach Möglichkeit bei der richtigen Entsorgung von Resten und Gebinden. So endet ein Projekt nicht nur sauber an der Wand, sondern auch verantwortungsvoll im Umgang mit Materialien.</p>\n                    <div class=\"about-values\">\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-recycle\" aria-hidden=\"true\"></i>\n                            <div><strong>Fachgerecht</strong><span>Saubere Trennung und Entsorgung</span></div>\n                        </div>\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-droplet\" aria-hidden=\"true\"></i>\n                            <div><strong>Umweltbewusst</strong><span>Schutz von Boden und Wasser</span></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <div class=\"section-header\" style=\"text-align: left; margin-bottom: 2rem;\">\n                <span class=\"section-label\">Ökologische Farben</span>\n                <h2>KEIM Mineralfarben für gesunde und langlebige Oberflächen</h2>\n                <p>Wenn es zum Projekt passt, setzen wir auf mineralische Beschichtungssysteme von KEIM. Sie sind besonders langlebig, diffusionsoffen und eignen sich für wohngesunde Innenräume ebenso wie für robuste Fassadenlösungen.</p>\n            </div>\n\n            <div class=\"services-grid\">\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-leaf\" aria-hidden=\"true\"></i></div>\n                    <h3>Wohngesunde Innenräume</h3>\n                    <p>Mineralische Farben unterstützen ein angenehmes Raumklima, sind atmungsaktiv und passen gut zu sensiblen Wohnbereichen wie Schlaf- und Kinderzimmern.</p>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"brand-logo\" style=\"margin-bottom: 1.5rem;\">\n                        <img src=\"/images/keim-logo.png\" alt=\"KEIM Mineralfarben Logo\" width=\"160\" height=\"60\" loading=\"lazy\">\n                    </div>\n                    <h3>Ökologische Farben von KEIM</h3>\n                    <p>KEIM Mineralfarben stehen für dauerhafte Farbstabilität, hohe Diffusionsfähigkeit und nachhaltige Beschichtungssysteme mit langer Lebensdauer.</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <div class=\"cross-sell\">\n                <div class=\"cross-sell-content\">\n                    <span class=\"section-label\">Beratung</span>\n                    <h2>Welche nachhaltige Lösung passt zu Ihrem Projekt?</h2>\n                    <p class=\"about-text\">Wir beraten Sie zu Materialwahl, Untergrund, Farbtyp und Entsorgung. So entsteht eine Lösung, die optisch passt, technisch funktioniert und verantwortungsvoll umgesetzt wird.</p>\n                </div>\n                <div class=\"cross-sell-highlight\">\n                    <a href=\"tel:06641186505\" class=\"btn btn-primary\">0664 1186505 anrufen</a>\n                    <a href=\"mailto:office@farben-prasch.at\" class=\"btn btn-outline\">E-Mail schreiben</a>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-grid\">\n                <div class=\"footer-brand\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch\" class=\"footer-logo\" width=\"140\" height=\"46\">\n                    <p>Ihr Malerbetrieb in Graz – für Fassaden, Innenräume und alles, was Farbe braucht. Persönlich, zuverlässig und mit Liebe zum Detail.</p>\n                </div>\n\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-leistungs-title\">Leistung & Qualität</h4>\n                    <ul aria-labelledby=\"footer-leistungs-title\">\n                        <li><a href=\"fassadengestaltung.html\">Fassadengestaltung</a></li>\n                        <li><a href=\"innenmalerei.html\">Innenmalerei</a></li>\n                        <li><a href=\"anstriche.html\">Anstriche & Lacke</a></li>\n                        <li><a href=\"referenzen.html\">Referenzen</a></li>\n                        <li><a href=\"nachhaltigkeit.html\" aria-current=\"page\">Nachhaltigkeit</a></li>\n                        <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                        <li><a href=\"standort-graz.html\">Standort Graz</a></li>\n                        <li><a href=\"standort-studenzen.html\">Standort Studenzen</a></li>\n                    </ul>\n                </div>\n\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-contact-title\">Kontakt</h4>\n                    <ul aria-labelledby=\"footer-contact-title\">\n                        <li><a href=\"tel:06641186505\">0664 1186505</a></li>\n                        <li><a href=\"mailto:office@farben-prasch.at\">E-Mail schreiben</a></li>\n                        <li><a href=\"https://www.google.com/maps/search/?api=1&query=Schörgelgasse+7+8010+Graz\" target=\"_blank\" rel=\"noopener\" aria-label=\"Wegbeschreibung auf Google Maps aufrufen\">Schörgelgasse 7, Graz</a></li>\n                    </ul>\n                </div>\n            </div>\n\n            <div class=\"footer-bottom\">\n                <p>&copy; <span data-current-year>2026</span> Malerbetrieb Prasch. Alle Rechte vorbehalten.</p>\n                <nav aria-label=\"Rechtliches\">\n                    <p><a href=\"impressum.html\">Impressum</a> · <a href=\"datenschutz.html\">Datenschutz</a></p>\n                </nav>\n            </div>\n            <p class=\"footer-credit\"><a href=\"https://murix.at\" target=\"_blank\" rel=\"noopener\">Made by Murix.at</a></p>\n        </div>\n    </footer>\n\n    <div class=\"sticky-cta\">\n        <a href=\"tel:06641186505\" class=\"btn btn-primary\" aria-label=\"Jetzt anrufen\">\n            <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Anrufen\n        </a>\n    </div>",
+  "schemaJson": [
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"WebPage\",\n      \"name\": \"Nachhaltigkeit beim Malerbetrieb Prasch\",\n      \"url\": \"https://malerbetrieb-prasch.at/nachhaltigkeit.html\",\n      \"description\": \"Verantwortungsvolle Farbentsorgung, ökologische Farben von KEIM und nachhaltige Arbeitsweise beim Malerbetrieb Prasch.\"\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Nachhaltigkeit\",\n        \"item\": \"https://malerbetrieb-prasch.at/nachhaltigkeit.html\"\n      }]\n    }"
+  ],
+  "media": [
+    {
+      "originalSrc": "/Assets/image/logo.png",
+      "src": "/Assets/image/logo.png",
+      "alt": "Malerbetrieb Prasch Logo"
+    },
+    {
+      "originalSrc": "/images/Farbentsorgung.jpg",
+      "src": "/images/Farbentsorgung.jpg",
+      "alt": "Verantwortungsvolle Farbentsorgung beim Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/keim-logo.png",
+      "src": "/images/keim-logo.png",
+      "alt": "KEIM Mineralfarben Logo"
+    }
+  ],
+  "sections": [
+    {
+      "_template": "pageHero",
+      "label": "Verantwortung im Handwerk",
+      "title": "Nachhaltigkeit beim Malerbetrieb Prasch",
+      "description": "Nachhaltiges Arbeiten bedeutet für uns: Materialien bewusst auswählen, sauber verarbeiten, Reste fachgerecht entsorgen und langlebige Beschichtungssysteme einsetzen.",
+      "logo": "/Assets/image/logo.png",
+      "logoAlt": "Malerbetrieb Prasch Logo"
+    },
+    {
+      "_template": "feature",
+      "label": "Verantwortungsvolle Entsorgung",
+      "title": "Farbreste gehören nicht in den Hausmüll",
+      "image": "/images/Farbentsorgung.jpg",
+      "imageAlt": "Verantwortungsvolle Farbentsorgung beim Malerbetrieb Prasch",
+      "texts": [
+        {
+          "text": "Bei Malerarbeiten fallen Gebinde, Restmengen und Arbeitsmaterialien an. Wir achten darauf, diese Stoffe sauber zu trennen und fachgerecht zu entsorgen."
+        },
+        {
+          "text": "Auch bei bei uns gekauften Farben unterstützen wir Sie nach Möglichkeit bei der richtigen Entsorgung von Resten und Gebinden."
+        }
+      ],
+      "values": [
+        {
+          "icon": "fas fa-recycle",
+          "title": "Fachgerecht",
+          "text": "Saubere Trennung und Entsorgung"
+        },
+        {
+          "icon": "fas fa-droplet",
+          "title": "Umweltbewusst",
+          "text": "Schutz von Boden und Wasser"
+        }
+      ]
+    },
+    {
+      "_template": "cardGrid",
+      "label": "Ökologische Farben",
+      "title": "KEIM Mineralfarben für gesunde und langlebige Oberflächen",
+      "description": "Wenn es zum Projekt passt, setzen wir auf mineralische Beschichtungssysteme von KEIM.",
+      "cards": [
+        {
+          "icon": "fas fa-leaf",
+          "title": "Wohngesunde Innenräume",
+          "text": "Mineralische Farben unterstützen ein angenehmes Raumklima und passen gut zu sensiblen Wohnbereichen."
+        },
+        {
+          "image": "/images/keim-logo.png",
+          "imageAlt": "KEIM Mineralfarben Logo",
+          "title": "Ökologische Farben von KEIM",
+          "text": "KEIM Mineralfarben stehen für Farbstabilität, Diffusionsfähigkeit und nachhaltige Beschichtungssysteme."
+        }
+      ]
+    },
+    {
+      "_template": "cta",
+      "label": "Beratung",
+      "title": "Welche nachhaltige Lösung passt zu Ihrem Projekt?",
+      "text": "Wir beraten Sie zu Materialwahl, Untergrund, Farbtyp und Entsorgung.",
+      "buttons": [
+        {
+          "text": "0664 1186505 anrufen",
+          "url": "tel:06641186505",
+          "style": "primary"
+        },
+        {
+          "text": "E-Mail schreiben",
+          "url": "mailto:office@farben-prasch.at",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

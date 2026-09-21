@@ -1,0 +1,141 @@
+{
+  "slug": "ueber-uns",
+  "title": "Über uns | Malerbetrieb Prasch Graz & Studenzen",
+  "description": "Lernen Sie den Malerbetrieb Prasch kennen: ehrliches Handwerk, persönliche Beratung und saubere Malerarbeiten in Graz, Studenzen und der Steiermark.",
+  "keywords": "Malerbetrieb Prasch, Über uns, Maler Graz, Maler Studenzen, Malermeister Steiermark",
+  "robots": "index, follow",
+  "canonical": "https://malerbetrieb-prasch.at/ueber-uns",
+  "ogTitle": "Über uns | Malerbetrieb Prasch",
+  "ogDescription": "Ehrliches Malerhandwerk mit sauberer Ausführung, persönlicher Beratung und hochwertigen Materialien.",
+  "ogImage": "https://malerbetrieb-prasch.at/images/Uebermich1.jpg",
+  "bodyHtml": "",
+  "schemaJson": [
+    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"AboutPage\",\n  \"name\": \"Über uns | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/ueber-uns\"\n}"
+  ],
+  "media": [
+    {
+      "originalSrc": "/images/Uebermich1.jpg",
+      "src": "/images/Uebermich1.jpg",
+      "alt": "Malerbetrieb Prasch bei der Arbeit"
+    },
+    {
+      "originalSrc": "/images/Uebermich2.jpg",
+      "src": "/images/Uebermich2.jpg",
+      "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich3.jpg",
+      "src": "/images/Uebermich3.jpg",
+      "alt": "Persönliche Beratung und Handwerk vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich4.jpg",
+      "src": "/images/Uebermich4.jpg",
+      "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
+    }
+  ],
+  "sections": [
+    {
+      "_template": "pageHero",
+      "label": "Über Malerbetrieb Prasch",
+      "title": "Handwerk, auf das man sich verlassen kann",
+      "description": "Wir verbinden traditionelle Malerarbeit mit moderner Beratung, klarer Kommunikation und einem hohen Anspruch an saubere Ausführung. Ob Wohnung, Hausfassade oder gewerbliche Fläche: Bei uns zählt jedes Detail."
+    },
+    {
+      "_template": "aboutSlider",
+      "label": "Unsere Haltung",
+      "title": "Sauber. Präzise.\nPersönlich.",
+      "images": [
+        {
+          "src": "/images/Uebermich1.jpg",
+          "alt": "Malerbetrieb Prasch bei der Arbeit"
+        },
+        {
+          "src": "/images/Uebermich2.jpg",
+          "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
+        },
+        {
+          "src": "/images/Uebermich3.jpg",
+          "alt": "Persönliche Beratung vom Malerbetrieb Prasch"
+        },
+        {
+          "src": "/images/Uebermich4.jpg",
+          "alt": "Präzise Handwerksarbeit vom Malerbetrieb Prasch"
+        }
+      ],
+      "cardLabel": "Meisterbetrieb",
+      "cardTitle": "Qualität aus der Region.",
+      "texts": [
+        {
+          "text": "Der Malerbetrieb Prasch arbeitet für Menschen, die eine verlässliche, saubere und fachlich korrekte Umsetzung erwarten. Wir hören zu, prüfen den Untergrund sorgfältig und erklären nachvollziehbar, welche Lösung sinnvoll ist."
+        },
+        {
+          "text": "Unser Anspruch ist nicht nur eine schöne Oberfläche. Wir wollen Beschichtungen schaffen, die zum Gebäude, zur Nutzung und zum Alltag passen und langfristig Freude machen."
+        }
+      ],
+      "values": [
+        {
+          "icon": "fas fa-check-circle",
+          "title": "Klare Beratung",
+          "text": "Ehrlich, verständlich und passend zum Projekt"
+        },
+        {
+          "icon": "fas fa-check-circle",
+          "title": "Saubere Baustellen",
+          "text": "Sorgfältiges Abdecken, Vorbereiten und Aufräumen"
+        },
+        {
+          "icon": "fas fa-check-circle",
+          "title": "Hochwertige Materialien",
+          "text": "Profi-Farben, Lacke und abgestimmte Systeme"
+        },
+        {
+          "icon": "fas fa-check-circle",
+          "title": "Regionale Nähe",
+          "text": "Graz, Studenzen und die umliegende Steiermark"
+        }
+      ]
+    },
+    {
+      "_template": "cardGrid",
+      "label": "Was uns wichtig ist",
+      "title": "Drei Dinge, die jedes Projekt tragen",
+      "description": "Gute Malerarbeit beginnt vor dem ersten Pinselstrich: mit Vorbereitung, Materialverständnis und verlässlicher Abstimmung.",
+      "cards": [
+        {
+          "icon": "fas fa-ruler-combined",
+          "title": "Sorgfältige Vorbereitung",
+          "text": "Wir prüfen Oberflächen, schützen angrenzende Bereiche und schaffen die Grundlage für ein langlebiges Ergebnis."
+        },
+        {
+          "icon": "fas fa-comments",
+          "title": "Persönliche Abstimmung",
+          "text": "Sie wissen, was passiert, wann es passiert und welche Materialien verwendet werden."
+        },
+        {
+          "icon": "fas fa-shield-halved",
+          "title": "Langlebige Ergebnisse",
+          "text": "Beschichtungen sollen nicht nur am ersten Tag gut aussehen, sondern technisch funktionieren und lange halten."
+        }
+      ]
+    },
+    {
+      "_template": "cta",
+      "label": "Nächster Schritt",
+      "title": "Lernen Sie unser Team kennen",
+      "text": "Hinter jedem Projekt stehen Menschen, die genau arbeiten, mitdenken und Verantwortung übernehmen.",
+      "buttons": [
+        {
+          "text": "Zum Team",
+          "url": "/team",
+          "style": "primary"
+        },
+        {
+          "text": "Referenzen ansehen",
+          "url": "/referenzen",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

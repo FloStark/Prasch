@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /standort-graz.html
+Allow: /standort-studenzen.html
+
+Sitemap: https://malerbetrieb-prasch.at/sitemap.xml

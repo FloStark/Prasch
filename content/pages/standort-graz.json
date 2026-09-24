@@ -9,31 +9,14 @@
   "ogDescription": "Ihr Malermeister in Graz für Fassaden, Innenmalerei, Anstriche und Farben-Fachberatung.",
   "ogImage": "https://malerbetrieb-prasch.at/images/Shop1.jpg",
   "bodyHtml": "<a href=\"#main-content\" class=\"skip-link\">Zum Inhalt springen</a>\n\n    <header id=\"header\">\n        <div class=\"container\">\n            <nav>\n                <a href=\"/\" aria-label=\"Startseite\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch Logo\" class=\"logo-img\" width=\"140\" height=\"46\">\n                </a>\n\n                <ul class=\"nav-links\" id=\"navLinks\">\n                    <li><a href=\"/\">Home</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle\" aria-expanded=\"false\">Leistungen <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"fassadengestaltung.html\">Fassaden <small>Fassadensanierung & Gestaltung</small></a></li>\n                            <li><a href=\"innenmalerei.html\">Innenmalerei <small>Wandgestaltung & Räume</small></a></li>\n                            <li><a href=\"anstriche.html\">Anstriche <small>Holz, Metall, Türen & Fenster</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"referenzen.html\">Referenzen</a></li>\n                    <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle current\" aria-expanded=\"false\">Standorte <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"standort-graz.html\" aria-current=\"page\">Standort Graz <small>Schörgelgasse 7, 8010 Graz</small></a></li>\n                            <li><a href=\"standort-studenzen.html\">Standort Studenzen <small>Malerarbeiten in der Südoststeiermark</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                    <li><a href=\"/#contact\">Kontakt</a></li>\n                </ul>\n\n                <a href=\"tel:06641186505\" class=\"btn btn-primary nav-cta\">\n                    <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Jetzt anrufen\n                </a>\n\n                <button class=\"mobile-toggle\" id=\"mobileToggle\" aria-label=\"Menü öffnen\" aria-expanded=\"false\">\n                    <span></span><span></span><span></span>\n                </button>\n            </nav>\n        </div>\n    </header>\n\n    <main id=\"main-content\">\n        <nav class=\"breadcrumb-nav container\" aria-label=\"Breadcrumb\">\n            <ol>\n                <li><a href=\"/\">Home</a></li>\n                <li aria-current=\"page\">Standort Graz</li>\n            </ol>\n        </nav>\n\n        <div class=\"page-hero\">\n            <div class=\"container\">\n                <div class=\"section-header reveal\">\n                    <span class=\"section-label\">Standort Graz</span>\n                    <h1>Malerbetrieb Prasch in Graz, Schörgelgasse 7</h1>\n                    <p class=\"section-desc\">Unser Standort in Graz ist Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, Anstriche und persönliche Farbenberatung vom Fachbetrieb.</p>\n                </div>\n            </div>\n        </div>\n\n        <section class=\"container\">\n            <div class=\"about-grid\">\n                <div class=\"hero-visual reveal\">\n                    <div class=\"hero-image-placeholder\">\n                        <img src=\"/images/Shop1.jpg\" alt=\"Farben-Shop am Standort Graz in der Schörgelgasse\" width=\"2048\" height=\"1536\" loading=\"lazy\">\n                    </div>\n                </div>\n                <div class=\"about-content reveal\">\n                    <h2>Ihr Malermeister direkt in Graz</h2>\n                    <p class=\"about-text\">Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung. Wir planen sauber, beraten persönlich und setzen Malerarbeiten mit hochwertigen Materialien um.</p>\n                    <p class=\"about-text\">Besonders praktisch: In der Schörgelgasse erhalten Sie auch Beratung zu Profi-Farben, Lacken, Lasuren und passenden Beschichtungssystemen.</p>\n\n                    <div class=\"about-values\">\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-building\" aria-hidden=\"true\"></i>\n                            <div><strong>Fassaden in Graz</strong><span>Sanierung, Schutzanstrich und optische Aufwertung</span></div>\n                        </div>\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-palette\" aria-hidden=\"true\"></i>\n                            <div><strong>Innenmalerei</strong><span>Saubere Wandgestaltung für Wohnungen, Häuser und Betriebe</span></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <span class=\"section-label\">Leistungen in Graz</span>\n            <h2>Unsere Schwerpunkte am Standort Graz</h2>\n            <div class=\"services-grid reveal-stagger\">\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-building\" aria-hidden=\"true\"></i></div>\n                    <h3>Fassaden</h3>\n                    <p>Fassadensanierung, Außenanstrich und langlebiger Witterungsschutz für Gebäude in Graz.</p>\n                    <a href=\"fassadengestaltung.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Fassaden →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-brush\" aria-hidden=\"true\"></i></div>\n                    <h3>Innenmalerei</h3>\n                    <p>Wandfarben, Spachteltechniken und wohngesunde Beschichtungen für Innenräume.</p>\n                    <a href=\"innenmalerei.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Innenmalerei →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-paint-roller\" aria-hidden=\"true\"></i></div>\n                    <h3>Anstriche</h3>\n                    <p>Lackierarbeiten und Schutzanstriche für Holz, Metall, Fenster, Türen und Spezialoberflächen.</p>\n                    <a href=\"anstriche.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Anstrichen →</a>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <div class=\"cross-sell\">\n                <div>\n                    <span class=\"section-label\">Kontakt Graz</span>\n                    <h2>Beratung in der Schörgelgasse 7</h2>\n                    <p>Rufen Sie uns an oder besuchen Sie uns am Standort Graz. Wir klären Ihr Projekt, Materialfragen und den nächsten freien Termin persönlich.</p>\n                </div>\n                <div class=\"cross-sell-highlight\">\n                    <a href=\"tel:06641186505\" class=\"btn btn-primary\">0664 1186505 anrufen</a>\n                    <a href=\"https://www.google.com/maps/search/?api=1&query=Sch%C3%B6rgelgasse+7+8010+Graz\" class=\"btn btn-outline\" target=\"_blank\" rel=\"noopener\">Route planen</a>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-grid\">\n                <div class=\"footer-brand\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch\" class=\"footer-logo\" width=\"140\" height=\"46\">\n                    <p>Ihr Malerbetrieb in Graz und der Südoststeiermark - für Fassaden, Innenräume und alles, was Farbe braucht.</p>\n                </div>\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-leistungs-title\">Leistung & Qualität</h4>\n                    <ul aria-labelledby=\"footer-leistungs-title\">\n                        <li><a href=\"fassadengestaltung.html\">Fassadengestaltung</a></li>\n                        <li><a href=\"innenmalerei.html\">Innenmalerei</a></li>\n                        <li><a href=\"anstriche.html\">Anstriche & Lacke</a></li>\n                        <li><a href=\"referenzen.html\">Referenzen</a></li>\n                        <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                        <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                        <li><a href=\"standort-graz.html\">Standort Graz</a></li>\n                        <li><a href=\"standort-studenzen.html\">Standort Studenzen</a></li>\n                    </ul>\n                </div>\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-contact-title\">Kontakt</h4>\n                    <ul aria-labelledby=\"footer-contact-title\">\n                        <li><a href=\"tel:06641186505\">0664 1186505</a></li>\n                        <li><a href=\"mailto:office@farben-prasch.at\">E-Mail schreiben</a></li>\n                        <li><a href=\"https://www.google.com/maps/search/?api=1&query=Sch%C3%B6rgelgasse+7+8010+Graz\" target=\"_blank\" rel=\"noopener\">Schörgelgasse 7, Graz</a></li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"footer-bottom\">\n                <p>&copy; <span data-current-year>2026</span> Malerbetrieb Prasch. Alle Rechte vorbehalten.</p>\n                <nav aria-label=\"Rechtliches\">\n                    <p><a href=\"impressum.html\">Impressum</a> · <a href=\"datenschutz.html\">Datenschutz</a></p>\n                </nav>\n            </div>\n            <p class=\"footer-credit\"><a href=\"https://murix.at\" target=\"_blank\" rel=\"noopener\">Made by Murix.at</a></p>\n        </div>\n    </footer>\n\n    <div class=\"sticky-cta\">\n        <a href=\"tel:06641186505\" class=\"btn btn-primary\" aria-label=\"Jetzt anrufen\">\n            <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Anrufen\n        </a>\n    </div>",
-  "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Graz\",\n      \"image\": \"https://malerbetrieb-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://malerbetrieb-prasch.at/standort-graz.html\",\n      \"url\": \"https://malerbetrieb-prasch.at/standort-graz.html\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Schörgelgasse 7\",\n        \"addressLocality\": \"Graz\",\n        \"postalCode\": \"8010\",\n        \"addressCountry\": \"AT\"\n      },\n      \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 47.0705,\n        \"longitude\": 15.4365\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"openingHoursSpecification\": {\n        \"@type\": \"OpeningHoursSpecification\",\n        \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"],\n        \"opens\": \"07:00\",\n        \"closes\": \"15:30\"\n      }\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Graz\",\n        \"item\": \"https://malerbetrieb-prasch.at/standort-graz.html\"\n      }]\n    }"
-  ],
-  "media": [
-    {
-      "originalSrc": "/Assets/image/logo.png",
-      "src": "/Assets/image/logo.png",
-      "alt": "Malerbetrieb Prasch Logo"
-    },
-    {
-      "originalSrc": "/images/Shop1.jpg",
-      "src": "/images/Shop1.jpg",
-      "alt": "Farben-Shop am Standort Graz in der Schörgelgasse"
-    }
-  ],
   "sections": [
     {
-      "_template": "pageHero",
       "label": "Standort Graz",
-      "title": "Malerbetrieb Prasch in Graz, Schörgelgasse 7",
-      "description": "Unser Standort in Graz ist Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, Anstriche und persönliche Farbenberatung vom Fachbetrieb."
+      "title": "Malerbetrieb Prasch in 8010 Graz, Schörgelgasse 7",
+      "description": "Unser Standort in Graz ist Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, Anstriche und persönliche Farbberatung vom Fachbetrieb.",
+      "_template": "pageHero"
     },
     {
-      "_template": "feature",
       "title": "Ihr Malermeister direkt in Graz",
       "image": "/images/Shop1.jpg",
       "imageAlt": "Farben-Shop am Standort Graz in der Schörgelgasse",
@@ -42,7 +25,7 @@
           "text": "Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung."
         },
         {
-          "text": "In der Schörgelgasse erhalten Sie auch Beratung zu Profi-Farben, Lacken, Lasuren und passenden Beschichtungssystemen."
+          "text": "Hier erhalten Sie nicht nur eine Beratung zu diversen Profi-Farben, Lacken, Lasuren oder passenden Beschichtungssystemen. Ebenso bekommen Sie bei uns auch das notwendige Maler Equipment."
         }
       ],
       "values": [
@@ -56,10 +39,10 @@
           "title": "Innenmalerei",
           "text": "Saubere Wandgestaltung für Wohnungen, Häuser und Betriebe"
         }
-      ]
+      ],
+      "_template": "feature"
     },
     {
-      "_template": "cardGrid",
       "label": "Leistungen in Graz",
       "title": "Unsere Schwerpunkte am Standort Graz",
       "cards": [
@@ -84,10 +67,10 @@
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
         }
-      ]
+      ],
+      "_template": "cardGrid"
     },
     {
-      "_template": "cta",
       "label": "Kontakt Graz",
       "title": "Beratung in der Schörgelgasse 7",
       "text": "Rufen Sie uns an oder besuchen Sie uns am Standort Graz. Wir klären Ihr Projekt, Materialfragen und den nächsten freien Termin persönlich.",
@@ -102,7 +85,24 @@
           "url": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6rgelgasse+7+8010+Graz",
           "style": "outline"
         }
-      ]
+      ],
+      "_template": "cta"
     }
+  ],
+  "media": [
+    {
+      "originalSrc": "/Assets/image/logo.png",
+      "src": "/images/Assets/image/logo.png",
+      "alt": "Malerbetrieb Prasch Logo"
+    },
+    {
+      "originalSrc": "/images/Shop1.jpg",
+      "src": "/images/Shop1.jpg",
+      "alt": "Farben-Shop am Standort Graz in der Schörgelgasse"
+    }
+  ],
+  "schemaJson": [
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Graz\",\n      \"image\": \"https://malerbetrieb-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://malerbetrieb-prasch.at/standort-graz.html\",\n      \"url\": \"https://malerbetrieb-prasch.at/standort-graz.html\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"streetAddress\": \"Schörgelgasse 7\",\n        \"addressLocality\": \"Graz\",\n        \"postalCode\": \"8010\",\n        \"addressCountry\": \"AT\"\n      },\n      \"geo\": {\n        \"@type\": \"GeoCoordinates\",\n        \"latitude\": 47.0705,\n        \"longitude\": 15.4365\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"openingHoursSpecification\": {\n        \"@type\": \"OpeningHoursSpecification\",\n        \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"],\n        \"opens\": \"07:00\",\n        \"closes\": \"15:30\"\n      }\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Graz\",\n        \"item\": \"https://malerbetrieb-prasch.at/standort-graz.html\"\n      }]\n    }"
   ]
 }

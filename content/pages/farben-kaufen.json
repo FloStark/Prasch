@@ -46,8 +46,8 @@
     {
       "variant": "shop",
       "label": "Unser Farben-Shop",
-      "title": "Eindrücke aus der Schörgelgasse",
-      "description": "Besuchen Sie uns vor Ort: hochwertige Profi-Farben, persönliche Beratung und Farbmischservice direkt in Graz.",
+      "title": "Eindrücke aus unserem Farben-Shop",
+      "description": "Besuchen Sie uns vor Ort: Hochwertige Profi-Farben, persönliche Beratung und Farbmischservice direkt in Graz.",
       "items": [
         {
           "src": "/images/Shop1.jpg",

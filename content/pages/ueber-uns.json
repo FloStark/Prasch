@@ -9,40 +9,14 @@
   "ogDescription": "Ehrliches Malerhandwerk mit sauberer Ausführung, persönlicher Beratung und hochwertigen Materialien.",
   "ogImage": "https://malerbetrieb-prasch.at/images/Uebermich1.jpg",
   "bodyHtml": "",
-  "schemaJson": [
-    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"AboutPage\",\n  \"name\": \"Über uns | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/ueber-uns\"\n}"
-  ],
-  "media": [
-    {
-      "originalSrc": "/images/Uebermich1.jpg",
-      "src": "/images/Uebermich1.jpg",
-      "alt": "Malerbetrieb Prasch bei der Arbeit"
-    },
-    {
-      "originalSrc": "/images/Uebermich2.jpg",
-      "src": "/images/Uebermich2.jpg",
-      "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich3.jpg",
-      "src": "/images/Uebermich3.jpg",
-      "alt": "Persönliche Beratung und Handwerk vom Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich4.jpg",
-      "src": "/images/Uebermich4.jpg",
-      "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
-    }
-  ],
   "sections": [
     {
-      "_template": "pageHero",
       "label": "Über Malerbetrieb Prasch",
       "title": "Handwerk, auf das man sich verlassen kann",
-      "description": "Wir verbinden traditionelle Malerarbeit mit moderner Beratung, klarer Kommunikation und einem hohen Anspruch an saubere Ausführung. Ob Wohnung, Hausfassade oder gewerbliche Fläche: Bei uns zählt jedes Detail."
+      "description": "Wir verbinden traditionelle Malerarbeit mit moderner Beratung, klarer Kommunikation und einem hohen Anspruch an saubere Ausführung. Ob Wohnung, Hausfassade oder gewerbliche Fläche: Bei uns zählt jedes Detail.",
+      "_template": "pageHero"
     },
     {
-      "_template": "aboutSlider",
       "label": "Unsere Haltung",
       "title": "Sauber. Präzise.\nPersönlich.",
       "images": [
@@ -67,7 +41,7 @@
       "cardTitle": "Qualität aus der Region.",
       "texts": [
         {
-          "text": "Der Malerbetrieb Prasch arbeitet für Menschen, die eine verlässliche, saubere und fachlich korrekte Umsetzung erwarten. Wir hören zu, prüfen den Untergrund sorgfältig und erklären nachvollziehbar, welche Lösung sinnvoll ist."
+          "text": "Wir arbeiten für Menschen, die eine verlässliche, saubere und fachlich korrekte Umsetzung erwarten. Wir hören zu, prüfen den Untergrund sorgfältig und erklären nachvollziehbar, welche Lösung sinnvoll ist."
         },
         {
           "text": "Unser Anspruch ist nicht nur eine schöne Oberfläche. Wir wollen Beschichtungen schaffen, die zum Gebäude, zur Nutzung und zum Alltag passen und langfristig Freude machen."
@@ -94,10 +68,10 @@
           "title": "Regionale Nähe",
           "text": "Graz, Studenzen und die umliegende Steiermark"
         }
-      ]
+      ],
+      "_template": "aboutSlider"
     },
     {
-      "_template": "cardGrid",
       "label": "Was uns wichtig ist",
       "title": "Drei Dinge, die jedes Projekt tragen",
       "description": "Gute Malerarbeit beginnt vor dem ersten Pinselstrich: mit Vorbereitung, Materialverständnis und verlässlicher Abstimmung.",
@@ -117,10 +91,10 @@
           "title": "Langlebige Ergebnisse",
           "text": "Beschichtungen sollen nicht nur am ersten Tag gut aussehen, sondern technisch funktionieren und lange halten."
         }
-      ]
+      ],
+      "_template": "cardGrid"
     },
     {
-      "_template": "cta",
       "label": "Nächster Schritt",
       "title": "Lernen Sie unser Team kennen",
       "text": "Hinter jedem Projekt stehen Menschen, die genau arbeiten, mitdenken und Verantwortung übernehmen.",
@@ -135,7 +109,33 @@
           "url": "/referenzen",
           "style": "outline"
         }
-      ]
+      ],
+      "_template": "cta"
     }
+  ],
+  "media": [
+    {
+      "originalSrc": "/images/Uebermich1.jpg",
+      "src": "/images/Uebermich1.jpg",
+      "alt": "Malerbetrieb Prasch bei der Arbeit"
+    },
+    {
+      "originalSrc": "/images/Uebermich2.jpg",
+      "src": "/images/Uebermich2.jpg",
+      "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich3.jpg",
+      "src": "/images/Uebermich3.jpg",
+      "alt": "Persönliche Beratung und Handwerk vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich4.jpg",
+      "src": "/images/Uebermich4.jpg",
+      "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
+    }
+  ],
+  "schemaJson": [
+    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"AboutPage\",\n  \"name\": \"Über uns | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/ueber-uns\"\n}"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "bodyFont": "Inter",
-  "headingFont": "Courier New",
+  "headingFont": "system-ui",
   "accentFont": "Inter",
   "primaryColor": "#D42B2B"
 }

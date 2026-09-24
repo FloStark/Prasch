@@ -9,35 +9,14 @@
   "ogDescription": "Lernen Sie die Menschen hinter dem Malerbetrieb Prasch kennen.",
   "ogImage": "https://malerbetrieb-prasch.at/images/Maler.jpg",
   "bodyHtml": "",
-  "schemaJson": [
-    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebPage\",\n  \"name\": \"Team | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/team\"\n}"
-  ],
-  "media": [
-    {
-      "originalSrc": "/images/Maler.jpg",
-      "src": "/images/Maler.jpg",
-      "alt": "Team von Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich3.jpg",
-      "src": "/images/Uebermich3.jpg",
-      "alt": "Beratung und Handwerk vom Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich4.jpg",
-      "src": "/images/Uebermich4.jpg",
-      "alt": "Präzise Malerarbeit vom Malerbetrieb Prasch"
-    }
-  ],
   "sections": [
     {
-      "_template": "pageHero",
       "label": "Unser Team",
       "title": "Menschen, die sauber arbeiten und mitdenken",
-      "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen."
+      "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen.",
+      "_template": "pageHero"
     },
     {
-      "_template": "teamGrid",
       "label": "Malerbetrieb Prasch",
       "title": "Das Team hinter den Projekten",
       "description": "Vom ersten Beratungsgespräch bis zur finalen Kante: Wir arbeiten persönlich, genau und lösungsorientiert.",
@@ -96,20 +75,20 @@
             }
           ]
         }
-      ]
+      ],
+      "_template": "teamGrid"
     },
     {
-      "_template": "teamImage",
       "label": "Teamfoto",
       "title": "Ein gemeinsames Bild folgt",
       "text": "Hier ist Platz für ein aktuelles Gruppenfoto des gesamten Teams. Bis das finale Bild verfügbar ist, bleibt der Bereich bewusst hochwertig gestaltet und kann später direkt in TinaCMS mit einem echten Teamfoto ersetzt werden.",
       "image": "",
       "imageAlt": "Teamfoto vom Malerbetrieb Prasch",
       "placeholderTitle": "Teamfoto in Vorbereitung",
-      "placeholderText": "Mehrere Mitarbeiter, ein gemeinsamer Anspruch: saubere Arbeit, klare Kommunikation und verlässliche Ausführung."
+      "placeholderText": "Mehrere Mitarbeiter, ein gemeinsamer Anspruch: saubere Arbeit, klare Kommunikation und verlässliche Ausführung.",
+      "_template": "teamImage"
     },
     {
-      "_template": "feature",
       "label": "Zusammenarbeit",
       "title": "Ein Ansprechpartner, klare Wege, saubere Umsetzung",
       "image": "/images/Uebermich2.jpg",
@@ -134,16 +113,16 @@
           "title": "Ordentlich",
           "text": "Saubere Arbeit und saubere Baustellen"
         }
-      ]
+      ],
+      "_template": "feature"
     },
     {
-      "_template": "cta",
       "label": "Projekt starten",
       "title": "Sie möchten mit uns arbeiten?",
       "text": "Rufen Sie uns an oder schreiben Sie uns. Wir besprechen Ihr Vorhaben persönlich und unverbindlich.",
       "buttons": [
         {
-          "text": "0664 1186505 anrufen",
+          "text": "+43 664 11 86 505 anrufen",
           "url": "tel:06641186505",
           "style": "primary"
         },
@@ -152,7 +131,28 @@
           "url": "/referenzen",
           "style": "outline"
         }
-      ]
+      ],
+      "_template": "cta"
     }
+  ],
+  "media": [
+    {
+      "originalSrc": "/images/Maler.jpg",
+      "src": "/images/Maler.jpg",
+      "alt": "Team von Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich3.jpg",
+      "src": "/images/Uebermich3.jpg",
+      "alt": "Beratung und Handwerk vom Malerbetrieb Prasch"
+    },
+    {
+      "originalSrc": "/images/Uebermich4.jpg",
+      "src": "/images/Uebermich4.jpg",
+      "alt": "Präzise Malerarbeit vom Malerbetrieb Prasch"
+    }
+  ],
+  "schemaJson": [
+    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebPage\",\n  \"name\": \"Team | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/team\"\n}"
   ]
 }

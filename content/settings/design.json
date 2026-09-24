@@ -1,6 +1,6 @@
 {
   "bodyFont": "Inter",
-  "headingFont": "sans-serif",
+  "headingFont": "monospace",
   "accentFont": "Inter",
   "primaryColor": "#D42B2B"
 }

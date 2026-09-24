@@ -104,21 +104,21 @@
         {
           "icon": "fas fa-building",
           "title": "Fassadensanierung",
-          "text": "Wetterschutz und Ästhetik für Ihre Immobilie in Graz. Wir schützen Ihre Bausubstanz nachhaltig.",
+          "text": "Wetterschutz und Ästhetik für Ihre Immobilie. Wir schützen Ihre Bausubstanz nachhaltig.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/fassadengestaltung"
         },
         {
           "icon": "fas fa-paint-roller",
           "title": "Anstriche & Lacke",
-          "text": "Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
+          "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
         },
         {
           "icon": "fas fa-shop",
           "title": "Farben-Shop",
-          "text": "Profi-Farben, Lacke und Farbmischservice direkt in der Schörgelgasse 7 in Graz.",
+          "text": "Profi-Farben, Lacke, Malerbedarf sowie Farbmischservice. Besuchen Sie uns direkt in der Schörgelgasse 7 in Graz.",
           "linkText": "Zum Sortiment",
           "linkUrl": "/farben-kaufen"
         }

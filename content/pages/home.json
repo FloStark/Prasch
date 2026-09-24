@@ -22,7 +22,7 @@
       "_template": "landingChoice"
     },
     {
-      "label": "Malerbetrieb Prasch · Graz & Studenzen",
+      "label": "Malerbetrieb Prasch · Graz & Südoststeiermark",
       "titleLine1": "Mehr als nur",
       "titleAccent": "Farbe.",
       "description": "Seit über zehn Jahren vertrauen uns Familien und Unternehmen, wenn es um Fassaden, Innenräume und hochwertige Anstriche geht. Wir arbeiten sauber, zuverlässig und mit einem Auge fürs Detail – damit jedes Ergebnis überzeugt.",
@@ -32,8 +32,8 @@
       "secondaryButtonUrl": "/#services",
       "image": "/images/LKH_Pfarre.jpg",
       "imageAlt": "Malerbetrieb Prasch bei professionellen Malerarbeiten",
-      "badgeTitle": "2 Standorte",
-      "badgeText": "Graz & Studenzen",
+      "badgeTitle": "Unsere Standorte",
+      "badgeText": "Graz & Südoststeiermark",
       "_template": "homeHero"
     },
     {
@@ -46,28 +46,28 @@
         {
           "icon": "fas fa-building",
           "title": "Fassadensanierung",
-          "text": "Wetterschutz und Ästhetik für Ihre Immobilie in Graz. Wir schützen Ihre Bausubstanz nachhaltig.",
+          "text": "Wetterschutz und Ästhetik für Ihre Immobilie. Wir schützen Ihre Bausubstanz nachhaltig.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/fassadengestaltung"
         },
         {
           "icon": "fas fa-palette",
           "title": "Kreative Spachteltechnik",
-          "text": "Exklusive Wandgestaltung für Graz: Beton-Optik, Rost-Design oder edle Glättetechniken.",
+          "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
           "linkText": "Zu den Techniken",
           "linkUrl": "/innenmalerei"
         },
         {
           "icon": "fas fa-paint-roller",
           "title": "Anstriche & Lacke",
-          "text": "Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
+          "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
         },
         {
           "icon": "fas fa-shop",
           "title": "Farben-Shop",
-          "text": "Profi-Farben, Lacke und Farbmischservice direkt in der Schörgelgasse 7 in Graz.",
+          "text": "Profi-Farben, Lacke, Malerbedarf sowie Farbmischservice. Besuchen Sie uns direkt in der Schörgelgasse 7 in Graz.",
           "linkText": "Zum Sortiment",
           "linkUrl": "/farben-kaufen"
         }

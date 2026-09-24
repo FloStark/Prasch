@@ -9,31 +9,14 @@
   "ogDescription": "Malerarbeiten in Studenzen und der Südoststeiermark: Fassaden, Innenmalerei und Anstriche vom Fachbetrieb.",
   "ogImage": "https://malerbetrieb-prasch.at/images/Maler.jpg",
   "bodyHtml": "<a href=\"#main-content\" class=\"skip-link\">Zum Inhalt springen</a>\n\n    <header id=\"header\">\n        <div class=\"container\">\n            <nav>\n                <a href=\"/\" aria-label=\"Startseite\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch Logo\" class=\"logo-img\" width=\"140\" height=\"46\">\n                </a>\n\n                <ul class=\"nav-links\" id=\"navLinks\">\n                    <li><a href=\"/\">Home</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle\" aria-expanded=\"false\">Leistungen <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"fassadengestaltung.html\">Fassaden <small>Fassadensanierung & Gestaltung</small></a></li>\n                            <li><a href=\"innenmalerei.html\">Innenmalerei <small>Wandgestaltung & Räume</small></a></li>\n                            <li><a href=\"anstriche.html\">Anstriche <small>Holz, Metall, Türen & Fenster</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"referenzen.html\">Referenzen</a></li>\n                    <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                    <li class=\"nav-dropdown\">\n                        <button type=\"button\" class=\"dropdown-toggle current\" aria-expanded=\"false\">Standorte <i class=\"fas fa-chevron-down\" aria-hidden=\"true\"></i></button>\n                        <ul class=\"dropdown-menu\">\n                            <li><a href=\"standort-graz.html\">Standort Graz <small>Schörgelgasse 7, 8010 Graz</small></a></li>\n                            <li><a href=\"standort-studenzen.html\" aria-current=\"page\">Standort Studenzen <small>Malerarbeiten in der Südoststeiermark</small></a></li>\n                        </ul>\n                    </li>\n                    <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                    <li><a href=\"/#contact\">Kontakt</a></li>\n                </ul>\n\n                <a href=\"tel:06641186505\" class=\"btn btn-primary nav-cta\">\n                    <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Jetzt anrufen\n                </a>\n\n                <button class=\"mobile-toggle\" id=\"mobileToggle\" aria-label=\"Menü öffnen\" aria-expanded=\"false\">\n                    <span></span><span></span><span></span>\n                </button>\n            </nav>\n        </div>\n    </header>\n\n    <main id=\"main-content\">\n        <nav class=\"breadcrumb-nav container\" aria-label=\"Breadcrumb\">\n            <ol>\n                <li><a href=\"/\">Home</a></li>\n                <li aria-current=\"page\">Standort Studenzen</li>\n            </ol>\n        </nav>\n\n        <div class=\"page-hero\">\n            <div class=\"container\">\n                <div class=\"section-header reveal\">\n                    <span class=\"section-label\">Standort Studenzen</span>\n                    <h1>Malerbetrieb Prasch in Studenzen und der Südoststeiermark</h1>\n                    <p class=\"section-desc\">Mit unserem Standort Studenzen sind wir auch für Projekte in der Südoststeiermark erreichbar: Fassaden, Innenmalerei und Anstriche mit zuverlässiger Ausführung vom Fachbetrieb.</p>\n                </div>\n            </div>\n        </div>\n\n        <section class=\"container\">\n            <div class=\"about-grid\">\n                <div class=\"about-content reveal\">\n                    <h2>Malerarbeiten regional und persönlich</h2>\n                    <p class=\"about-text\">In Studenzen und Umgebung betreuen wir Hausbesitzer, Betriebe und Sanierungsprojekte mit der gleichen Sorgfalt wie am Grazer Standort: klare Beratung, saubere Vorbereitung und langlebige Beschichtungssysteme.</p>\n                    <p class=\"about-text\">Ob Fassade, Wohnraum oder Holz- und Metallanstrich: Wir wählen Materialien passend zu Untergrund, Nutzung und Witterung aus.</p>\n\n                    <div class=\"about-values\">\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-house\" aria-hidden=\"true\"></i>\n                            <div><strong>Für Studenzen & Umgebung</strong><span>Kurze Wege für Projekte in der Südoststeiermark</span></div>\n                        </div>\n                        <div class=\"value-item\">\n                            <i class=\"fas fa-shield-halved\" aria-hidden=\"true\"></i>\n                            <div><strong>Langlebiger Schutz</strong><span>Fachgerechte Systeme für Fassade, Holz und Metall</span></div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"hero-visual reveal\">\n                    <div class=\"hero-image-placeholder\">\n                        <img src=\"/images/Maler.jpg\" alt=\"Malerarbeiten für Studenzen und die Südoststeiermark\" width=\"1536\" height=\"2048\" loading=\"lazy\">\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <span class=\"section-label\">Leistungen in Studenzen</span>\n            <h2>Fassaden, Innenräume und Anstriche</h2>\n            <div class=\"services-grid reveal-stagger\">\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-building\" aria-hidden=\"true\"></i></div>\n                    <h3>Fassadengestaltung</h3>\n                    <p>Sanierung, Farbauswahl und Schutz gegen Feuchtigkeit, UV-Strahlung und Witterung.</p>\n                    <a href=\"fassadengestaltung.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Fassaden →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-palette\" aria-hidden=\"true\"></i></div>\n                    <h3>Innenmalerei</h3>\n                    <p>Wohnräume, Büros und Geschäftsflächen mit sauberer Ausführung und passenden Farben.</p>\n                    <a href=\"innenmalerei.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Innenmalerei →</a>\n                </div>\n                <div class=\"service-card\">\n                    <div class=\"service-icon\"><i class=\"fas fa-paint-roller\" aria-hidden=\"true\"></i></div>\n                    <h3>Anstriche</h3>\n                    <p>Lacke, Lasuren und Schutzanstriche für dauerhafte Ergebnisse auf vielen Oberflächen.</p>\n                    <a href=\"anstriche.html\" class=\"accent\" style=\"display: inline-block; margin-top: 1rem; font-weight: 600;\">Mehr zu Anstrichen →</a>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"container reveal\">\n            <div class=\"cross-sell\">\n                <div>\n                    <span class=\"section-label\">Anfrage Studenzen</span>\n                    <h2>Projekt in Studenzen besprechen</h2>\n                    <p>Beschreiben Sie kurz Ihr Vorhaben. Wir melden uns für eine persönliche Einschätzung und die nächsten Schritte.</p>\n                </div>\n                <div class=\"cross-sell-highlight\">\n                    <a href=\"tel:06641186505\" class=\"btn btn-primary\">0664 1186505 anrufen</a>\n                    <a href=\"mailto:office@farben-prasch.at\" class=\"btn btn-outline\">E-Mail schreiben</a>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-grid\">\n                <div class=\"footer-brand\">\n                    <img src=\"/Assets/image/logo.png\" alt=\"Malerbetrieb Prasch\" class=\"footer-logo\" width=\"140\" height=\"46\">\n                    <p>Ihr Malerbetrieb in Graz und der Südoststeiermark - für Fassaden, Innenräume und alles, was Farbe braucht.</p>\n                </div>\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-leistungs-title\">Leistung & Qualität</h4>\n                    <ul aria-labelledby=\"footer-leistungs-title\">\n                        <li><a href=\"fassadengestaltung.html\">Fassadengestaltung</a></li>\n                        <li><a href=\"innenmalerei.html\">Innenmalerei</a></li>\n                        <li><a href=\"anstriche.html\">Anstriche & Lacke</a></li>\n                        <li><a href=\"referenzen.html\">Referenzen</a></li>\n                        <li><a href=\"nachhaltigkeit.html\">Nachhaltigkeit</a></li>\n                        <li><a href=\"farben-kaufen.html\">Farben-Shop</a></li>\n                        <li><a href=\"standort-graz.html\">Standort Graz</a></li>\n                        <li><a href=\"standort-studenzen.html\">Standort Studenzen</a></li>\n                    </ul>\n                </div>\n                <div class=\"footer-col\">\n                    <h4 id=\"footer-contact-title\">Kontakt</h4>\n                    <ul aria-labelledby=\"footer-contact-title\">\n                        <li><a href=\"tel:06641186505\">0664 1186505</a></li>\n                        <li><a href=\"mailto:office@farben-prasch.at\">E-Mail schreiben</a></li>\n                        <li><a href=\"standort-graz.html\">Standort Graz</a></li>\n                        <li><a href=\"standort-studenzen.html\">Standort Studenzen</a></li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"footer-bottom\">\n                <p>&copy; <span data-current-year>2026</span> Malerbetrieb Prasch. Alle Rechte vorbehalten.</p>\n                <nav aria-label=\"Rechtliches\">\n                    <p><a href=\"impressum.html\">Impressum</a> · <a href=\"datenschutz.html\">Datenschutz</a></p>\n                </nav>\n            </div>\n            <p class=\"footer-credit\"><a href=\"https://murix.at\" target=\"_blank\" rel=\"noopener\">Made by Murix.at</a></p>\n        </div>\n    </footer>\n\n    <div class=\"sticky-cta\">\n        <a href=\"tel:06641186505\" class=\"btn btn-primary\" aria-label=\"Jetzt anrufen\">\n            <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> Anrufen\n        </a>\n    </div>",
-  "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Studenzen\",\n      \"image\": \"https://malerbetrieb-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"url\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"addressLocality\": \"Studenzen\",\n        \"addressRegion\": \"Steiermark\",\n        \"addressCountry\": \"AT\"\n      },\n      \"areaServed\": [{\n        \"@type\": \"Place\",\n        \"name\": \"Studenzen\"\n      },{\n        \"@type\": \"AdministrativeArea\",\n        \"name\": \"Südoststeiermark\"\n      }]\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Studenzen\",\n        \"item\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\"\n      }]\n    }"
-  ],
-  "media": [
-    {
-      "originalSrc": "/Assets/image/logo.png",
-      "src": "/Assets/image/logo.png",
-      "alt": "Malerbetrieb Prasch Logo"
-    },
-    {
-      "originalSrc": "/images/Maler.jpg",
-      "src": "/images/Maler.jpg",
-      "alt": "Malerarbeiten für Studenzen und die Südoststeiermark"
-    }
-  ],
   "sections": [
     {
-      "_template": "pageHero",
       "label": "Standort Studenzen",
-      "title": "Malerbetrieb Prasch in Studenzen und der Südoststeiermark",
-      "description": "Mit unserem Standort Studenzen sind wir auch für Projekte in der Südoststeiermark erreichbar: Fassaden, Innenmalerei und Anstriche mit zuverlässiger Ausführung vom Fachbetrieb."
+      "title": "Malerbetrieb Prasch in der Südoststeiermark",
+      "description": "Mit unserem Standort in Studenzen sind wir auch für Projekte in der Südoststeiermark erreichbar. Fassaden, Innenmalerei und Anstriche mit zuverlässiger Ausführung vom Fachbetrieb.",
+      "_template": "pageHero"
     },
     {
-      "_template": "feature",
       "title": "Malerarbeiten regional und persönlich",
       "image": "/images/Maler.jpg",
       "imageAlt": "Malerarbeiten für Studenzen und die Südoststeiermark",
@@ -57,38 +40,38 @@
           "title": "Langlebiger Schutz",
           "text": "Fachgerechte Systeme für Fassade, Holz und Metall"
         }
-      ]
+      ],
+      "_template": "feature"
     },
     {
-      "_template": "cardGrid",
-      "label": "Leistungen in Studenzen",
+      "label": "Leistungen in Studenzen (Südoststeiermark)",
       "title": "Fassaden, Innenräume und Anstriche",
       "cards": [
         {
           "icon": "fas fa-building",
           "title": "Fassadensanierung",
-          "text": "Wetterschutz und Ästhetik für Ihre Immobilie in Graz. Wir schützen Ihre Bausubstanz nachhaltig.",
+          "text": "Wetterschutz und Ästhetik für Ihre Immobilie. Wir schützen Ihre Bausubstanz nachhaltig.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/fassadengestaltung"
         },
         {
           "icon": "fas fa-palette",
-          "title": "Kreative Spachteltechnik",
-          "text": "Exklusive Wandgestaltung für Graz: Beton-Optik, Rost-Design oder edle Glättetechniken.",
+          "title": "Kreatives Wanddesign",
+          "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
           "linkText": "Zu den Techniken",
           "linkUrl": "/innenmalerei"
         },
         {
           "icon": "fas fa-paint-roller",
           "title": "Anstriche & Lacke",
-          "text": "Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
+          "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
         }
-      ]
+      ],
+      "_template": "cardGrid"
     },
     {
-      "_template": "cta",
       "label": "Anfrage Studenzen",
       "title": "Projekt in Studenzen besprechen",
       "text": "Beschreiben Sie kurz Ihr Vorhaben. Wir melden uns für eine persönliche Einschätzung und die nächsten Schritte.",
@@ -103,7 +86,24 @@
           "url": "mailto:office@farben-prasch.at",
           "style": "outline"
         }
-      ]
+      ],
+      "_template": "cta"
     }
+  ],
+  "media": [
+    {
+      "originalSrc": "/Assets/image/logo.png",
+      "src": "/images/Assets/image/logo.png",
+      "alt": "Malerbetrieb Prasch Logo"
+    },
+    {
+      "originalSrc": "/images/Maler.jpg",
+      "src": "/images/Maler.jpg",
+      "alt": "Malerarbeiten für Studenzen und die Südoststeiermark"
+    }
+  ],
+  "schemaJson": [
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Studenzen\",\n      \"image\": \"https://malerbetrieb-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"url\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"addressLocality\": \"Studenzen\",\n        \"addressRegion\": \"Steiermark\",\n        \"addressCountry\": \"AT\"\n      },\n      \"areaServed\": [{\n        \"@type\": \"Place\",\n        \"name\": \"Studenzen\"\n      },{\n        \"@type\": \"AdministrativeArea\",\n        \"name\": \"Südoststeiermark\"\n      }]\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Studenzen\",\n        \"item\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\"\n      }]\n    }"
   ]
 }

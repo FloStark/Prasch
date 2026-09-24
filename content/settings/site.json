@@ -1,15 +1,15 @@
 {
+  "creditText": "Made by Murix.at",
+  "creditUrl": "https://murix.at",
   "siteName": "Malerbetrieb Prasch",
   "baseUrl": "https://malerbetrieb-prasch.at",
-  "logo": "/Assets/image/logo.png",
+  "logo": "/images/Assets/image/logo.png",
   "logoAlt": "Malerbetrieb Prasch Logo",
-  "phone": "0664 1186505",
+  "phone": "+43 664 11 86 505",
   "phoneHref": "tel:06641186505",
   "email": "office@farben-prasch.at",
   "address": "Schörgelgasse 7, 8010 Graz",
   "footerText": "Ihr Malerbetrieb in Graz - für Fassaden, Innenräume und alles, was Farbe braucht. Persönlich, zuverlässig und mit Liebe zum Detail.",
-  "creditText": "Made by Murix.at",
-  "creditUrl": "https://murix.at",
   "cookieTitle": "Datenschutzeinstellungen",
   "cookieText": "Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten. Durch Klicken auf \"Akzeptieren\" stimmen Sie der Verwendung von Cookies zu."
 }

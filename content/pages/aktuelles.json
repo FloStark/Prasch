@@ -11,9 +11,9 @@
   "bodyHtml": "",
   "sections": [
     {
-      "label": "Unser Team",
-      "title": "Menschen, die sauber arbeiten und mitdenken",
-      "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen.",
+      "label": "Aktuelles",
+      "title": "Aktuelles",
+      "description": "Aktuelles von Malerbetrieb Prasch",
       "_template": "pageHero"
     },
     {

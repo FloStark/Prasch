@@ -42,8 +42,8 @@
     },
     {
       "label": "Projektgalerie",
-      "title": "Ausgewählte Arbeiten",
-      "description": "Eine Auswahl realer Arbeiten aus den Bereichen Fassade, Innenraum, Restaurierung und Beschichtung.",
+      "title": "Ausgeführte Arbeiten",
+      "description": "Eindrücke unserer Arbeiten aus den Bereichen Fassade, Innenraum, Restaurierung und Beschichtung.",
       "items": [
         {
           "src": "/images/EFH_Vorher.jpg",

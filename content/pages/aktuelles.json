@@ -1,0 +1,141 @@
+{
+  "slug": "aktuelles",
+  "title": "Aktuelles | Malerbetrieb Prasch",
+  "description": "Aktuelles von Malerbetrieb Prasch. Das Team vom Malerbetrieb Prasch: Persönliche Beratung, saubere Ausführung und Fachwissen für Fassaden, Innenmalerei, Anstriche und Farbenberatung.",
+  "keywords": "Aktuelles Malerbetrieb Prasch, Malerteam Graz, Malermeister Graz, Farbberatung Graz",
+  "robots": "index, follow",
+  "canonical": "https://malerbetrieb-prasch.at/aktuelles",
+  "ogTitle": "Aktuelles | Malerbetrieb Prasch",
+  "ogDescription": "Aktuelles von Malerbetrieb Prasch. Lernen Sie die Menschen hinter dem Malerbetrieb Prasch kennen.",
+  "ogImage": "https://malerbetrieb-prasch.at/images/Maler.jpg",
+  "bodyHtml": "",
+  "sections": [
+    {
+      "label": "Unser Team",
+      "title": "Menschen, die sauber arbeiten und mitdenken",
+      "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen.",
+      "_template": "pageHero"
+    },
+    {
+      "label": "Malerbetrieb Prasch",
+      "title": "Das Team hinter den Projekten",
+      "description": "Vom ersten Beratungsgespräch bis zur finalen Kante: Wir arbeiten persönlich, genau und lösungsorientiert.",
+      "members": [
+        {
+          "image": "/images/Maler.jpg",
+          "imageAlt": "Thomas Bernhard Prasch vom Malerbetrieb Prasch",
+          "name": "Thomas Bernhard Prasch",
+          "role": "Inhaber & Ansprechpartner",
+          "text": "Thomas begleitet Projekte von der ersten Einschätzung bis zur Ausführung. Wichtig sind ihm klare Beratung, zuverlässige Terminabstimmung und Ergebnisse, die technisch und optisch überzeugen.",
+          "skills": [
+            {
+              "text": "Beratung"
+            },
+            {
+              "text": "Fassaden"
+            },
+            {
+              "text": "Farbsysteme"
+            }
+          ]
+        },
+        {
+          "image": "/images/Uebermich3.jpg",
+          "imageAlt": "Persönliche Beratung vom Malerbetrieb Prasch",
+          "name": "Beratung & Planung",
+          "role": "Projektvorbereitung",
+          "text": "Vor Ort klären wir Untergrund, Nutzung, Farbwirkung und Materialwahl. So entstehen realistische Angebote und ein Ablauf, der für Kundinnen und Kunden nachvollziehbar bleibt.",
+          "skills": [
+            {
+              "text": "Farbberatung"
+            },
+            {
+              "text": "Materialwahl"
+            },
+            {
+              "text": "Ablaufplanung"
+            }
+          ]
+        },
+        {
+          "image": "/images/Uebermich4.jpg",
+          "imageAlt": "Präzise Handwerksarbeit vom Malerbetrieb Prasch",
+          "name": "Ausführungsteam",
+          "role": "Malerarbeiten & Details",
+          "text": "Unser Ausführungsteam achtet auf saubere Vorbereitung, exakte Kanten, geschützte Oberflächen und eine Baustelle, die ordentlich hinterlassen wird.",
+          "skills": [
+            {
+              "text": "Innenmalerei"
+            },
+            {
+              "text": "Anstriche"
+            },
+            {
+              "text": "Detailarbeit"
+            }
+          ]
+        }
+      ],
+      "_template": "teamGrid"
+    },
+    {
+      "label": "Teamfoto",
+      "title": "Ein gemeinsames Bild folgt",
+      "text": "Hier ist Platz für ein aktuelles Gruppenfoto des gesamten Teams. Bis das finale Bild verfügbar ist, bleibt der Bereich bewusst hochwertig gestaltet und kann später direkt in TinaCMS mit einem echten Teamfoto ersetzt werden.",
+      "image": "",
+      "imageAlt": "Teamfoto vom Malerbetrieb Prasch",
+      "placeholderTitle": "Teamfoto in Vorbereitung",
+      "placeholderText": "Mehrere Mitarbeiter, ein gemeinsamer Anspruch: saubere Arbeit, klare Kommunikation und verlässliche Ausführung.",
+      "_template": "teamImage"
+    },
+    {
+      "label": "Zusammenarbeit",
+      "title": "Ein Ansprechpartner, klare Wege, saubere Umsetzung",
+      "image": "/images/Uebermich2.jpg",
+      "imageAlt": "Saubere Malerarbeit vom Malerbetrieb Prasch",
+      "imageRight": true,
+      "texts": [
+        {
+          "text": "Wir setzen auf direkte Kommunikation und übersichtliche Abläufe. Vom ersten Kontakt bis zur Fertigstellung bleibt klar, wer zuständig ist und was als nächstes passiert."
+        },
+        {
+          "text": "Das macht Projekte angenehmer, vermeidet Missverständnisse und sorgt dafür, dass die Ausführung zur Beratung passt."
+        }
+      ],
+      "values": [
+        {
+          "icon": "fas fa-clock",
+          "title": "Verlässlich",
+          "text": "Termine und Absprachen zählen"
+        },
+        {
+          "icon": "fas fa-broom",
+          "title": "Ordentlich",
+          "text": "Saubere Arbeit und saubere Baustellen"
+        }
+      ],
+      "_template": "feature"
+    },
+    {
+      "label": "Projekt starten",
+      "title": "Sie möchten mit uns arbeiten?",
+      "text": "Rufen Sie uns an oder schreiben Sie uns. Wir besprechen Ihr Vorhaben persönlich und unverbindlich.",
+      "buttons": [
+        {
+          "text": "+43 664 11 86 505 anrufen",
+          "url": "tel:06641186505",
+          "style": "primary"
+        },
+        {
+          "text": "Referenzen ansehen",
+          "url": "/referenzen",
+          "style": "outline"
+        }
+      ],
+      "_template": "cta"
+    }
+  ],
+  "schemaJson": [
+    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebPage\",\n  \"name\": \"Team | Malerbetrieb Prasch\",\n  \"url\": \"https://malerbetrieb-prasch.at/team\"\n}"
+  ]
+}

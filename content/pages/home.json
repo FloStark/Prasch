@@ -99,7 +99,7 @@
       "cardTitle": "Sauber. Präzise. Lokal.",
       "texts": [
         {
-          "text": "Der Malerbetrieb Prasch steht für ehrliches Handwerk in Graz, Studenzen und der umliegenden Steiermark. Privatkunden, Betriebe und Hausverwaltungen vertrauen uns seit Jahren ihre Immobilien an. Was bei uns zählt, ist das Ergebnis – und dass Sie sich darauf verlassen können. Wir kommen pünktlich, arbeiten sauber und hinterlassen die Baustelle so, wie wir sie vorfinden möchten."
+          "text": "Der Malerbetrieb Prasch steht für ehrliches Handwerk in Graz, in der Südoststeiermark und der umliegenden Steiermark. Privatkunden, Betriebe und Hausverwaltungen vertrauen uns seit Jahren ihre Immobilien an. Was bei uns zählt, ist das Ergebnis – und dass Sie sich darauf verlassen können. Wir kommen pünktlich, arbeiten sauber und hinterlassen die Baustelle so, wie wir sie vorfinden möchten."
         },
         {
           "text": "Ob kleines Wohnzimmer oder große Fassade: Jeder Auftrag wird mit der gleichen Sorgfalt behandelt. Wir verwenden ausschließlich hochwertige Materialien und beraten Sie ehrlich, was sinnvoll ist – und was nicht."
@@ -108,13 +108,13 @@
       "values": [
         {
           "icon": "fas fa-check-circle",
-          "title": "Termintreue",
-          "text": "Wir halten, was wir zusagen"
+          "title": "Saubere Arbeit",
+          "text": "Präzise vom Abkleben bis zum letzten Pinselstrich"
         },
         {
           "icon": "fas fa-check-circle",
-          "title": "Saubere Arbeit",
-          "text": "Präzise vom Abkleben bis zum letzten Pinselstrich"
+          "title": "Termintreue",
+          "text": "Wir halten, was wir zusagen"
         },
         {
           "icon": "fas fa-check-circle",
@@ -140,7 +140,7 @@
         },
         {
           "question": "Was kostet eine Fassadensanierung?",
-          "answer": "Die Kosten hängen stark vom Zustand des Untergrunds und dem gewählten Farbsystem ab. Wir erstellen Ihnen nach einer kostenlosen Besichtigung vor Ort ein individuelles Pauschalangebot."
+          "answer": "Die Kosten hängen stark vom Zustand des Untergrunds und dem gewählten Farbsystem ab. Wir erstellen Ihnen nach einer kostenlosen Besichtigung vor Ort ein individuelles Angebot."
         },
         {
           "question": "Muss ich die Möbel selbst ausräumen?",

@@ -62,8 +62,9 @@
     {
       "label": "Spachteltechniken",
       "title": "Edle Oberflächen mit Tiefe",
-      "image": "/images/Assets/image/interior-spatula.png",
+      "image": "/images/Garage.jpg",
       "imageAlt": "Kreative Spachteltechnik für hochwertige Innenwände",
+      "imageRight": false,
       "texts": [
         {
           "text": "Mit Spachteltechniken entstehen lebendige Oberflächen, die je nach Licht und Struktur immer anders wirken."

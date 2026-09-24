@@ -12,7 +12,7 @@
   "sections": [
     {
       "label": "Gebäudeschutz & Ästhetik",
-      "title": "Fassadengestaltung in Graz",
+      "title": "Fassadengestaltung",
       "description": "Eine Fassade ist mehr als nur die Visitenkarte Ihres Hauses. Sie ist die schützende Hülle, die Wind und Wetter standhalten muss. Als erfahrener Malermeisterbetrieb in Graz sorgen wir für langlebige und ästhetische Lösungen.",
       "_template": "pageHero"
     },
@@ -137,7 +137,7 @@
       "cards": [
         {
           "icon": "fas fa-palette",
-          "title": "Kreative Spachteltechnik",
+          "title": "Kreative Techniken",
           "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken. Bei uns sind Sie genau richtig.",
           "linkText": "Zu den Techniken",
           "linkUrl": "/innenmalerei"

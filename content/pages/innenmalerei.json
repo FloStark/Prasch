@@ -34,8 +34,13 @@
         {
           "src": "/images/Malerei4.jpeg",
           "alt": "Malerei4"
+        },
+        {
+          "src": "/images/Malerei.jpeg",
+          "alt": "Malerei5"
         }
       ],
+      "cardLabel": "Malerei",
       "texts": [
         {
           "text": "Schöne Wände beginnen bei der Vorbereitung. Wir sorgen für glatte Oberflächen durch fachgerechte Spachtelung und Grundierung."
@@ -59,20 +64,20 @@
       "_template": "aboutSlider"
     },
     {
-      "label": "",
       "title": "Akzentwände mit Charakter",
-      "image": "/images/Tapete.jpg",
-      "imageAlt": "Tapezierarbeit und Wandgestaltung vom Malerbetrieb Prasch",
-      "imageRight": true,
-      "texts": [
+      "description": "Tapeten setzen gezielt Akzente und geben Räumen Struktur, Tiefe und Persönlichkeit.\nWir bereiten den Untergrund fachgerecht vor und bringen Tapeten blasenfrei, sauber und dauerhaft an.",
+      "members": [
         {
-          "text": "Tapeten setzen gezielt Akzente und geben Räumen Struktur, Tiefe und Persönlichkeit."
+          "image": "/images/Tapete2.jpeg"
         },
         {
-          "text": "Wir bereiten den Untergrund fachgerecht vor und bringen Tapeten blasenfrei, sauber und dauerhaft an."
+          "image": "/images/Tapete.jpeg"
+        },
+        {
+          "image": "/images/Tapete.jpg"
         }
       ],
-      "_template": "feature"
+      "_template": "teamGrid"
     },
     {
       "label": "",

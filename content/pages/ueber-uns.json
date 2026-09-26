@@ -89,7 +89,11 @@
           "skills": [
             {
               "text": "Beratung"
-            }
+            },
+            {
+              "text": "Ablaufplanung"
+            },
+            {}
           ]
         },
         {},

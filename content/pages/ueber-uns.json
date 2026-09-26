@@ -70,47 +70,6 @@
         }
       ],
       "_template": "aboutSlider"
-    },
-    {
-      "label": "",
-      "title": "Drei Dinge, die jedes Projekt tragen",
-      "description": "Gute Malerarbeit beginnt vor dem ersten Pinselstrich: mit Vorbereitung, Materialverständnis und verlässlicher Abstimmung.",
-      "cards": [
-        {
-          "icon": "fas fa-ruler-combined",
-          "title": "Sorgfältige Vorbereitung",
-          "text": "Wir prüfen Oberflächen, schützen angrenzende Bereiche und schaffen die Grundlage für ein langlebiges Ergebnis."
-        },
-        {
-          "icon": "fas fa-comments",
-          "title": "Persönliche Abstimmung",
-          "text": "Sie wissen, was passiert, wann es passiert und welche Materialien verwendet werden."
-        },
-        {
-          "icon": "fas fa-shield-halved",
-          "title": "Langlebige Ergebnisse",
-          "text": "Beschichtungen sollen nicht nur am ersten Tag gut aussehen, sondern technisch funktionieren und lange halten."
-        }
-      ],
-      "_template": "cardGrid"
-    },
-    {
-      "label": "",
-      "title": "Lernen Sie unser Team kennen",
-      "text": "Hinter jedem Projekt stehen Menschen, die genau arbeiten, mitdenken und Verantwortung übernehmen.",
-      "buttons": [
-        {
-          "text": "Zum Team",
-          "url": "/team",
-          "style": "primary"
-        },
-        {
-          "text": "Referenzen ansehen",
-          "url": "/referenzen",
-          "style": "outline"
-        }
-      ],
-      "_template": "cta"
     }
   ],
   "media": [

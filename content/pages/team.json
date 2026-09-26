@@ -31,6 +31,7 @@
       ],
       "values": [
         {
+          "icon": "fas fa-recycle",
           "title": "Fachgerecht",
           "text": "Saubere Trennung und Entsorgung"
         },

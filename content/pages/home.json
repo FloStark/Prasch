@@ -131,7 +131,7 @@
     },
     {
       "id": "faq",
-      "label": "Fragen & Antworten",
+      "label": "",
       "title": "Wissenswertes über unsere Malerarbeiten",
       "items": [
         {
@@ -150,7 +150,7 @@
       "_template": "faq"
     },
     {
-      "label": "Was Kunden sagen",
+      "label": "",
       "title": "Echte Erfahrungen",
       "items": [
         {
@@ -167,7 +167,7 @@
       "_template": "testimonials"
     },
     {
-      "label": "Farben-Shop",
+      "label": "",
       "title": "Farben vom Profi für Ihr Projekt",
       "image": "/images/landing-shop.jpg",
       "imageAlt": "Malerbetrieb Prasch Farbenhandel",

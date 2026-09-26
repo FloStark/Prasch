@@ -44,7 +44,16 @@
       "_template": "feature"
     },
     {
-      "_template": "bioBlock"
+      "title": "KEIM Mineralfarben für gesunde und langlebige Oberflächen",
+      "description": "Wenn es zum Projekt passt, setzen wir auf mineralische Beschichtungssysteme von KEIM.",
+      "cards": [
+        {
+          "title": "Wohngesunde Innenräume",
+          "text": "Mineralische Farben unterstützen ein angenehmes Raumklima und passen gut zu sensiblen Wohnbereichen."
+        },
+        {}
+      ],
+      "_template": "cardGrid"
     }
   ],
   "media": [

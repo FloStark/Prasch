@@ -52,22 +52,22 @@
         },
         {
           "icon": "fas fa-palette",
-          "title": "Kreatives Wanddesign",
-          "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
+          "title": "Innenmalerei",
+          "text": "Exklusive Wandgestaltung. Ob klassische Wandmalerei, Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
           "linkText": "Zu den Techniken",
           "linkUrl": "/innenmalerei"
         },
         {
           "icon": "fas fa-paint-roller",
-          "title": "Anstriche & Lacke",
+          "title": "Anstriche",
           "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
         },
         {
           "icon": "fas fa-shop",
-          "title": "Farben-Shop",
-          "text": "Profi-Farben, Lacke, Malerbedarf sowie Farbmischservice. Besuchen Sie uns direkt in der Schörgelgasse 7 in Graz.",
+          "title": "Produkte & Service",
+          "text": "Profi-Farben, Lacke, Tapeten, Malerbedarf sowie Farbmischservice. Besuchen Sie uns direkt in der Schörgelgasse 7 in Graz.",
           "linkText": "Zum Sortiment",
           "linkUrl": "/farben-kaufen"
         }

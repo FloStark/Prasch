@@ -78,6 +78,23 @@
       "_template": "pageHero"
     },
     {
+      "title": "Das Team hinter den Projekten",
+      "description": "Vom ersten Beratungsgespräch bis zur finalen Kante: Wir arbeiten persönlich, genau und lösungsorientiert.",
+      "members": [
+        {
+          "imageAlt": "",
+          "name": "Thomas Bernhard Prasch",
+          "role": "Inhaber & Ansprechpartner",
+          "text": "Thomas begleitet Projekte von der ersten Einschätzung bis zur Ausführung. Wichtig sind ihm klare Beratung, zuverlässige Terminabstimmung und Ergebnisse, die technisch und optisch überzeugen.",
+          "skills": [
+            {
+              "text": "Beratung"
+            }
+          ]
+        },
+        {},
+        {}
+      ],
       "_template": "teamGrid"
     },
     {

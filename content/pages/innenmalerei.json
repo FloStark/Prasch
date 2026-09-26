@@ -97,11 +97,6 @@
         }
       ],
       "_template": "testimonials"
-    },
-    {
-      "label": "",
-      "title": "Weitere Leistungen",
-      "_template": "cardGrid"
     }
   ],
   "media": [

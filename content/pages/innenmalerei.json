@@ -88,10 +88,19 @@
       "badge": "",
       "texts": [
         {
-          "text": "Mit Spachteltechniken entstehen lebendige Oberflächen, die je nach Licht und Struktur immer anders wirken."
+          "text": "Mit professioneller Spachteltechnik verwandeln wir Wände und Räume in individuelle Unikate. Ob elegante, glatte Oberflächen, moderne Betonoptik oder lebendige Strukturen - durch unterschiedliche Techniken, Farben und Materialien entstehen außergewöhnliche Wandgestaltungen, die perfekt zu Ihrem Stil passen."
         },
         {
-          "text": "Wir achten auf Untergrundvorbereitung, passende Materialwahl und gleichmäßige Verarbeitung."
+          "text": ""
+        }
+      ],
+      "_template": "feature"
+    },
+    {
+      "image": "/images/Garage.jpg",
+      "texts": [
+        {
+          "text": "Jede Oberfläche wird sorgfältig vorbereitet und mit viel handwerklichem Geschick ausgeführt. So entstehen hochwertige Wandflächen mit besonderer Tiefe, Struktur und Ausdruck."
         }
       ],
       "_template": "feature"

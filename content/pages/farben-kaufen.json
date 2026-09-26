@@ -110,13 +110,18 @@
           "text": "Kostenloses Angebot",
           "url": "/#contact",
           "style": "outline"
+        },
+        {
+          "text": "+43 664 11 86 505 anrufen",
+          "url": "tel:06641186505",
+          "style": "outline"
         }
       ],
       "_template": "cta"
     },
     {
       "label": "",
-      "title": "Echte Erfahrungen",
+      "title": "",
       "items": [
         {
           "text": "Sehr sehr freundlich, schnell, verlässlich, unkompliziert, flexibel - alles das was man sich wünscht und viel zu selten bekommt. Malerbetrieb Prasch ist 👍👍👍👍👍👍",

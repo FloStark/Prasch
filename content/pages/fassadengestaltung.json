@@ -43,6 +43,18 @@
       "_template": "feature"
     },
     {
+      "images": [
+        {
+          "src": "/images/Fassade4.jpg",
+          "alt": "Fassade4"
+        },
+        {},
+        {},
+        {}
+      ],
+      "_template": "aboutSlider"
+    },
+    {
       "label": "",
       "title": "Ausgeführte Fassadenarbeiten",
       "description": "Einblicke in Sanierung, Außenanstrich und Holzfassaden. Jede Fassade wird passend zum Untergrund, zur Witterung und zum gewünschten Erscheinungsbild behandelt.",
@@ -51,7 +63,7 @@
           "src": "/images/EFH_Vorher.jpg",
           "alt": "Einfamilienhaus vor der Fassadensanierung",
           "tag": "Vorher",
-          "title": "Fassade vor der Sanierung",
+          "title": "",
           "wide": true,
           "video": false
         },
@@ -59,31 +71,23 @@
           "src": "/images/EFH_Nachher.jpg",
           "alt": "Einfamilienhaus nach der Fassadensanierung",
           "tag": "Nachher",
-          "title": "Frische Fassade mit sauberem Finish",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/Fassade2.jpg",
-          "alt": "Fassadenarbeit mit Gerüst und Außenanstrich",
-          "tag": "Außenanstrich",
-          "title": "Schutz gegen Witterung und UV-Strahlung",
+          "title": "",
           "wide": false,
           "video": false
         },
         {
           "src": "/images/Fassade3.jpg",
           "alt": "Fassadenarbeit an einem Gebäude",
-          "tag": "Fassade",
-          "title": "Saubere Ausführung bis ins Detail",
+          "tag": "Vorher",
+          "title": "",
           "wide": false,
           "video": false
         },
         {
-          "src": "/images/Fassade4.jpg",
-          "alt": "Fassadenbeschichtung mit Gerüst",
-          "tag": "Beschichtung",
-          "title": "Langlebiger Schutz für Außenflächen",
+          "src": "/images/Fassade2.jpg",
+          "alt": "Fassadenarbeit mit Gerüst und Außenanstrich",
+          "tag": "Nachher",
+          "title": "",
           "wide": false,
           "video": false
         },
@@ -91,18 +95,17 @@
           "src": "/images/Fassade5.jpg",
           "alt": "Fassadensanierung und Außenanstrich",
           "tag": "Sanierung",
-          "title": "Frischer Anstrich für die Gebäudehülle",
+          "title": "",
           "wide": false,
           "video": false
         },
         {
-          "src": "/images/EFH_Holzfassade_Sanierung.jpg",
-          "alt": "Holzfassade während der Sanierung",
-          "tag": "Holzfassade",
-          "title": "Sanierung mit passender Schutzbeschichtung",
-          "wide": false,
-          "video": false
-        }
+          "src": "/images/Fassade6.jpeg"
+        },
+        {
+          "src": "/images/Holzfassade.jpeg"
+        },
+        {}
       ],
       "_template": "gallery"
     },

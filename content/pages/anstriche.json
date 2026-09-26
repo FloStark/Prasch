@@ -95,39 +95,15 @@
     },
     {
       "label": "",
-      "title": "Fensterrestaurierung mit langlebigem Schutz",
-      "description": "Alte Fenster müssen nicht sofort ersetzt werden. Mit sorgfältigem Schleifen, Grundieren und Lackieren erhalten Holzfenster wieder Schutz, Glanz und eine saubere Oberfläche.",
+      "title": "",
+      "description": "",
       "items": [
-        {
-          "src": "/images/Fenster_Restaurierung_Vorher.jpg",
-          "alt": "Fenster vor der Restaurierung und Lackierung",
-          "tag": "Vorbereitetes Holzfenster",
-          "title": "",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/Fenster_Restaurierung_Nachher.jpg",
-          "alt": "Fenster nach der Restaurierung und Lackierung",
-          "tag": "Restauriertes Fenster",
-          "title": "",
-          "wide": false,
-          "video": false
-        },
         {
           "src": "/images/TuerenAnstrich1.mp4",
           "alt": "Türanstrich in der Ausführung",
-          "tag": "Video",
-          "title": "Türanstrich in der Ausführung",
-          "wide": true,
-          "video": true
-        },
-        {
-          "src": "/images/AnstrichSpritz.mp4",
-          "alt": "Spritzlackierung bei Anstricharbeiten",
-          "tag": "Video",
-          "title": "Spritzlackierung für gleichmäßige Oberflächen",
-          "wide": true,
+          "tag": "Türanstrich in der Ausführung",
+          "title": "",
+          "wide": false,
           "video": true
         }
       ],

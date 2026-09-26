@@ -14,18 +14,8 @@
       "label": "",
       "title": "Malerbetrieb Prasch in 8010 Graz, Schörgelgasse 7",
       "description": "Unser Standort mit Shop im Herzen von Graz ist Ihre Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, sowie für Anstriche und persönliche Farbberatung vom Fachbetrieb.",
-      "logo": "/images/Shop4.JPEG",
+      "logo": "",
       "_template": "pageHero"
-    },
-    {
-      "title": "",
-      "blocks": [
-        {
-          "title": "",
-          "text": "Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung."
-        }
-      ],
-      "_template": "legal"
     },
     {
       "title": "Ihr Malermeister direkt in Graz",
@@ -90,6 +80,16 @@
         }
       ],
       "_template": "cta"
+    },
+    {
+      "label": "",
+      "title": "Ihr Malermeister direkt in Graz",
+      "texts": [
+        {
+          "text": "Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung."
+        }
+      ],
+      "_template": "aboutSlider"
     }
   ],
   "media": [

@@ -153,6 +153,22 @@
         }
       ],
       "_template": "testimonials"
+    },
+    {
+      "items": [
+        {
+          "src": "/images/AnstrichSpritz.mp4",
+          "alt": "Anstrich Video",
+          "title": "",
+          "video": true
+        },
+        {
+          "src": "/images/Maler.jpg",
+          "wide": false,
+          "video": false
+        }
+      ],
+      "_template": "gallery"
     }
   ],
   "media": [

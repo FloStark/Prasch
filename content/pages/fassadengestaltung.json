@@ -52,7 +52,10 @@
           "src": "/images/Fassade5.jpg",
           "alt": "Fassade5"
         },
-        {},
+        {
+          "src": "/images/Holzfassade.jpeg",
+          "alt": "Holzfassade"
+        },
         {}
       ],
       "_template": "aboutSlider"

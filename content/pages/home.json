@@ -30,7 +30,7 @@
       "primaryButtonUrl": "/#contact",
       "secondaryButtonText": "Unsere Leistungen",
       "secondaryButtonUrl": "/#services",
-      "image": "/images/LKH_Pfarre.jpg",
+      "image": "/images/Malerbetrieb_Prasch_Home.jpeg",
       "imageAlt": "Malerbetrieb Prasch bei professionellen Malerarbeiten",
       "badgeTitle": "Unsere Standorte",
       "badgeText": "Graz & Studenzen",
@@ -204,34 +204,9 @@
       "alt": "Malerbetrieb Prasch bei professionellen Malerarbeiten"
     },
     {
-      "originalSrc": "/images/Uebermich1.jpg",
-      "src": "/images/Uebermich1.jpg",
-      "alt": "Malerbetrieb Prasch bei der Arbeit"
-    },
-    {
-      "originalSrc": "/images/Uebermich2.jpg",
-      "src": "/images/Uebermich2.jpg",
-      "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich3.jpg",
-      "src": "/images/Uebermich3.jpg",
-      "alt": "Persönliche Beratung und Handwerk vom Malerbetrieb Prasch"
-    },
-    {
-      "originalSrc": "/images/Uebermich4.jpg",
-      "src": "/images/Uebermich4.jpg",
-      "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
-    },
-    {
       "originalSrc": "/images/landing-shop.jpg",
       "src": "/images/landing-shop.jpg",
       "alt": "Malerbetrieb Prasch Farbenhandel"
-    },
-    {
-      "originalSrc": "/images/landing-painter.jpg",
-      "src": "/images/landing-painter.jpg",
-      "alt": ""
     }
   ],
   "schemaJson": [

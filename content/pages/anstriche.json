@@ -64,22 +64,6 @@
           "video": false
         },
         {
-          "src": "/images/Fenster2.jpg",
-          "alt": "Fensteranstrich und Restaurierung Detailansicht",
-          "tag": "Fenster",
-          "title": "Detailarbeit an Holzfenstern",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/Fenster3.jpg",
-          "alt": "Restauriertes Fenster mit sauberer Lackierung",
-          "tag": "Lackierung",
-          "title": "Saubere Oberfläche und neuer Schutz",
-          "wide": false,
-          "video": false
-        },
-        {
           "src": "/images/TuerenAnstrich.jpg",
           "alt": "Tür nach professionellem Anstrich",
           "tag": "Türen",
@@ -142,7 +126,7 @@
           "style": "outline"
         },
         {
-          "text": "Mailen Sie uns",
+          "text": "Schreiben Sie uns",
           "url": "office@farben-prasch.at",
           "style": "outline"
         }

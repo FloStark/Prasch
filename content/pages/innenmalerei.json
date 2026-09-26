@@ -92,7 +92,8 @@
         },
         {
           "text": "Mailen Sie uns",
-          "url": "office@farben-prasch.at"
+          "url": "office@farben-prasch.at",
+          "style": "outline"
         }
       ],
       "_template": "cta"

@@ -11,13 +11,13 @@
   "bodyHtml": "",
   "sections": [
     {
-      "label": "Unser Team",
+      "label": "",
       "title": "Menschen, die sauber arbeiten und mitdenken",
       "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen.",
       "_template": "pageHero"
     },
     {
-      "label": "Malerbetrieb Prasch",
+      "label": "",
       "title": "Das Team hinter den Projekten",
       "description": "Vom ersten Beratungsgespräch bis zur finalen Kante: Wir arbeiten persönlich, genau und lösungsorientiert.",
       "members": [
@@ -79,7 +79,7 @@
       "_template": "teamGrid"
     },
     {
-      "label": "Teamfoto",
+      "label": "",
       "title": "Ein gemeinsames Bild folgt",
       "text": "Hier ist Platz für ein aktuelles Gruppenfoto des gesamten Teams. Bis das finale Bild verfügbar ist, bleibt der Bereich bewusst hochwertig gestaltet und kann später direkt in TinaCMS mit einem echten Teamfoto ersetzt werden.",
       "image": "",
@@ -89,7 +89,7 @@
       "_template": "teamImage"
     },
     {
-      "label": "Zusammenarbeit",
+      "label": "",
       "title": "Ein Ansprechpartner, klare Wege, saubere Umsetzung",
       "image": "/images/Uebermich2.jpg",
       "imageAlt": "Saubere Malerarbeit vom Malerbetrieb Prasch",
@@ -115,24 +115,6 @@
         }
       ],
       "_template": "feature"
-    },
-    {
-      "label": "Projekt starten",
-      "title": "Sie möchten mit uns arbeiten?",
-      "text": "Rufen Sie uns an oder schreiben Sie uns. Wir besprechen Ihr Vorhaben persönlich und unverbindlich.",
-      "buttons": [
-        {
-          "text": "+43 664 11 86 505 anrufen",
-          "url": "tel:06641186505",
-          "style": "primary"
-        },
-        {
-          "text": "Referenzen ansehen",
-          "url": "/referenzen",
-          "style": "outline"
-        }
-      ],
-      "_template": "cta"
     }
   ],
   "media": [

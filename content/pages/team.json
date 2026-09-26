@@ -34,7 +34,11 @@
           "title": "Fachgerecht",
           "text": "Saubere Trennung und Entsorgung"
         },
-        {}
+        {
+          "icon": "",
+          "title": "Umweltbewusst",
+          "text": "Schutz von Boden und Wasser"
+        }
       ],
       "_template": "feature"
     },

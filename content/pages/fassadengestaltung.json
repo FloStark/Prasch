@@ -48,7 +48,10 @@
           "src": "/images/Fassade4.jpg",
           "alt": "Fassade4"
         },
-        {},
+        {
+          "src": "/images/Fassade5.jpg",
+          "alt": "Fassade5"
+        },
         {},
         {}
       ],

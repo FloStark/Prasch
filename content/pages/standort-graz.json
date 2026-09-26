@@ -43,6 +43,11 @@
           "icon": "fas fa-paint-roller",
           "title": "Anstriche",
           "text": "Neuer Glanz für Fenster, Türe, Holz und Metall."
+        },
+        {
+          "icon": "fas fa-shop",
+          "title": "Shop & Service",
+          "text": "Profi-Farben, Lacke, Tapeten, Malerbedarf sowie Farbmischservice"
         }
       ],
       "_template": "feature"

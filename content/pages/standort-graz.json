@@ -18,6 +18,16 @@
       "_template": "pageHero"
     },
     {
+      "title": "",
+      "blocks": [
+        {
+          "title": "",
+          "text": "Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung."
+        }
+      ],
+      "_template": "legal"
+    },
+    {
       "title": "Ihr Malermeister direkt in Graz",
       "image": "/images/Shop1.jpg",
       "imageAlt": "Farben-Shop am Standort Graz in der Schörgelgasse",
@@ -62,16 +72,6 @@
         }
       ],
       "_template": "feature"
-    },
-    {
-      "title": "",
-      "blocks": [
-        {
-          "title": "Produkte",
-          "text": "Vom Standort Graz aus betreuen wir Privatkunden, Hausverwaltungen und Unternehmen in der Stadt und Umgebung."
-        }
-      ],
-      "_template": "legal"
     },
     {
       "label": "",

@@ -29,6 +29,13 @@
           "text": "Nach Möglichkeit unterstützen wir Sie auch bei der Entsorgung von Resten und Gebinden von bei uns gekauften Farben."
         }
       ],
+      "values": [
+        {
+          "title": "Fachgerecht",
+          "text": "Saubere Trennung und Entsorgung"
+        },
+        {}
+      ],
       "_template": "feature"
     },
     {

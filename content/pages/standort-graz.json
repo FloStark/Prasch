@@ -53,6 +53,16 @@
       "_template": "feature"
     },
     {
+      "title": "",
+      "blocks": [
+        {
+          "title": "Produkte",
+          "text": "Entdecken Sie unsere große Auswahl an Farben, Lacken, Malerbedarf und Tapeten für Renovierung, Gestaltung und kreative Projekte.\nOb für kleine Ausbesserungen oder die komplette Neugestaltung Ihrer Räume - bei uns finden Sie die passenden Produkte und das nötige Zubehör.\n\nDabei legen wir besonderen Wert auf persönliche und professionelle Beratung.\nWir unterstützen Sie bei der Auswahl der richtigen Produkte, Farben und Materialien und stehen Ihnen mit unserem Fachwissen zur Seite.\n\nMit unserem Farbmischservice können wir Ihren individuellen Wunschfarbton direkt für Sie anmischen - präzise und passend zu Ihrem Projekt.\n\nKommen Sie vorbei und lassen Sie sich persönlich beraten. Wir machen Farbe zum Erlebnis."
+        }
+      ],
+      "_template": "legal"
+    },
+    {
       "label": "",
       "title": "Beratung in der Schörgelgasse 7",
       "text": "Rufen Sie uns an oder besuchen Sie uns am Standort in Graz. Wir klären Ihr Projekt, Materialfragen und den nächsten freien Termin persönlich.",
@@ -69,16 +79,6 @@
         }
       ],
       "_template": "cta"
-    },
-    {
-      "title": "Produkte",
-      "blocks": [
-        {
-          "title": "Produkte",
-          "text": "In unserem Shop in Graz präsentieren wir Ihnen eine erlesene Auswahl an hochwertigen Produkten, die Ihr Zuhause oder Geschäft aufwerten. Entdecken Sie unser umfangreiches Sortiment: Von Tapeten in vielfältigen Designs über hochwertige Farben für Innen- und Außenbereiche bis hin zu Böden, die jedem Raum Charakter verleihen.\n\nErgänzt wird unser Angebot durch elegante Stuckleisten, die Ihren Wänden das gewisse Etwas verleihen, sowie durch praktische Teppiche und Schmutzmatten, die Komfort und Schutz für Ihr Zuhause oder Büro bieten. In unserem Shop in der Wielandgasse 2 in Graz finden Sie alles, was Sie für eine stilvolle, langlebige und individuelle Raumgestaltung benötigen. \n\nUnser Service inkludiert eine umfassende, professionelle Beratung, welche wir individuell auf Ihre Bedürfnisse und Wünsche abstimmen."
-        }
-      ],
-      "_template": "legal"
     }
   ],
   "media": [

@@ -22,7 +22,7 @@
       "_template": "landingChoice"
     },
     {
-      "label": "Malerbetrieb Prasch · Graz & Studenzen",
+      "label": "",
       "titleLine1": "Mehr als nur",
       "titleAccent": "Farbe.",
       "description": "Seit über zehn Jahren vertrauen uns Familien und Unternehmen, wenn es um Sanierungen im Altbau, um Fassaden, Innenräume oder hochwertige Anstriche geht. Wir arbeiten sauber, zuverlässig und mit einem Auge fürs Detail – damit jedes Ergebnis überzeugt.",
@@ -75,7 +75,7 @@
       "_template": "cardGrid"
     },
     {
-      "label": "Über uns",
+      "label": "",
       "title": "Handwerk mit\nLeidenschaft",
       "images": [
         {
@@ -95,11 +95,11 @@
           "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
         }
       ],
-      "cardLabel": "Meisterbetrieb",
-      "cardTitle": "Sauber. Präzise. Lokal.",
+      "cardLabel": "",
+      "cardTitle": "",
       "texts": [
         {
-          "text": "Der Malerbetrieb Prasch steht für ehrliches Handwerk in Graz, in der Südoststeiermark und der umliegenden Steiermark. Privatkunden, Betriebe und Hausverwaltungen vertrauen uns seit Jahren ihre Immobilien an. Was bei uns zählt, ist das Ergebnis – und dass Sie sich darauf verlassen können. Wir kommen pünktlich, arbeiten sauber und hinterlassen die Baustelle so, wie wir sie vorfinden möchten."
+          "text": "Der Malerbetrieb Prasch steht für ehrliches Handwerk in Graz, in Studenzen und der umliegenden Steiermark. Privatkunden, Betriebe und Hausverwaltungen vertrauen uns seit Jahren ihre Immobilien an. Was bei uns zählt, ist das Ergebnis – und dass Sie sich darauf verlassen können. Wir kommen pünktlich, arbeiten sauber und hinterlassen die Baustelle so, wie wir sie vorfinden möchten."
         },
         {
           "text": "Ob kleines Wohnzimmer oder große Fassade: Jeder Auftrag wird mit der gleichen Sorgfalt behandelt. Wir verwenden ausschließlich hochwertige Materialien und beraten Sie ehrlich, was sinnvoll ist – und was nicht."

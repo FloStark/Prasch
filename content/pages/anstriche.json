@@ -53,7 +53,10 @@
           "src": "/images/Holzfenster2.jpeg",
           "alt": "Fenster1"
         },
-        {},
+        {
+          "src": "/images/Holzfenster.jpeg",
+          "alt": "Fenster2"
+        },
         {}
       ],
       "_template": "aboutSlider"

@@ -13,7 +13,7 @@
     {
       "label": "",
       "title": "Malerbetrieb Prasch in der Südoststeiermark",
-      "description": "Mit unserem Standort in Studenzen sind wir auch für Projekte in der Südoststeiermark erreichbar. Fassaden, Innenmalerei und Anstriche mit zuverlässiger Ausführung vom Fachbetrieb.",
+      "description": "Mit unserem Standort in Studenzen sind wir auch für Projekte in der Südoststeiermark erreichbar. Fassaden, Innenmalerei, Anstriche sowie Sanierungen mit zuverlässiger Ausführung vom Fachbetrieb.",
       "_template": "pageHero"
     },
     {
@@ -31,9 +31,9 @@
       ],
       "values": [
         {
-          "icon": "fas fa-house",
-          "title": "Für Studenzen & Umgebung",
-          "text": "Kurze Wege für Projekte in der Südoststeiermark"
+          "icon": "fas fa-fassad",
+          "title": "Fassaden",
+          "text": "Sanierung, Schutzanstrich und optische Aufwertung"
         },
         {
           "icon": "fas fa-shield-halved",
@@ -45,36 +45,8 @@
     },
     {
       "label": "",
-      "title": "Fassaden, Innenräume und Anstriche",
-      "cards": [
-        {
-          "icon": "fas fa-building",
-          "title": "Fassadensanierung",
-          "text": "Wetterschutz und Ästhetik für Ihre Immobilie. Wir schützen Ihre Bausubstanz nachhaltig.",
-          "linkText": "Mehr erfahren",
-          "linkUrl": "/fassadengestaltung"
-        },
-        {
-          "icon": "fas fa-palette",
-          "title": "Kreatives Wanddesign",
-          "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
-          "linkText": "Zu den Techniken",
-          "linkUrl": "/innenmalerei"
-        },
-        {
-          "icon": "fas fa-paint-roller",
-          "title": "Anstriche & Lacke",
-          "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
-          "linkText": "Mehr erfahren",
-          "linkUrl": "/anstriche"
-        }
-      ],
-      "_template": "cardGrid"
-    },
-    {
-      "label": "",
-      "title": "Projekt in Studenzen besprechen",
-      "text": "Beschreiben Sie kurz Ihr Vorhaben. Wir melden uns für eine persönliche Einschätzung und die nächsten Schritte.",
+      "title": "Projekt besprechen",
+      "text": "Melden Sie sich bei uns. Gemeinsam planen wir Ihr neues Projekt.",
       "buttons": [
         {
           "text": "+43 664 11 86 505 anrufen",

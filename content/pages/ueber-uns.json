@@ -144,6 +144,10 @@
       "_template": "teamGrid"
     },
     {
+      "title": "In Bearbeitung",
+      "text": "Foto folgt.",
+      "placeholderTitle": "Teamfoto in Vorbereitung",
+      "placeholderText": "Mehrere Mitarbeiter, ein gemeinsamer Anspruch: saubere Arbeit, klare Kommunikation und verlässliche Ausführung.",
       "_template": "teamImage"
     }
   ],

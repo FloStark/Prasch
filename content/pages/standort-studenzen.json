@@ -31,12 +31,12 @@
       ],
       "values": [
         {
-          "icon": "fas fa-fassad",
+          "icon": "fas fa-building",
           "title": "Fassaden",
           "text": "Sanierung, Schutzanstrich und optische Aufwertung"
         },
         {
-          "icon": "fas fa-painter",
+          "icon": "fas fa-palette",
           "title": "Innenmalerei",
           "text": "Saubere Wandgestaltung für Wohnungen, Häuser und Betriebe"
         },

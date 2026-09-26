@@ -102,14 +102,6 @@
           "title": "Sanierung mit passender Schutzbeschichtung",
           "wide": false,
           "video": false
-        },
-        {
-          "src": "/images/EFH_Holzfassade_Sanierung_2.jpg",
-          "alt": "Sanierte Holzfassade an einem Einfamilienhaus",
-          "tag": "Holzschutz",
-          "title": "Langlebiger Anstrich für Holzbauteile",
-          "wide": false,
-          "video": false
         }
       ],
       "_template": "gallery"

@@ -48,6 +48,7 @@
       "description": "Wenn es zum Projekt passt, setzen wir auf mineralische Beschichtungssysteme von KEIM.",
       "cards": [
         {
+          "icon": "fas fa-leaf",
           "title": "Wohngesunde Innenräume",
           "text": "Mineralische Farben unterstützen ein angenehmes Raumklima und passen gut zu sensiblen Wohnbereichen."
         },

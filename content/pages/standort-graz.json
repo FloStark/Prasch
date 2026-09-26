@@ -69,6 +69,15 @@
         }
       ],
       "_template": "cta"
+    },
+    {
+      "blocks": [
+        {
+          "title": "Produkte",
+          "text": "In unserem Shop in Graz präsentieren wir Ihnen eine erlesene Auswahl an hochwertigen Produkten, die Ihr Zuhause oder Geschäft aufwerten. Entdecken Sie unser umfangreiches Sortiment: Von Tapeten in vielfältigen Designs über hochwertige Farben für Innen- und Außenbereiche bis hin zu Böden, die jedem Raum Charakter verleihen.\n\nErgänzt wird unser Angebot durch elegante Stuckleisten, die Ihren Wänden das gewisse Etwas verleihen, sowie durch praktische Teppiche und Schmutzmatten, die Komfort und Schutz für Ihr Zuhause oder Büro bieten. In unserem Shop in der Wielandgasse 2 in Graz finden Sie alles, was Sie für eine stilvolle, langlebige und individuelle Raumgestaltung benötigen. \n\nUnser Service inkludiert eine umfassende, professionelle Beratung, welche wir individuell auf Ihre Bedürfnisse und Wünsche abstimmen."
+        }
+      ],
+      "_template": "legal"
     }
   ],
   "media": [

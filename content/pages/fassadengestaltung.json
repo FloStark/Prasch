@@ -20,6 +20,7 @@
       "title": "Warum eine professionelle Sanierung wichtig ist",
       "image": "/images/Fassade.jpg",
       "imageAlt": "Fassadengestaltung vom Malerbetrieb Prasch",
+      "imageRight": true,
       "texts": [
         {
           "text": "Kleine Risse im Putz oder abblätternde Farbe sind oft Vorboten größerer Schäden. Feuchtigkeit kann in die Bausubstanz eindringen und die Dämmwirkung beeinträchtigen oder gar Schimmel verursachen."
@@ -43,6 +44,8 @@
       "_template": "feature"
     },
     {
+      "label": "",
+      "title": "Ausgeführte Fassadenarbeiten",
       "images": [
         {
           "src": "/images/Fassade4.jpg",
@@ -59,14 +62,24 @@
         {
           "src": "/images/Fassade6.jpeg",
           "alt": "Fassade6"
+        },
+        {
+          "src": "/images/Fassade5.jpeg"
+        }
+      ],
+      "cardLabel": "Fassaden",
+      "cardTitle": "",
+      "texts": [
+        {
+          "text": "Einblicke in Sanierung, Außenanstrich und Holzfassaden. Jede Fassade wird passend zum Untergrund, zur Witterung und zum gewünschten Erscheinungsbild behandelt."
         }
       ],
       "_template": "aboutSlider"
     },
     {
       "label": "",
-      "title": "Ausgeführte Fassadenarbeiten",
-      "description": "Einblicke in Sanierung, Außenanstrich und Holzfassaden. Jede Fassade wird passend zum Untergrund, zur Witterung und zum gewünschten Erscheinungsbild behandelt.",
+      "title": "",
+      "description": "",
       "items": [
         {
           "src": "/images/EFH_Vorher.jpg",
@@ -99,22 +112,7 @@
           "title": "",
           "wide": false,
           "video": false
-        },
-        {
-          "src": "/images/Fassade5.jpg",
-          "alt": "Fassadensanierung und Außenanstrich",
-          "tag": "Sanierung",
-          "title": "",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/Fassade6.jpeg"
-        },
-        {
-          "src": "/images/Holzfassade.jpeg"
-        },
-        {}
+        }
       ],
       "_template": "gallery"
     },

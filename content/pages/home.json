@@ -87,12 +87,12 @@
           "alt": "Farbkarte"
         },
         {
-          "src": "/images/Uebermich3.jpg",
-          "alt": "Fuhrpark"
-        },
-        {
           "src": "/images/Shop4.JPEG",
           "alt": "Mischservice"
+        },
+        {
+          "src": "/images/Uebermich3.jpg",
+          "alt": "Fuhrpark"
         }
       ],
       "cardLabel": "",

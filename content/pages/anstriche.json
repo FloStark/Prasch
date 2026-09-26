@@ -17,15 +17,16 @@
       "_template": "pageHero"
     },
     {
-      "title": "Schutz für Holz und Metall",
+      "title": "Alte Werte bewahren. Neues schaffen.",
       "image": "/images/Fenster_Restaurierung_Nachher.jpg",
       "imageAlt": "Restauriertes Fenster nach professionellem Anstrich",
+      "imageRight": true,
       "texts": [
         {
-          "text": "Handwerkliche Lackierungen erfordern Geduld und Erfahrung. Wir schleifen, grundieren und lackieren in mehreren Schichten."
+          "text": "Ob alte Fenster oder Türen, wir bringen Bestehendes wieder auf Vordermann."
         },
         {
-          "text": "Besonders im Außenbereich ist der Schutz von Holzbauteilen essenziell. Wir sorgen dafür, dass Holz atmen kann und trotzdem geschützt ist."
+          "text": "Mit fachgerechter Restaurierung, Sanierung und Aufbereitung verleihen wir alten Oberflächen neuen Glanz und sorgen für ein gepflegtes Erscheinungsbild. "
         }
       ],
       "values": [
@@ -63,7 +64,7 @@
       "_template": "teamGrid"
     },
     {
-      "title": "Alte Werte bewahren. Neues schaffen.",
+      "title": "Schutz für Holz und Metall.",
       "images": [
         {
           "src": "/images/Eingang_Sanierung.jpg",
@@ -74,21 +75,25 @@
           "alt": "Türanstrich"
         },
         {
-          "src": "/images/Holzt%C3%BCren4.jpeg",
+          "src": "/images/Holzt%C3%BCren.jpeg",
           "alt": "Tür2"
         },
         {
-          "src": "/images/Holzt%C3%BCren.jpeg",
+          "src": "/images/Holzt%C3%BCren4.jpeg",
           "alt": "Tür3"
         }
       ],
       "texts": [
         {
-          "text": "Ob alte Fenster oder Türen, wir bringen Bestehendes wieder auf Vordermann."
+          "text": "Handwerkliche Lackierungen erfordern Geduld und Erfahrung. Wir schleifen, grundieren und lackieren in mehreren Schichten."
         },
         {
-          "text": "Mit fachgerechter Restaurierung, Sanierung und Aufbereitung verleihen wir alten Oberflächen neuen Glanz und sorgen für ein gepflegtes Erscheinungsbild. "
+          "text": "Besonders im Außenbereich ist der Schutz von Holzbauteilen essenziell. Wir sorgen dafür, dass Holz atmen kann und trotzdem geschützt ist."
         }
+      ],
+      "values": [
+        {},
+        {}
       ],
       "_template": "aboutSlider"
     },

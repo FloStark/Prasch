@@ -79,10 +79,6 @@
       "title": "Handwerk mit\nLeidenschaft",
       "images": [
         {
-          "src": "/images/Uebermich1.jpg",
-          "alt": "Malerbetrieb Prasch bei der Arbeit"
-        },
-        {
           "src": "/images/Uebermich2.jpg",
           "alt": "Saubere Malerarbeit vom Malerbetrieb Prasch"
         },
@@ -91,8 +87,7 @@
           "alt": "Persönliche Beratung und Handwerk vom Malerbetrieb Prasch"
         },
         {
-          "src": "/images/Uebermich4.jpg",
-          "alt": "Malerbetrieb Prasch bei präziser Handwerksarbeit"
+          "src": "/images/Shop1.jpg"
         }
       ],
       "cardLabel": "",

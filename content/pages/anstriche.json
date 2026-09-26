@@ -13,7 +13,7 @@
     {
       "label": "",
       "title": "Spezialanstriche & Lackierarbeiten",
-      "description": "Ob alte Holzfenster, abgenutzte Türen oder rostige Metallzäune – mit dem richtigen Anstrich schützen wir Werte und verleihen Ihren Objekten neuen Glanz.",
+      "description": "Ob alte Holzfenster, abgenutzte Türen oder rostige Metallzäune – mit dem richtigen Anstrich schützen wir Werte und verleihen Ihren Objekten neuen Glanz. Mit professionellen Bodenmarkierungen sorgen wir zusätzlich für klare Strukturen.",
       "_template": "pageHero"
     },
     {
@@ -44,8 +44,9 @@
     },
     {
       "title": "Bodenmarkierungen",
-      "image": "/images/Straßenmarkierung.jpeg",
+      "image": "/images/Bodenmarkierung.jpeg",
       "imageAlt": "Bodenmarkierungen",
+      "imageRight": true,
       "texts": [
         {
           "text": "Professionelle und langlebige Bodenmarkierungen für Industrie, Gewerbe, öffentliche Bereiche sowie für den Privatbereich. Sauber ausgeführt, gut sichtbar und passend für Ihre Anforderungen."

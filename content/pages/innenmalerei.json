@@ -31,7 +31,10 @@
           "src": "/images/Malerei3.jpeg",
           "alt": "Malerei3"
         },
-        {}
+        {
+          "src": "/images/Malerei4.jpeg",
+          "alt": "Malerei4"
+        }
       ],
       "texts": [
         {

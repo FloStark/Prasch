@@ -115,6 +115,23 @@
       "_template": "gallery"
     },
     {
+      "title": "xx",
+      "text": "xxx",
+      "buttons": [
+        {
+          "text": "+43 664 11 86 505 anrufen",
+          "url": "tel:06641186505",
+          "style": "outline"
+        },
+        {
+          "text": "E-Mail schreiben",
+          "url": "mailto:office@farben-prasch.at",
+          "style": "outline"
+        }
+      ],
+      "_template": "cta"
+    },
+    {
       "label": "",
       "title": "Echte Erfahrungen",
       "items": [
@@ -130,11 +147,6 @@
         }
       ],
       "_template": "testimonials"
-    },
-    {
-      "label": "",
-      "title": "",
-      "_template": "cardGrid"
     }
   ],
   "media": [

@@ -37,6 +37,11 @@
       "_template": "homeHero"
     },
     {
+      "title": "Ökologischer Malerbetrieb",
+      "text": "Nachhaltig, gesund und professionell. Wir arbeiten mit umweltfreundlichen, schadstoffarmen Materialien und sorgen für hochwertige Anstriche mit besonderem Augenmerk auf Nachhaltigkeit und ein gesundes Raumklima.",
+      "_template": "bioBlock"
+    },
+    {
       "id": "services",
       "variant": "services",
       "label": "",

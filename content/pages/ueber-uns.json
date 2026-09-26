@@ -11,13 +11,13 @@
   "bodyHtml": "",
   "sections": [
     {
-      "label": "Über Malerbetrieb Prasch",
+      "label": "",
       "title": "Handwerk, auf das man sich verlassen kann",
       "description": "Wir verbinden traditionelle Malerarbeit mit moderner Beratung, klarer Kommunikation und einem hohen Anspruch an saubere Ausführung. Ob Wohnung, Hausfassade oder gewerbliche Fläche: Bei uns zählt jedes Detail.",
       "_template": "pageHero"
     },
     {
-      "label": "Unsere Haltung",
+      "label": "",
       "title": "Sauber. Präzise.\nPersönlich.",
       "images": [
         {
@@ -72,7 +72,7 @@
       "_template": "aboutSlider"
     },
     {
-      "label": "Was uns wichtig ist",
+      "label": "",
       "title": "Drei Dinge, die jedes Projekt tragen",
       "description": "Gute Malerarbeit beginnt vor dem ersten Pinselstrich: mit Vorbereitung, Materialverständnis und verlässlicher Abstimmung.",
       "cards": [
@@ -95,7 +95,7 @@
       "_template": "cardGrid"
     },
     {
-      "label": "Nächster Schritt",
+      "label": "",
       "title": "Lernen Sie unser Team kennen",
       "text": "Hinter jedem Projekt stehen Menschen, die genau arbeiten, mitdenken und Verantwortung übernehmen.",
       "buttons": [

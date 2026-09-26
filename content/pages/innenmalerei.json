@@ -68,13 +68,20 @@
       "description": "Tapeten setzen gezielt Akzente und geben Räumen Struktur, Tiefe und Persönlichkeit.\nWir bereiten den Untergrund fachgerecht vor und bringen Tapeten blasenfrei, sauber und dauerhaft an.",
       "members": [
         {
-          "image": "/images/Tapete2.jpeg"
+          "image": "/images/Tapete2.jpeg",
+          "imageAlt": "Tapete",
+          "name": "",
+          "role": "Tapete"
         },
         {
-          "image": "/images/Tapete.jpeg"
+          "image": "/images/Tapete.jpeg",
+          "imageAlt": "Tapete",
+          "role": "Tapete"
         },
         {
-          "image": "/images/Tapete.jpg"
+          "image": "/images/Tapete.jpg",
+          "imageAlt": "Tapete",
+          "role": "Tapete"
         }
       ],
       "_template": "teamGrid"
@@ -98,6 +105,7 @@
     },
     {
       "image": "/images/Garage.jpg",
+      "imageAlt": "Beton-Optilk Spachteltechnik",
       "texts": [
         {
           "text": "Jede Oberfläche wird sorgfältig vorbereitet und mit viel handwerklichem Geschick ausgeführt. So entstehen hochwertige Wandflächen mit besonderer Tiefe, Struktur und Ausdruck."

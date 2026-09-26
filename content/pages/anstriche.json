@@ -99,9 +99,14 @@
       "description": "",
       "items": [
         {
+          "src": "/images/Metallanstrich.jpg",
+          "alt": "Zaunlackierung",
+          "tag": ""
+        },
+        {
           "src": "/images/TuerenAnstrich1.mp4",
           "alt": "Türanstrich in der Ausführung",
-          "tag": "Türanstrich in der Ausführung",
+          "tag": "",
           "title": "",
           "wide": false,
           "video": true

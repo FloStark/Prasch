@@ -125,6 +125,8 @@
           ]
         },
         {
+          "image": "/images/Maler.jpg",
+          "imageAlt": "Malerbetrieb Prasch bei der Arbeit",
           "name": "Team",
           "role": "Malerarbeiten & Details",
           "text": "Unser Team achtet auf saubere Vorbereitung, exakte Kanten, geschützte Oberflächen und eine Baustelle, die ordentlich hinterlassen wird.",

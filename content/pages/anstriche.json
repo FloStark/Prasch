@@ -43,16 +43,17 @@
       "_template": "feature"
     },
     {
-      "title": "Bodenmarkierungen",
-      "image": "/images/Bodenmarkierung.jpeg",
-      "imageAlt": "Bodenmarkierungen",
-      "imageRight": true,
-      "texts": [
+      "title": "Alte Werte bewahren. Neues schaffen.",
+      "images": [
         {
-          "text": "Professionelle und langlebige Bodenmarkierungen für Industrie, Gewerbe, öffentliche Bereiche sowie für den Privatbereich. Sauber ausgeführt, gut sichtbar und passend für Ihre Anforderungen."
-        }
+          "src": "/images/Fenster_Restaurierung_Vorher.jpg",
+          "alt": "Fenster geschliffen"
+        },
+        {},
+        {},
+        {}
       ],
-      "_template": "feature"
+      "_template": "aboutSlider"
     },
     {
       "label": "",
@@ -62,32 +63,16 @@
         {
           "src": "/images/Fenster_Restaurierung_Vorher.jpg",
           "alt": "Fenster vor der Restaurierung und Lackierung",
-          "tag": "Vorher",
-          "title": "Vorbereitetes Holzfenster",
+          "tag": "Vorbereitetes Holzfenster",
+          "title": "",
           "wide": false,
           "video": false
         },
         {
           "src": "/images/Fenster_Restaurierung_Nachher.jpg",
           "alt": "Fenster nach der Restaurierung und Lackierung",
-          "tag": "Nachher",
-          "title": "Restauriertes Fenster mit frischem Lack",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/TuerenAnstrich.jpg",
-          "alt": "Tür nach professionellem Anstrich",
-          "tag": "Türen",
-          "title": "Sauberer Anstrich für Türen",
-          "wide": false,
-          "video": false
-        },
-        {
-          "src": "/images/Metallanstrich.jpg",
-          "alt": "Metalloberfläche mit frischem Schutzanstrich",
-          "tag": "Metall",
-          "title": "Schutzanstrich für Metalloberflächen",
+          "tag": "Restauriertes Fenster",
+          "title": "",
           "wide": false,
           "video": false
         },
@@ -127,6 +112,18 @@
         }
       ],
       "_template": "cardGrid"
+    },
+    {
+      "title": "Bodenmarkierungen",
+      "image": "/images/Bodenmarkierung.jpeg",
+      "imageAlt": "Bodenmarkierungen",
+      "imageRight": true,
+      "texts": [
+        {
+          "text": "Professionelle und langlebige Bodenmarkierungen für Industrie, Gewerbe, öffentliche Bereiche sowie für den Privatbereich. Sauber ausgeführt, gut sichtbar und passend für Ihre Anforderungen."
+        }
+      ],
+      "_template": "feature"
     },
     {
       "title": "Jetzt Kontakt aufnehmen",

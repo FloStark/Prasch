@@ -39,6 +39,11 @@
           "icon": "fas fa-painter",
           "title": "Innenmalerei",
           "text": "Saubere Wandgestaltung für Wohnungen, Häuser und Betriebe"
+        },
+        {
+          "icon": "fas fa-paint-roller",
+          "title": "Anstriche",
+          "text": "Neuer Glanz für Fenster, Türe, Holz und Metall."
         }
       ],
       "_template": "feature"

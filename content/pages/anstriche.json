@@ -133,11 +133,17 @@
       "_template": "cardGrid"
     },
     {
-      "title": "",
+      "title": "xxxx",
+      "text": "xxxxx",
       "buttons": [
         {
           "text": "+43 664 11 86 505 anrufen",
           "url": "tel:06641186505",
+          "style": "outline"
+        },
+        {
+          "text": "Mailen Sie uns",
+          "url": "",
           "style": "outline"
         }
       ],

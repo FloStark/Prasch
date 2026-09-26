@@ -98,7 +98,22 @@
             }
           ]
         },
-        {},
+        {
+          "name": "Beratung & Planung",
+          "role": "Projektvorbereitung",
+          "text": "Vor Ort klären wir Untergrund, Nutzung, Farbwirkung und Materialwahl. So entstehen realistische Angebote und ein Ablauf, der für Kundinnen und Kunden nachvollziehbar bleibt.",
+          "skills": [
+            {
+              "text": "Farbberatung"
+            },
+            {
+              "text": "Fassaden"
+            },
+            {
+              "text": "Anstriche"
+            }
+          ]
+        },
         {}
       ],
       "_template": "teamGrid"

@@ -84,7 +84,8 @@
       "title": "Edle Oberflächen mit Tiefe",
       "image": "/images/Beton-Optik.jpeg",
       "imageAlt": "Kreative Spachteltechnik für hochwertige Innenwände",
-      "imageRight": false,
+      "imageRight": true,
+      "badge": "",
       "texts": [
         {
           "text": "Mit Spachteltechniken entstehen lebendige Oberflächen, die je nach Licht und Struktur immer anders wirken."

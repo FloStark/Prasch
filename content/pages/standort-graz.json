@@ -13,7 +13,7 @@
     {
       "label": "",
       "title": "Malerbetrieb Prasch in 8010 Graz, Schörgelgasse 7",
-      "description": "Unser Standort in Graz ist Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, Anstriche und persönliche Farbberatung vom Fachbetrieb.",
+      "description": "Unser Standort im Herzen von Graz ist Ihre Anlaufstelle für professionelle Malerarbeiten, Fassadengestaltung, Innenmalerei, Anstriche und persönliche Farbberatung vom Fachbetrieb.",
       "_template": "pageHero"
     },
     {
@@ -55,14 +55,14 @@
         },
         {
           "icon": "fas fa-palette",
-          "title": "Kreatives Wanddesign",
+          "title": "Innenmalerei",
           "text": "Exklusive Wandgestaltung. Ob Tapete, Beton-Optik, Rost-Design oder edle Glättetechniken - bei uns sind Sie genau richtig.",
           "linkText": "Zu den Techniken",
           "linkUrl": "/innenmalerei"
         },
         {
           "icon": "fas fa-paint-roller",
-          "title": "Anstriche & Lacke",
+          "title": "Anstriche",
           "text": "Verleihen Sie alten Elemente ein neues Leben. Fenster, Türen, Holz und Metall erhalten mit uns neuen Schutz und dauerhafte Schönheit.",
           "linkText": "Mehr erfahren",
           "linkUrl": "/anstriche"
@@ -73,7 +73,7 @@
     {
       "label": "",
       "title": "Beratung in der Schörgelgasse 7",
-      "text": "Rufen Sie uns an oder besuchen Sie uns am Standort Graz. Wir klären Ihr Projekt, Materialfragen und den nächsten freien Termin persönlich.",
+      "text": "Rufen Sie uns an oder besuchen Sie uns am Standort in Graz. Wir klären Ihr Projekt, Materialfragen und den nächsten freien Termin persönlich.",
       "buttons": [
         {
           "text": "+43 664 11 86 505 anrufen",

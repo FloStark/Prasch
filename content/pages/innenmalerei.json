@@ -14,7 +14,7 @@
       "label": "",
       "title": "Innenmalerei & Wanddesign",
       "description": "Ihre Wände definieren die Atmosphäre Ihres Zuhauses. Wir helfen Ihnen dabei, Wohn(t)räume zu schaffen, die Ihre Persönlichkeit widerspiegeln – mit handwerklicher Präzision und einem Gespür für moderne Designtrends.",
-      "logo": "/images/Maler.jpg",
+      "logo": "",
       "_template": "pageHero"
     },
     {
@@ -63,6 +63,25 @@
         }
       ],
       "_template": "aboutSlider"
+    },
+    {
+      "items": [
+        {
+          "src": "/images/Maler.jpg",
+          "alt": "Anstrich",
+          "tag": "",
+          "wide": false,
+          "video": false
+        },
+        {
+          "src": "/images/AnstrichSpritz.mp4",
+          "alt": "Anstrich Video",
+          "title": "",
+          "wide": false,
+          "video": true
+        }
+      ],
+      "_template": "gallery"
     },
     {
       "title": "Akzentwände mit Charakter",
@@ -153,24 +172,6 @@
         }
       ],
       "_template": "testimonials"
-    },
-    {
-      "items": [
-        {
-          "src": "/images/AnstrichSpritz.mp4",
-          "alt": "Anstrich Video",
-          "title": "",
-          "video": true
-        },
-        {
-          "src": "/images/Maler.jpg",
-          "alt": "Anstrich",
-          "tag": "",
-          "wide": false,
-          "video": false
-        }
-      ],
-      "_template": "gallery"
     }
   ],
   "media": [

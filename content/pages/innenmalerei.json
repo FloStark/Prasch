@@ -164,6 +164,8 @@
         },
         {
           "src": "/images/Maler.jpg",
+          "alt": "Anstrich",
+          "tag": "",
           "wide": false,
           "video": false
         }

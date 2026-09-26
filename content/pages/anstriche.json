@@ -133,6 +133,17 @@
       "_template": "cardGrid"
     },
     {
+      "title": "",
+      "buttons": [
+        {
+          "text": "+43 664 11 86 505 anrufen",
+          "url": "tel:06641186505",
+          "style": "outline"
+        }
+      ],
+      "_template": "cta"
+    },
+    {
       "title": "Echte Erfahrungen",
       "items": [
         {

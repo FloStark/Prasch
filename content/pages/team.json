@@ -19,6 +19,7 @@
     },
     {
       "title": "Farbreste gehören nicht in den Hausmüll",
+      "image": "/images/Farbentsorgung.jpg",
       "badge": "",
       "texts": [
         {
@@ -29,6 +30,9 @@
         }
       ],
       "_template": "feature"
+    },
+    {
+      "_template": "bioBlock"
     }
   ],
   "media": [

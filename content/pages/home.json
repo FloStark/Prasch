@@ -166,7 +166,7 @@
       "_template": "feature"
     },
     {
-      "label": "",
+      "label": "Kontakt",
       "title": "Kontaktieren Sie uns",
       "description": "Ob Malerarbeiten, Sanierung oder Farbberatung: Wir freuen uns auf Ihre Anfrage.",
       "mapTitle": "Google Maps aktivieren",
@@ -176,7 +176,7 @@
     },
     {
       "label": "",
-      "title": "Echte Erfahrungen",
+      "title": "",
       "items": [
         {
           "text": "Herr Prasch und seine Mitarbeiter sind sehr freundlich und sehr kompetent! Alle Arbeiten wurden sauber und zu meiner höchsten Zufriedenheit durchgeführt! Dieser Malerbetrieb ist zu 100% weiter zu empfehlen!",

@@ -27,7 +27,10 @@
           "src": "/images/Küche_Malerei.jpeg",
           "alt": "Malerei1"
         },
-        {},
+        {
+          "src": "/images/Malerei3.jpeg",
+          "alt": "Malerei3"
+        },
         {}
       ],
       "texts": [

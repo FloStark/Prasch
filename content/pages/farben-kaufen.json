@@ -44,6 +44,24 @@
       "_template": "cardGrid"
     },
     {
+      "badge": "100% Bio-Farben auf Wunsch",
+      "texts": [
+        {
+          "text": "Entdecken Sie unsere große Auswahl an Profi-Farben, Lacken, Lasuren, Beschichtungssystemen sowie Malerbedarf und Tapeten für Renovierung, Gestaltung und kreative Projekte. Ob für kleine Ausbesserungen oder die komplette Neugestaltung Ihrer Räume - bei uns finden Sie die passenden Produkte und das nötige Zubehör."
+        },
+        {
+          "text": "Dabei legen wir besonderen Wert auf persönliche und professionelle Beratung. Wir unterstützen Sie bei der Auswahl der richtigen Produkte, Farben und Materialien und stehen Ihnen mit unserem Fachwissen zur Seite."
+        },
+        {
+          "text": "Mit unserem Farbmischservice können wir Ihren individuellen Wunschfarbton direkt für Sie anmischen - präzise und passend zu Ihrem Projekt."
+        },
+        {
+          "text": "Kommen Sie vorbei und lassen Sie sich persönlich beraten. Wir machen Farbe zum Erlebnis."
+        }
+      ],
+      "_template": "feature"
+    },
+    {
       "variant": "shop",
       "label": "",
       "title": "Eindrücke aus unserem Shop",

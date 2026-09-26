@@ -44,6 +44,7 @@
       "_template": "cardGrid"
     },
     {
+      "image": "/images/Shop2.JPEG",
       "badge": "100% Bio-Farben auf Wunsch",
       "texts": [
         {
@@ -64,8 +65,8 @@
     {
       "variant": "shop",
       "label": "",
-      "title": "Eindrücke aus unserem Shop",
-      "description": "Besuchen Sie uns vor Ort: Hochwertige Profi-Farben, persönliche Beratung und Farbmischservice direkt in Graz.",
+      "title": "",
+      "description": "",
       "items": [
         {
           "src": "/images/Shop1.jpg",
@@ -73,7 +74,7 @@
           "wide": true
         },
         {
-          "src": "/images/Shop2.JPEG",
+          "src": "/images/Shop4.JPEG",
           "alt": "Farben-Shop von Malerbetrieb Prasch in Graz",
           "wide": false
         },
@@ -83,12 +84,12 @@
           "wide": false
         },
         {
-          "src": "/images/Shop4.JPEG",
+          "src": "/images/Shop5.JPEG",
           "alt": "Farben-Shop von Malerbetrieb Prasch in Graz",
           "wide": false
         },
         {
-          "src": "/images/Shop5.JPEG",
+          "src": "/images/Farbentsorgung.jpg",
           "alt": "Farben-Shop von Malerbetrieb Prasch in Graz",
           "wide": false
         }

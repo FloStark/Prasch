@@ -28,7 +28,10 @@
           "src": "/images/Uebermich2.jpg",
           "alt": "Malerbetrieb Prasch Arbeit"
         },
-        {}
+        {
+          "src": "/images/Auto_Werkzeug.jpeg",
+          "alt": "Malerbetrieb Prasch Auto Malerbedarf"
+        }
       ],
       "cardLabel": "Malerbetrieb Prasch",
       "cardTitle": "",

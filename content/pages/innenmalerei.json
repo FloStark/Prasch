@@ -18,9 +18,15 @@
     },
     {
       "title": "Sauber. Bis in die letzte Kante.",
-      "image": "/images/Innenraum.jpg",
-      "imageAlt": "Innenraumgestaltung vom Malerbetrieb Prasch",
-      "badge": "100% Bio-Farben verfügbar",
+      "images": [
+        {
+          "src": "/images/Tapete.jpeg",
+          "alt": "Tapete1"
+        },
+        {},
+        {},
+        {}
+      ],
       "texts": [
         {
           "text": "Schöne Wände beginnen bei der Vorbereitung. Wir sorgen für glatte Oberflächen durch fachgerechte Spachtelung und Grundierung."
@@ -41,7 +47,7 @@
           "text": "Wisch-, Tupf- und Spachteltechniken für Unikate"
         }
       ],
-      "_template": "feature"
+      "_template": "aboutSlider"
     },
     {
       "label": "",
@@ -62,7 +68,7 @@
     {
       "label": "",
       "title": "Edle Oberflächen mit Tiefe",
-      "image": "/images/Garage.jpg",
+      "image": "/images/Beton-Optik.jpeg",
       "imageAlt": "Kreative Spachteltechnik für hochwertige Innenwände",
       "imageRight": false,
       "texts": [

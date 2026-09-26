@@ -79,7 +79,8 @@
       "title": "Handwerk mit\nLeidenschaft",
       "images": [
         {
-          "src": "/images/Shop1.jpg"
+          "src": "/images/Shop1.jpg",
+          "alt": "Shop"
         },
         {
           "src": "/images/Shop5.JPEG",

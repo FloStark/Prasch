@@ -43,11 +43,31 @@
       "_template": "feature"
     },
     {
+      "members": [
+        {
+          "image": "/images/Fenster_Restaurierung_Vorher.jpg",
+          "imageAlt": "Fenster geschliffen",
+          "role": "GEschliffenes Fenster"
+        },
+        {
+          "image": "/images/Holzfenster2.jpeg",
+          "imageAlt": "Fenster neu",
+          "role": "Saniertes Fenster"
+        },
+        {
+          "image": "/images/Holzfenster.jpeg",
+          "imageAlt": "Fenster neu",
+          "role": "Saniertes Fenster"
+        }
+      ],
+      "_template": "teamGrid"
+    },
+    {
       "title": "Alte Werte bewahren. Neues schaffen.",
       "images": [
         {
-          "src": "/images/Fenster_Restaurierung_Vorher.jpg",
-          "alt": "Fenster geschliffen"
+          "src": "/images/Eingang_Sanierung.jpg",
+          "alt": "Tür"
         },
         {
           "src": "/images/Holzfenster2.jpeg",
@@ -56,8 +76,15 @@
         {
           "src": "/images/Holzfenster.jpeg",
           "alt": "Fenster2"
+        }
+      ],
+      "texts": [
+        {
+          "text": "Ob alte Fenster oder Türen, wir bringen Bestehendes wieder auf Vordermann."
         },
-        {}
+        {
+          "text": "Mit fachgerechter Restaurierung, Sanierung und Aufbereitung verleihen wir alten Oberflächen neuen Glanz und sorgen für ein gepflegtes Erscheinungsbild. "
+        }
       ],
       "_template": "aboutSlider"
     },

@@ -49,7 +49,10 @@
           "src": "/images/Fenster_Restaurierung_Vorher.jpg",
           "alt": "Fenster geschliffen"
         },
-        {},
+        {
+          "src": "/images/Holzfenster2.jpeg",
+          "alt": "Fenster1"
+        },
         {},
         {}
       ],

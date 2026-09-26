@@ -70,6 +70,18 @@
         }
       ],
       "_template": "aboutSlider"
+    },
+    {
+      "label": "",
+      "title": "Menschen, die sauber arbeiten und mitdenken",
+      "description": "Gute Ergebnisse entstehen durch Erfahrung, Sorgfalt und ein Team, das Verantwortung übernimmt. Lernen Sie die Menschen hinter Malerbetrieb Prasch kennen.",
+      "_template": "pageHero"
+    },
+    {
+      "_template": "teamGrid"
+    },
+    {
+      "_template": "teamImage"
     }
   ],
   "media": [

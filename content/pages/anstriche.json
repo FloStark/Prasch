@@ -29,18 +29,6 @@
           "text": "Mit fachgerechter Restaurierung, Sanierung und Aufbereitung verleihen wir alten Oberflächen neuen Glanz und sorgen für ein gepflegtes Erscheinungsbild. "
         }
       ],
-      "values": [
-        {
-          "icon": "fas fa-hammer",
-          "title": "Langlebigkeit",
-          "text": "Hochwertige Lacke für maximale Beanspruchung"
-        },
-        {
-          "icon": "fas fa-wind",
-          "title": "Witterungsbeständig",
-          "text": "Spezialfarben für UV-Schutz und Feuchtigkeitsstopp"
-        }
-      ],
       "_template": "feature"
     },
     {
@@ -92,8 +80,16 @@
         }
       ],
       "values": [
-        {},
-        {}
+        {
+          "icon": "fas fa-hammer",
+          "title": "Langlebigkeit",
+          "text": "Hochwertige Lacke für maximale Beanspruchung"
+        },
+        {
+          "icon": "fas fa-wind",
+          "title": "Witterungsbeständig",
+          "text": "Spezialfarben für UV-Schutz und Feuchtigkeitsstopp"
+        }
       ],
       "_template": "aboutSlider"
     },

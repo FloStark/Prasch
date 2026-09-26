@@ -51,7 +51,12 @@
           "title": "Wohngesunde Innenräume",
           "text": "Mineralische Farben unterstützen ein angenehmes Raumklima und passen gut zu sensiblen Wohnbereichen."
         },
-        {}
+        {
+          "image": "/images/keim-logo.png",
+          "imageAlt": "",
+          "title": "Ökologische Farben von KEIM",
+          "text": "KEIM Mineralfarben stehen für Farbstabilität, Diffusionsfähigkeit und nachhaltige Beschichtungssysteme."
+        }
       ],
       "_template": "cardGrid"
     }

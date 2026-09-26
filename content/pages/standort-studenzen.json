@@ -27,6 +27,9 @@
         },
         {
           "text": "Ob Fassade, Wohnraum oder Holz- und Metallanstrich: Wir wählen Materialien passend zu Untergrund, Nutzung und Witterung aus."
+        },
+        {
+          "text": "Mit unserem Farbmischservice am Standort in Graz können wir Ihren individuellen Wunschfarbton für Sie anmischen und die benötigten Produkte direkt zur Verfügung stellen."
         }
       ],
       "values": [
@@ -44,6 +47,11 @@
           "icon": "fas fa-paint-roller",
           "title": "Anstriche",
           "text": "Neuer Glanz für Fenster, Türe, Holz und Metall."
+        },
+        {
+          "icon": "",
+          "title": "Beratung",
+          "text": "Persönlich & professionell"
         }
       ],
       "_template": "feature"

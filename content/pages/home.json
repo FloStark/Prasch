@@ -25,7 +25,7 @@
       "label": "Malerbetrieb Prasch · Graz & Studenzen",
       "titleLine1": "Mehr als nur",
       "titleAccent": "Farbe.",
-      "description": "Seit über zehn Jahren vertrauen uns Familien und Unternehmen, wenn es um Fassaden, Innenräume und hochwertige Anstriche geht. Wir arbeiten sauber, zuverlässig und mit einem Auge fürs Detail – damit jedes Ergebnis überzeugt.",
+      "description": "Seit über zehn Jahren vertrauen uns Familien und Unternehmen, wenn es um Sanierungen im Altbau, um Fassaden, Innenräume oder hochwertige Anstriche geht. Wir arbeiten sauber, zuverlässig und mit einem Auge fürs Detail – damit jedes Ergebnis überzeugt.",
       "primaryButtonText": "Kostenlos anfragen",
       "primaryButtonUrl": "/#contact",
       "secondaryButtonText": "Unsere Leistungen",
@@ -39,7 +39,7 @@
     {
       "id": "services",
       "variant": "services",
-      "label": "Was wir für Sie tun",
+      "label": "",
       "title": "Unsere Leistungen",
       "description": "Von Außen nach Innen, von der Fassade bis ins Wohnzimmer – wir kümmern uns um jeden Anstrich mit der Sorgfalt und Genauigkeit, die nur ein Handwerksbetrieb bieten kann.",
       "cards": [

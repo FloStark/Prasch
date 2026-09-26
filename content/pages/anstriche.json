@@ -115,7 +115,8 @@
       "_template": "gallery"
     },
     {
-      "title": "Häufige Anstrich-Projekte",
+      "variant": "highlights",
+      "title": "",
       "cards": [
         {
           "title": "Fenster & Türen",

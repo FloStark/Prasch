@@ -168,7 +168,12 @@ export function SiteChrome({ site, design, children }: Props) {
         {
           "--font-body": fontStack(design.bodyFont),
           "--font-heading": fontStack(design.headingFont),
-          "--red": design.primaryColor || "#D42B2B"
+          "--red": design.primaryColor || "#2F8F4E",
+          "--red-dark": "#1F6B3A",
+          "--red-light": "#EAF7EF",
+          "--red-glow": "rgba(47, 143, 78, 0.16)",
+          "--shadow-red": "0 8px 32px -8px rgba(47, 143, 78, 0.25)",
+          "--gradient-red": `linear-gradient(135deg, ${design.primaryColor || "#3CB371"} 0%, #1F6B3A 100%)`
         } as React.CSSProperties
       }
     >

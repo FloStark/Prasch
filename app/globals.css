@@ -92,7 +92,7 @@ textarea,
 }
 
 .team-skills span {
-    border: 1px solid rgba(212,43,43,0.18);
+    border: 1px solid rgba(47,143,78,0.20);
     border-radius: 999px;
     background: var(--red-light);
     color: var(--red-dark);
@@ -114,7 +114,7 @@ textarea,
     border: 1px solid rgba(232,229,224,0.85);
     border-radius: var(--radius-xl);
     background:
-        radial-gradient(circle at 18% 22%, rgba(212,43,43,0.10), transparent 18rem),
+        radial-gradient(circle at 18% 22%, rgba(47,143,78,0.12), transparent 18rem),
         linear-gradient(135deg, rgba(251,248,244,0.95), rgba(255,255,255,0.88));
     box-shadow: var(--shadow-lg);
     padding: clamp(1.5rem, 4vw, 3rem);
@@ -164,7 +164,7 @@ textarea,
     padding: 2rem;
     text-align: center;
     background:
-        linear-gradient(135deg, rgba(212,43,43,0.07), transparent 45%),
+        linear-gradient(135deg, rgba(47,143,78,0.08), transparent 45%),
         repeating-linear-gradient(135deg, rgba(255,255,255,0.55) 0 12px, rgba(245,243,240,0.55) 12px 24px);
 }
 

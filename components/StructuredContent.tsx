@@ -32,7 +32,7 @@ export function StructuredContent({ page, site }: Props) {
 function Header({ site, currentSlug, hasLanding }: { site: any; currentSlug: string; hasLanding: boolean }) {
   const isCurrent = (slug: string) => currentSlug === slug;
   const serviceCurrent = ["fassadengestaltung", "innenmalerei", "anstriche"].includes(currentSlug);
-  const aboutCurrent = ["ueber-uns", "team", "referenzen"].includes(currentSlug);
+  const aboutCurrent = ["ueber-uns", "nachhaltigkeit"].includes(currentSlug);
   const locationCurrent = ["standort-graz", "standort-studenzen"].includes(currentSlug);
 
   return (
@@ -56,11 +56,9 @@ function Header({ site, currentSlug, hasLanding }: { site: any; currentSlug: str
               <button type="button" className={`dropdown-toggle${aboutCurrent ? " current" : ""}`} aria-expanded="false">Über uns <i className="fas fa-chevron-down" aria-hidden="true"></i></button>
               <ul className="dropdown-menu">
                 <li><a href="/ueber-uns" aria-current={isCurrent("ueber-uns") ? "page" : undefined}>Über uns <small>Handwerk, Haltung & Geschichte</small></a></li>
-                <li><a href="/team" aria-current={isCurrent("team") ? "page" : undefined}>Team <small>Menschen hinter der Arbeit</small></a></li>
-                <li><a href="/referenzen" aria-current={isCurrent("referenzen") ? "page" : undefined}>Referenzen <small>Ausgeführte Projekte</small></a></li>
+                <li><a href="/nachhaltigkeit" aria-current={isCurrent("nachhaltigkeit") ? "page" : undefined}>Nachhaltigkeit <small>Ökologische Farben & Entsorgung</small></a></li>
               </ul>
             </li>
-            <li><a href="/nachhaltigkeit" aria-current={isCurrent("nachhaltigkeit") ? "page" : undefined}>Nachhaltigkeit</a></li>
             <li className="nav-dropdown">
               <button type="button" className={`dropdown-toggle${locationCurrent ? " current" : ""}`} aria-expanded="false">Standorte <i className="fas fa-chevron-down" aria-hidden="true"></i></button>
               <ul className="dropdown-menu">
@@ -95,8 +93,6 @@ function Footer({ site }: { site: any }) {
               <li><a href="/innenmalerei">Innenmalerei</a></li>
               <li><a href="/anstriche">Anstriche & Lacke</a></li>
               <li><a href="/ueber-uns">Über uns</a></li>
-              <li><a href="/team">Team</a></li>
-              <li><a href="/referenzen">Referenzen</a></li>
               <li><a href="/nachhaltigkeit">Nachhaltigkeit</a></li>
               <li><a href="/farben-kaufen">Farben-Shop</a></li>
               <li><a href="/standort-graz">Standort Graz</a></li>
@@ -165,7 +161,7 @@ function LandingChoice({ section, site }: { section: any; site: any }) {
           <span className="btn btn-white" data-tina-field={tinaField(section, "leftButton")}>{section.leftButton}</span>
         </div>
       </a>
-      <a className="split right" href="#shop-teaser" aria-label="Zum Bereich Farben und Fachhandel springen">
+      <a className="split right" href="/farben-kaufen" aria-label="Zur Seite Farben-Shop wechseln">
         <div className="split-bg" style={{ backgroundImage: `url('${section.rightImage}')` }} data-tina-field={tinaField(section, "rightImage")}></div>
         <div className="split-content">
           <span className="split-label" data-tina-field={tinaField(section, "rightLabel")}>{section.rightLabel}</span>

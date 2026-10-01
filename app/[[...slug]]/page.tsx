@@ -61,10 +61,15 @@ export default async function Page({ params }: Props) {
   };
 
   const page = getPage(normalized);
+  const pageData = {
+    ...page,
+    bodyHtml: page.sections?.length ? "" : page.bodyHtml,
+    media: page.media?.map((item) => ({ __typename: "PageMedia", ...item }))
+  };
   const site = getSiteSettings();
   const design = getDesignSettings();
   const data = {
-    page: withDocumentMeta({ ...page, media: page.media?.map((item) => ({ __typename: "PageMedia", ...item })) }, "page", variables.relativePath),
+    page: withDocumentMeta(pageData, "page", variables.relativePath),
     siteSettings: withDocumentMeta(site, "siteSettings", variables.siteRelativePath),
     designSettings: withDocumentMeta(design, "designSettings", variables.designRelativePath)
   };

@@ -47,8 +47,6 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          # Bei Next.js mit output: 'export' ist es ./out/, bei Astro ./dist/
           local-dir: ./out/
-          # Dein exakter Pfad auf dem Netcup Webhosting:
           server-dir: /maler-prasch.at/httpdocs/
           dangerous-clean-slate: false

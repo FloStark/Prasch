@@ -42,7 +42,7 @@ jobs:
 
       # 5. Gebaute Dateien auf Netcup hochladen
       - name: Deploy to Netcup Webhosting
-        uses: SamKirsch/ftp-deploy-action@v4.3.5
+        uses: SamKirkland/ftp-deploy-action@latest
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}

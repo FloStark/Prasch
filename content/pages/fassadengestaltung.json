@@ -4,7 +4,7 @@
   "description": "Professionelle Fassadensanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung und werten es optisch auf. Jetzt meisterhaftes Angebot einholen!",
   "keywords": "Fassaden Graz, Fassadensanierung Graz, Putzarbeiten Graz, Außenanstrich Graz, Maler Graz, Gebäudeerneuerung Graz",
   "robots": "index, follow",
-  "canonical": "https://maler-prasch.at/fassadengestaltung",
+  "canonical": "https://maler-prasch.at/fassadengestaltung/",
   "ogTitle": "Fassadengestaltung & Sanierung Graz | Malerbetrieb Prasch",
   "ogDescription": "Professionelle Fassaden Sanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung.",
   "ogImage": "https://maler-prasch.at/images/Fassade.jpg",
@@ -205,6 +205,6 @@
   ],
   "schemaJson": [
     "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Fassadensanierung & Gestaltung\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://maler-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Professionelle Fassadensanierung und Gestaltung in Graz. Wir schützen Ihr Gebäude nachhaltig gegen Witterung und werten es optisch auf.\"\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Fassadengestaltung\",\n        \"item\": \"https://maler-prasch.at/fassadengestaltung\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Fassadengestaltung\",\n        \"item\": \"https://maler-prasch.at/fassadengestaltung/\"\n      }]\n    }"
   ]
 }

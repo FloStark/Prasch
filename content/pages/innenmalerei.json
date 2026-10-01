@@ -4,7 +4,7 @@
   "description": "Gestalten Sie Ihre Innenräume neu. Professionelle Malerarbeiten und kreative Wandgestaltung in Graz. Wohngesunde Farben, Wischtechniken und moderne Akzente.",
   "keywords": "Maler Graz Innenraum, Wandgestaltung Graz, Wohnzimmer streichen Graz, Tapeten Graz, Mineralfarben Graz",
   "robots": "index, follow",
-  "canonical": "https://maler-prasch.at/innenmalerei",
+  "canonical": "https://maler-prasch.at/innenmalerei/",
   "ogTitle": "Kreative Innenmalerei & Wandgestaltung Graz | Malerbetrieb Prasch",
   "ogDescription": "Gestalten Sie Ihre Innenräume neu. Professionelle Malerarbeiten und kreative Wandgestaltung in Graz.",
   "ogImage": "https://maler-prasch.at/Assets/image/logo.png",
@@ -198,6 +198,6 @@
   ],
   "schemaJson": [
     "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Kreative Innenmalerei & Wandgestaltung\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://maler-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Gestalten Sie Ihre Innenräume neu. Professionelle Malerarbeiten und kreative Wandgestaltung in Graz. Wohngesunde Farben und moderne Akzente.\"\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Innenmalerei\",\n        \"item\": \"https://maler-prasch.at/innenmalerei\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Innenmalerei\",\n        \"item\": \"https://maler-prasch.at/innenmalerei/\"\n      }]\n    }"
   ]
 }

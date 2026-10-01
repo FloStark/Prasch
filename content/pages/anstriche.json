@@ -4,7 +4,7 @@
   "description": "Professionelle Lackierarbeiten und Anstriche in Graz. Fenster, Türen, Heizkörper und Holzelemente – wir schützen Oberflächen mit langlebigen Qualitätslacken.",
   "keywords": "Lackierer Graz, Türen streichen Graz, Fenster sanieren Graz, Holzschutz Graz, Metalllackierung Steiermark, Lackierer Südoststeiermark, Türen streichen Südoststeiermark, Fenster sanieren Südoststeiermark, Holzschutz Südoststeiermark",
   "robots": "index, follow",
-  "canonical": "https://maler-prasch.at/anstriche",
+  "canonical": "https://maler-prasch.at/anstriche/",
   "ogTitle": "Lackierarbeiten & Anstriche Graz | Malerbetrieb Prasch",
   "ogDescription": "Professionelle Lackierarbeiten und Anstriche. Fenster, Türen und Holzelemente.",
   "ogImage": "https://maler-prasch.at/images/Fenster_Restaurierung_Nachher.jpg",
@@ -228,6 +228,6 @@
   ],
   "schemaJson": [
     "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Lackierarbeiten & Spezialanstriche\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://maler-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Professionelle Lackierarbeiten und Anstriche in Graz. Fenster, Türen, Heizkörper und Holzelemente – wir schützen Oberflächen mit langlebigen Qualitätslacken.\"\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Anstriche\",\n        \"item\": \"https://maler-prasch.at/anstriche\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Anstriche\",\n        \"item\": \"https://maler-prasch.at/anstriche/\"\n      }]\n    }"
   ]
 }

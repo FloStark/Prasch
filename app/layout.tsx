@@ -2,7 +2,25 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://malerbetrieb-prasch.at")
+  metadataBase: new URL("https://maler-prasch.at"),
+  title: {
+    default: "Malerbetrieb Prasch Graz | Malermeister & Farben-Shop",
+    template: "%s | Malerbetrieb Prasch"
+  },
+  description: "Malerbetrieb Prasch in Graz: Fassadengestaltung, Innenmalerei, Anstriche und Profi-Farben im Farben-Shop.",
+  applicationName: "Malerbetrieb Prasch",
+  authors: [{ name: "Malerbetrieb Prasch" }],
+  creator: "Malerbetrieb Prasch",
+  publisher: "Malerbetrieb Prasch",
+  robots: { index: true, follow: true },
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    locale: "de_AT",
+    siteName: "Malerbetrieb Prasch",
+    title: "Malerbetrieb Prasch Graz | Malermeister & Farben-Shop",
+    description: "Fassadengestaltung, Innenmalerei, Anstriche und Profi-Farben in Graz."
+  }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

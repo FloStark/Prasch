@@ -4,10 +4,10 @@
   "description": "Malerbetrieb Prasch Standort Studenzen: Ihr Malermeister für Fassaden, Innenmalerei und Anstriche in Studenzen und der Südoststeiermark.",
   "keywords": "Maler Studenzen, Malerbetrieb Studenzen, Maler Südoststeiermark, Fassaden Studenzen, Innenmalerei Studenzen, Anstriche Studenzen, Maler Südoststeiermark, Anstriche Südoststeiermark, Malerbetrieb Südoststeiermark, Fassaden Südoststeiermark",
   "robots": "index, follow",
-  "canonical": "https://malerbetrieb-prasch.at/standort-studenzen.html",
+  "canonical": "https://maler-prasch.at/standort-studenzen",
   "ogTitle": "Malerbetrieb Studenzen | Malerbetrieb Prasch Südoststeiermark",
   "ogDescription": "Malerarbeiten in Studenzen und der Südoststeiermark: Fassaden, Innenmalerei und Anstriche vom Fachbetrieb.",
-  "ogImage": "https://malerbetrieb-prasch.at/images/Maler.jpg",
+  "ogImage": "https://maler-prasch.at/images/Maler.jpg",
   "bodyHtml": "",
   "sections": [
     {
@@ -88,7 +88,7 @@
     }
   ],
   "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Studenzen\",\n      \"image\": \"https://malerbetrieb-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"url\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"addressLocality\": \"Studenzen\",\n        \"addressRegion\": \"Steiermark\",\n        \"addressCountry\": \"AT\"\n      },\n      \"areaServed\": [{\n        \"@type\": \"Place\",\n        \"name\": \"Studenzen\"\n      },{\n        \"@type\": \"AdministrativeArea\",\n        \"name\": \"Südoststeiermark\"\n      }]\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Studenzen\",\n        \"item\": \"https://malerbetrieb-prasch.at/standort-studenzen.html\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"LocalBusiness\",\n      \"name\": \"Malerbetrieb Prasch - Standort Studenzen\",\n      \"image\": \"https://maler-prasch.at/Assets/image/logo.png\",\n      \"@id\": \"https://maler-prasch.at/standort-studenzen\",\n      \"url\": \"https://maler-prasch.at/standort-studenzen\",\n      \"telephone\": \"+436641186505\",\n      \"priceRange\": \"€€\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"addressLocality\": \"Studenzen\",\n        \"addressRegion\": \"Steiermark\",\n        \"addressCountry\": \"AT\"\n      },\n      \"areaServed\": [{\n        \"@type\": \"Place\",\n        \"name\": \"Studenzen\"\n      },{\n        \"@type\": \"AdministrativeArea\",\n        \"name\": \"Südoststeiermark\"\n      }]\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Standort Studenzen\",\n        \"item\": \"https://maler-prasch.at/standort-studenzen\"\n      }]\n    }"
   ]
 }

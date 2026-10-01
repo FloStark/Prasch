@@ -4,13 +4,13 @@
   "description": "",
   "keywords": "",
   "robots": "noindex, follow",
-  "canonical": "https://malerbetrieb-prasch.at/impressum.html",
+  "canonical": "https://maler-prasch.at/impressum",
   "ogTitle": "",
   "ogDescription": "",
   "ogImage": "",
   "bodyHtml": "",
   "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Impressum\",\n        \"item\": \"https://malerbetrieb-prasch.at/impressum.html\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Impressum\",\n        \"item\": \"https://maler-prasch.at/impressum\"\n      }]\n    }"
   ],
   "media": [
     {

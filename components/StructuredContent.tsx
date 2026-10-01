@@ -263,6 +263,7 @@ function AboutSlider({ section }: { section: any }) {
               <strong data-tina-field={tinaField(section, "cardTitle")}>{section.cardTitle}</strong>
             </div>
             <button className="about-slider-next" type="button" aria-label="Nächstes Bild anzeigen">
+              <span>Weiter</span>
               <i className="fas fa-arrow-right" aria-hidden="true"></i>
             </button>
             <div className="about-slider-progress" aria-hidden="true"><span></span></div>

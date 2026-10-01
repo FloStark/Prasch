@@ -4,7 +4,7 @@
   "description": "",
   "keywords": "",
   "robots": "noindex, follow",
-  "canonical": "https://malerbetrieb-prasch.at/datenschutz.html",
+  "canonical": "https://maler-prasch.at/datenschutz",
   "ogTitle": "",
   "ogDescription": "",
   "ogImage": "",
@@ -49,6 +49,6 @@
     }
   ],
   "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Datenschutz\",\n        \"item\": \"https://malerbetrieb-prasch.at/datenschutz.html\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Datenschutz\",\n        \"item\": \"https://maler-prasch.at/datenschutz\"\n      }]\n    }"
   ]
 }

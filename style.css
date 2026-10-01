@@ -1057,6 +1057,10 @@ nav {
     min-width: 280px;
 }
 
+.cross-sell-highlight .btn {
+    margin: 0.35rem;
+}
+
 .cross-sell-highlight h3 {
     color: white;
     font-size: 1.2rem;
@@ -2681,25 +2685,46 @@ header.visible .container {
 
 .about-slider-next {
     position: absolute;
-    top: 1.25rem;
-    right: 1.25rem;
+    right: 1.4rem;
+    bottom: 4.9rem;
     z-index: 3;
-    width: 46px;
-    height: 46px;
-    border: 1px solid rgba(255,255,255,0.72);
-    border-radius: 50%;
-    background: rgba(255,255,255,0.9);
-    color: var(--red);
-    box-shadow: var(--shadow-md);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
+    min-height: 38px;
+    padding: 0.55rem 0.85rem 0.55rem 1rem;
+    border: 1px solid rgba(255,255,255,0.65);
+    border-radius: 999px;
+    background: rgba(20, 30, 24, 0.52);
+    color: var(--white);
+    box-shadow: 0 10px 26px rgba(0,0,0,0.16);
+    backdrop-filter: blur(12px);
     cursor: pointer;
     transition: var(--transition-fast);
+}
+
+.about-slider-next span {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.about-slider-next i {
+    font-size: 0.78rem;
+    transition: transform 0.2s ease;
 }
 
 .about-slider-next:hover,
 .about-slider-next:focus-visible {
     background: var(--red);
     color: var(--white);
-    transform: translateX(2px);
+    transform: translateY(-2px);
+}
+
+.about-slider-next:hover i,
+.about-slider-next:focus-visible i {
+    transform: translateX(3px);
 }
 
 .about-slider-progress {

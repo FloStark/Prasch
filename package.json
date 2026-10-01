@@ -12,12 +12,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tinacms/cli": "latest",
-    "@tinacms/mdx": "latest",
+    "@tinacms/cli": "^4.0.0",
+    "@tinacms/mdx": "^2.3.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "tinacms": "latest"
+    "slate": "^0.126.2",
+    "slate-dom": "^0.126.0",
+    "slate-react": "^0.127.1",
+    "tinacms": "^3.14.2"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "latest",

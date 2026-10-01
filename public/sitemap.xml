@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://malerbetrieb-prasch.at/</loc>
+        <loc>https://maler-prasch.at/</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://malerbetrieb-prasch.at/fassadengestaltung.html</loc>
+        <loc>https://maler-prasch.at/fassadengestaltung</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://malerbetrieb-prasch.at/innenmalerei.html</loc>
+        <loc>https://maler-prasch.at/innenmalerei</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://malerbetrieb-prasch.at/anstriche.html</loc>
+        <loc>https://maler-prasch.at/anstriche</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://malerbetrieb-prasch.at/farben-kaufen.html</loc>
-        <lastmod>2026-07-30</lastmod>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://malerbetrieb-prasch.at/ueber-uns</loc>
-        <lastmod>2026-09-21</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://malerbetrieb-prasch.at/nachhaltigkeit</loc>
-        <lastmod>2026-09-21</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://malerbetrieb-prasch.at/standort-graz.html</loc>
+        <loc>https://maler-prasch.at/farben-kaufen</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://malerbetrieb-prasch.at/standort-studenzen.html</loc>
+        <loc>https://maler-prasch.at/ueber-uns</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://maler-prasch.at/nachhaltigkeit</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://maler-prasch.at/standort-graz</loc>
+        <lastmod>2026-07-30</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://maler-prasch.at/standort-studenzen</loc>
         <lastmod>2026-07-30</lastmod>
         <priority>0.9</priority>
     </url>

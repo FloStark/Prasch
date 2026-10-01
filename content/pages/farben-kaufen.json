@@ -4,10 +4,10 @@
   "description": "Kaufen Sie hochwertige Profi-Farben und Lacke direkt in Graz. Besuchen Sie unser Fachgeschäft in der Schörgelgasse 7 für meisterhafte Beratung und individuellen Farbmischservice.",
   "keywords": "Farben kaufen Graz, Malereibedarf Graz, Wandfarbe Graz, Lacke Graz, Farbmischservice Graz, Malergeschäft Graz, Schörgelgasse 7",
   "robots": "index, follow",
-  "canonical": "https://malerbetrieb-prasch.at/farben-kaufen.html",
+  "canonical": "https://maler-prasch.at/farben-kaufen",
   "ogTitle": "Profi Farben & Lacke kaufen Graz | Malerbetrieb Prasch",
   "ogDescription": "Hochwertige Profi-Farben und Lacke direkt in Graz kaufen. Besuchen Sie unser Geschäft in der Schörgelgasse.",
-  "ogImage": "https://malerbetrieb-prasch.at/Assets/image/logo.png",
+  "ogImage": "https://maler-prasch.at/Assets/image/logo.png",
   "bodyHtml": "",
   "sections": [
     {
@@ -204,7 +204,7 @@
     }
   ],
   "schemaJson": [
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Farben-Shop & Fachhandel Graz\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://malerbetrieb-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Kaufen Sie hochwertige Profi-Farben und Lacke direkt in Graz. Besuchen Sie unser Fachgeschäft für meisterhafte Beratung und Farbmischservice.\"\n    }",
-    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://malerbetrieb-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Farben-Shop\",\n        \"item\": \"https://malerbetrieb-prasch.at/farben-kaufen.html\"\n      }]\n    }"
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"Service\",\n      \"name\": \"Farben-Shop & Fachhandel Graz\",\n      \"provider\": {\n        \"@type\": \"LocalBusiness\",\n        \"name\": \"Malerbetrieb Prasch\",\n        \"@id\": \"https://maler-prasch.at\"\n      },\n      \"areaServed\": { \"@type\": \"City\", \"name\": \"Graz\" },\n      \"description\": \"Kaufen Sie hochwertige Profi-Farben und Lacke direkt in Graz. Besuchen Sie unser Fachgeschäft für meisterhafte Beratung und Farbmischservice.\"\n    }",
+    "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [{\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"Home\",\n        \"item\": \"https://maler-prasch.at/\"\n      },{\n        \"@type\": \"ListItem\",\n        \"position\": 2,\n        \"name\": \"Farben-Shop\",\n        \"item\": \"https://maler-prasch.at/farben-kaufen\"\n      }]\n    }"
   ]
 }

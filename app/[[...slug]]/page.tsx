@@ -13,9 +13,9 @@ function normalizeSlug(slug?: string[]) {
 }
 
 export function generateStaticParams() {
-  return pageSlugs.flatMap((slug) => {
-    if (slug === "home") return [{ slug: [] }];
-    return [{ slug: [slug] }, { slug: [`${slug}.html`] }];
+  return pageSlugs.map((slug) => {
+    if (slug === "home") return { slug: [] };
+    return { slug: [slug] };
   });
 }
 

@@ -28,5 +28,6 @@ __pycache__/
 dist/
 build/
 .next/
+out/
 public/admin/
 tina/__generated__/

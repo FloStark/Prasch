@@ -1,6 +1,7 @@
 /** @type {import('next').NextPolicy} */
 const nextConfig = {
   output: 'export', // <-- DIESE ZEILE HINZUFÜGEN
+  trailingSlash: true,
   
   // Falls du Images (<Image />) von Next nutzt, musst du sie für den statischen Export unoptimiert lassen:
   images: {

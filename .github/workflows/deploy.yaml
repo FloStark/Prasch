@@ -31,14 +31,28 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      - name: Validate TinaCMS environment
+        env:
+          NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets[format('TINA_CLIENT_ID_{0}', matrix.tenant)] || secrets.NEXT_PUBLIC_TINA_CLIENT_ID || secrets.TINA_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets[format('TINA_TOKEN_{0}', matrix.tenant)] || secrets.TINA_TOKEN }}
+        run: |
+          test -n "$NEXT_PUBLIC_TINA_CLIENT_ID" || (printf '%s\n' 'Missing TinaCMS client ID secret. Add NEXT_PUBLIC_TINA_CLIENT_ID or TINA_CLIENT_ID in GitHub repository secrets.' && exit 1)
+          test -n "$TINA_TOKEN" || (printf '%s\n' 'Missing TinaCMS token secret. Add TINA_TOKEN in GitHub repository secrets.' && exit 1)
+
       # 4. Statischen Build ausführen (Next.js / Astro / Vite)
       - name: Build Site for ${{ matrix.tenant }}
         env:
           TENANT_ID: ${{ matrix.tenant }}
           NEXT_PUBLIC_TINA_BRANCH: 'main'
-          NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets[format('TINA_CLIENT_ID_{0}', matrix.tenant)] }}
-          TINA_TOKEN: ${{ secrets[format('TINA_TOKEN_{0}', matrix.tenant)] }}
+          NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets[format('TINA_CLIENT_ID_{0}', matrix.tenant)] || secrets.NEXT_PUBLIC_TINA_CLIENT_ID || secrets.TINA_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets[format('TINA_TOKEN_{0}', matrix.tenant)] || secrets.TINA_TOKEN }}
         run: npm run build
+
+      - name: Validate TinaCMS admin build
+        run: |
+          test -f out/admin/index.html || (printf '%s\n' 'Missing out/admin/index.html after build.' && exit 1)
+          test -d out/admin/assets || (printf '%s\n' 'Missing out/admin/assets after build.' && exit 1)
+          ! grep -R "content//github" out/admin/assets || (printf '%s\n' 'TinaCMS admin was built without a client ID.' && exit 1)
 
       # 5. Gebaute Dateien auf Netcup hochladen
       - name: Deploy to Netcup Webhosting

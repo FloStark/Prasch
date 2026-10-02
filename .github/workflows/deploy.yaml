@@ -46,7 +46,7 @@ jobs:
           NEXT_PUBLIC_TINA_BRANCH: 'main'
           NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets[format('TINA_CLIENT_ID_{0}', matrix.tenant)] || secrets.TINA_CLIENT_ID_MALER_PRASCH || secrets.NEXT_PUBLIC_TINA_CLIENT_ID || secrets.TINA_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets[format('TINA_TOKEN_{0}', matrix.tenant)] || secrets.TINA_TOKEN_MALER_PRASCH || secrets.TINA_TOKEN }}
-        run: npm run build
+        run: npm run build:cloud
 
       - name: Validate TinaCMS admin build
         run: |

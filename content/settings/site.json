@@ -4,7 +4,7 @@
   "siteName": "Malerbetrieb Prasch",
   "baseUrl": "https://maler-prasch.at",
   "logo": "/images/LOGO.png",
-  "favicon": "/favicon.svg",
+  "favicon": "/images/pinsel.ico",
   "logoAlt": "Malerbetrieb Prasch Logo",
   "phone": "+43 664 11 86 505",
   "phoneHref": "tel:06641186505",

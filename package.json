@@ -9,7 +9,7 @@
     "dev": "tinacms dev -c \"next dev\"",
     "dev:cloud": "tinacms dev -c \"next dev\"",
     "build": "tinacms build --local --skip-cloud-checks && next build && node scripts/copy-html-routes.mjs",
-    "build:cloud": "tinacms build && next build && node scripts/copy-html-routes.mjs",
+    "build:cloud": "tinacms build --skip-cloud-checks && next build && node scripts/copy-html-routes.mjs",
     "start": "next start",
     "preview": "next start",
     "lint": "next lint"

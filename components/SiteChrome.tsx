@@ -16,6 +16,9 @@ export function SiteChrome({ site, design, children }: Props) {
     const isTinaPreview = window.self !== window.top || window.location.search.includes("tina");
     document.documentElement.classList.toggle("tina-edit-mode", isTinaPreview);
 
+    const favicon = document.querySelector('link[rel="icon"]');
+    if (favicon && site.favicon) favicon.setAttribute("href", site.favicon);
+
     document.querySelectorAll("[data-current-year]").forEach((el) => {
       el.textContent = String(new Date().getFullYear());
     });
@@ -178,6 +181,16 @@ export function SiteChrome({ site, design, children }: Props) {
       }
     >
       {children}
+      <div className="cookie-banner" role="dialog" aria-labelledby="cookie-title" aria-describedby="cookie-desc">
+        <div className="cookie-content">
+          <h4 id="cookie-title">Datenschutzeinstellungen</h4>
+          <p id="cookie-desc">Die Karte wird erst nach Ihrer Zustimmung zu Google Maps geladen. Ihre Auswahl wird nur lokal in diesem Browser gespeichert.</p>
+          <div className="cookie-actions">
+            <button id="acceptCookies" className="btn btn-primary" type="button">Akzeptieren</button>
+            <a href="/datenschutz/" className="btn btn-outline">Datenschutz</a>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

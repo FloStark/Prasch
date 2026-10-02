@@ -31,6 +31,7 @@ export type SiteSettings = {
   siteName: string;
   baseUrl: string;
   logo: string;
+  favicon?: string;
   logoAlt: string;
   phone: string;
   phoneHref: string;

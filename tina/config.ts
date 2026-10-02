@@ -430,6 +430,7 @@ export default defineConfig({
           { type: "string", name: "siteName", label: "Website-Name" },
           { type: "string", name: "baseUrl", label: "Basis-URL" },
           { type: "image", name: "logo", label: "Logo" },
+          { type: "image", name: "favicon", label: "Favicon (SVG oder PNG)" },
           { type: "string", name: "logoAlt", label: "Logo Alt-Text" },
           { type: "string", name: "phone", label: "Telefon" },
           { type: "string", name: "phoneHref", label: "Telefon-Link" },
